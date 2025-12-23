@@ -13,7 +13,7 @@ model Location {
   category  String
   name      String
   address   String
-  lat       Float
-  lng       Float
+  lat       Float?
+  lng       Float?
   createdAt DateTime @default(now())
 }
