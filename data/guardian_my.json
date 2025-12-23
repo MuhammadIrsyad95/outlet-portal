@@ -1,0 +1,4586 @@
+[
+  {
+    "chain": "Guardian",
+    "store_name": "PENANG PLAZA",
+    "address": "GROUND FLOOR,PENANG PLAZA,126 JLN BURMAH, Pulau Pinang",
+    "postcode": "10050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.165979+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KOMPLEKS PKNS SHAH ALAM",
+    "address": "GROUND FLOOR,KOMPLEKS PKNS, Selangor",
+    "postcode": "40000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.172308+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN TUN DR ISMAIL",
+    "address": "4 JALAN TUN MOHD FUAD DUA,TAMAN TUN DR ISMAIL, Wil. Persekutuan",
+    "postcode": "60000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.182740+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KEPONG",
+    "address": "21 JALAN 54,DESA JAYA, Wil. Persekutuan",
+    "postcode": "52100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.191302+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN AEON MALL TAMAN MALURI",
+    "address": "Lot T15, Third Floor, AEON Mall Taman Maluri, Jalan Jejaka, Maluri, Wil. Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.197963+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANGSAR SHOPPING CENTRE",
+    "address": "Lot F10, Bangsar Shopping Centre, 285, Jalan Maarof, Taman Bukit Bandaraya, Wil. Persekutuan",
+    "postcode": "59000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.203256+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PLAZA PELANGI",
+    "address": "GROUND FLOOR, PLAZA PELANGI,2, JALAN KUNING,TAMAN PELANGI, Johor",
+    "postcode": "80400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.209016+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON MELAKA",
+    "address": "LOT F19, 1ST FLOOR,JUSCO MELAKA SHOPPING CENTRE,LEBOH AYER KEROH, Melaka",
+    "postcode": "75450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.214900+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON WANGSA MAJU",
+    "address": "LOT F04, ALPHA ANGLE,JLN R1, SEKSYEN 1,BANDAR BARU WANGSA MAJU, Wil. Persekutuan",
+    "postcode": "53300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.219650+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN SULTAN",
+    "address": "123, JALAN SULTAN, Wil. Persekutuan",
+    "postcode": "50000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.225021+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "MAHKOTA PARADE",
+    "address": "G8, MAHKOTA PARADE,JALAN TAMAN, Melaka",
+    "postcode": "75000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.230862+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SS2,PJ",
+    "address": "NO19, JALAN SS2/64,, Selangor",
+    "postcode": "47300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.235897+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "IPOH PARADE",
+    "address": "G39A, IPOH PARADE,105, JALAN SULTAN ABDUL JALIL,GREENTOWN, Perak",
+    "postcode": "30450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.240754+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KELANA JAYA",
+    "address": "NO. 14, JALAN SS6/3,KELANA JAYA, Selangor",
+    "postcode": "47301",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.247858+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "CHERAS LEISURE MALL",
+    "address": "LOT LG 8&9, CHERAS LEISURE MALL,JALAN MANIS DUA,TAMAN SEGAR, CHERAS, Wil. Persekutuan",
+    "postcode": "56100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.253256+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAIPAN USJ",
+    "address": "14, JALAN USJ 10/1, Selangor",
+    "postcode": "47600",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.258708+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "1 UTAMA SHOPPING CENTRE",
+    "address": "LOT G143A,GF,1UTAMA SHOPPING CENTRE,NO. 1, LEBUH BANDAR UTAMA,BANDAR UTAMA, Selangor",
+    "postcode": "47800",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.264299+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SPECTRUM SHOPPING MALL",
+    "address": "LOT G03, GF, SPECTRUM SHOPPING MALL,JALAN WAWASAN AMPANG 4/2,BANDAR BARU AMPANG, Selangor",
+    "postcode": "68000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.269333+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SELAYANG MALL",
+    "address": "LG20-23,LG,SELAYANG MALL,JALAN SU 9,TAMAN SELAYANG UTAMA, Selangor",
+    "postcode": "68100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.273621+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON BUKIT RAJA",
+    "address": "F45&F46,1ST FLR,BKT RAJA SHOPNG CTR,PERSIARAN BUKIT RAJA 2,BANDAR BARU, KLANG, Selangor",
+    "postcode": "41150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.278306+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SEREMBAN TERMINAL 1",
+    "address": "LOT 1 TERMINAL 1 SHOPPING PLAZA,20-B JALAN LINTANG, Negeri Sembilan",
+    "postcode": "70000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.282899+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Angsana Mall Ipoh",
+    "address": "LOT G1 & G2, GROUND FLOOR,GREENTOWN SHOPPING MALL,JALAN HOSPITAL, Perak",
+    "postcode": "30450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.287463+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "IOI MALL PUCHONG",
+    "address": "G31 & G32, GROUND FLOOR,IOI MALL, BANDAR PUCHONG JAYA,PUCHONG, Selangor",
+    "postcode": "47100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.292421+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PLAZA METRO KAJANG",
+    "address": "LOT LG19-21, LOWER GROUND FLOOR,PLAZA METRO KAJANG, SECTION 7,JALAN TUN ABDUL AZIZ, Selangor",
+    "postcode": "43000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.298598+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT ULU KELANG",
+    "address": "LOT SG08&SG10,GIANT HYPERMARKET,LOT NO 13793 & 13796 JALAN CHANGKAT,TAMAN PERMATA, Wil. Persekutuan",
+    "postcode": "53300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.303593+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "CENTRAL SQUARE SG PETANI",
+    "address": "G35-G37, GROUND FLOOR,CENTRAL SQUARE,23, JALAN KG. BARU, Kedah",
+    "postcode": "8000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.309243+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "THE MINES SHOPPING FAIR",
+    "address": "LOT 1.30&1.36,THE MINES SHOPPING,JLN DULANG,THE MINES RESORT CITY, Selangor",
+    "postcode": "43300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.315110+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SUNWAY PYRAMID",
+    "address": "LG 2.06 Sunway Pyramid,,No 3, Jalan PJS 11/15, Bandar Sunway,,Subang Jaya, Selangor",
+    "postcode": "46150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.319852+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KLIA SEPANG",
+    "address": "SAT C03,SATELLITE BUILDING,KLIA, Selangor",
+    "postcode": "43900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.324383+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SURIA KLCC",
+    "address": "LOT C21B CONCOURSE AREA,SURIA KLCC,KUALA LUMPUR CITY CENTRE, Wil. Persekutuan",
+    "postcode": "50088",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.330474+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SHAH ALAM MALL",
+    "address": "LG6,LOWER GR FLR,SHAH ALAM MALL,2 JLN TENGKU AMPUAN ZABEDAH E9/E,SEKSYEN 9, Selangor",
+    "postcode": "40100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.336341+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AMPANG POINT",
+    "address": "G07, GROUND FLOOR,AMPANG POINT SHOPPING CENTRE,JALAN MAMANDA 3, Selangor",
+    "postcode": "68000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.341212+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT PLENTONG, JB",
+    "address": "LOT B8-13, GIANT HYPERMARKET,JALAN MASAI LAMA,MUKIM PLENTONG, Johor",
+    "postcode": "81750",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.345998+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SECTION 14, PJ",
+    "address": "NO. 6B-1, JALAN 14/20,SECTION 14, Selangor",
+    "postcode": "46100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.351054+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANGI UTAMA SHOPPING CENTRE",
+    "address": "L20,GF BANGI UTAMA SHOPPING COMPLEX,NO. 1, JALAN MEDAN BANGI,OFF PERSIARAN KEMAJUAN, SEKSYEN 6, Selangor",
+    "postcode": "43650",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.355577+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "DESA SRI HARTAMAS",
+    "address": "8 & 10, GROUND FLOOR,JALAN 24/70A,DESA SRI HARTAMAS, Wil. Persekutuan",
+    "postcode": "50480",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.360934+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SECTION 8, PJ",
+    "address": "LOT NO.15, GROUND FLOOR,JALAN 8/1E, Selangor",
+    "postcode": "46050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.366401+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SEA PARK",
+    "address": "41, JALAN 21/17,SEA PARK, Selangor",
+    "postcode": "46300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.370974+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN DANAU DESA",
+    "address": "7-0-10, JALAN 3/109F,TAMAN DANAU DESA, Wil. Persekutuan",
+    "postcode": "58100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.376050+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PLAZA WAWASAN KOTA KINABALU",
+    "address": "NO 2-1-15B, LEVEL 1, GROUND FLOOR,PLAZA WAWASAN,LORONG PLAZA WAWASAN, Sabah",
+    "postcode": "88000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.383503+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT SENAWANG",
+    "address": "LOT NO B12-B14, GROUND FLOOR,GIANT HYPERMARKET SENAWANG,LOT 1571,JLN SENAWANG, MUKIM AMPANGAN, Negeri Sembilan",
+    "postcode": "70450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.389000+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KL SENTRAL",
+    "address": "LOT 1 & 2, LEVEL 1,KL SENTRAL TRAIN STATION, Wil. Persekutuan",
+    "postcode": "50470",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.394654+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KOMPLEKS BUKIT JAMBUL",
+    "address": "3A-G-22B, KOMPLEKS BUKIT JAMBUL,JALAN RUMBIA, Pulau Pinang",
+    "postcode": "11900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.400750+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN BUKIT BINTANG",
+    "address": "LOT NO 89 & 91,JALAN BUKIT BINTANG, Wil. Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.405699+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GURNEY PLAZA",
+    "address": "NO. 170-B1-39, PLAZA GURNEY,PERSIARAN GURNEY, Johor",
+    "postcode": "80250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.410963+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT STADIUM SHAH ALAM",
+    "address": "LOT NO. B10, B11 & B12,GIANT HYPERMARKET STADIUM SHAH ALAM,LOT 2, PERSIARAN SUKAN, SECTION 13, Selangor",
+    "postcode": "40100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.415871+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT LEISURE MALL JOHOR",
+    "address": "GROUND FLOOR, PELANGI LEISURE MALL,NO. 148, JALAN SERAMPANG,TAMAN PELANGI, Johor",
+    "postcode": "80400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.421102+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "IOI MALL, KULAI",
+    "address": "NO G-31/32/65/66 GROUND FLOOR,IOI MALL,LEBUH BANDAR UTAMA,BANDAR PUTRA, Johor",
+    "postcode": "81000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.426296+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PLAZA ANGSANA",
+    "address": "LOT NO. L1.35, LEVEL 1,BANGUNAN PLAZA ANGSANA,PUSAT BANDAR TAMPOI, Johor",
+    "postcode": "81200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.450558+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "LUCKY GARDEN, BANGSAR",
+    "address": "LOT NO. 42, GROUND FLOOR,PERSIARAN ARA KIRI,LUCKY GARDEN, BANGSAR, Wil. Persekutuan",
+    "postcode": "59100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.459995+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT TAMPOI, JB",
+    "address": "LOT A7, GIANT HYPERMARKET TAMPOI,LOT 54, JALAN SKUDAI,TAMPOI, Johor",
+    "postcode": "81200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.476841+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON TAMAN UNIVERSITY",
+    "address": "UG01, UPPER GROUND FLOOR,TAMAN UNIVERSITY SHOPPING CENTRE,JLN PENDIDIKAN 1, TAMAN UNIVERSITY, Johor",
+    "postcode": "81300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.485620+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "MID POINT PANDAN INDAH",
+    "address": "G15A, GROUND FLOOR,MID POINT SHOPPING CENTRE,JLN PANDAN INDAH, 1/25 PANDAN INDAH, Wil. Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.492312+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PANDAN PERDANA, CHERAS",
+    "address": "NO. 1, JALAN PANDAN PERDANA 4/5,PANDAN PERDANA, Wil. Persekutuan",
+    "postcode": "55300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.498674+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GREAT EASTERN MALL",
+    "address": "LOT 3B, LOWER GROUND FLOOR,GREAT EASTERN MALL,NO. 303, JALAN AMPANG, Wil. Persekutuan",
+    "postcode": "50450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.503783+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "DESA AMAN PURI, KEPONG",
+    "address": "NO. 2-28A, GROUND FLOOR,JALAN DESA 1/1,DESA AMAN PURI, Wil. Persekutuan",
+    "postcode": "52100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.508498+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SRI DAMANSARA",
+    "address": "NO. 13, JALAN TANJUNG SD 13/1,BANDAR SRI DAMANSARA, Wil. Persekutuan",
+    "postcode": "52200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.514090+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JLN BURHANUDDIN HELMI,TMN TUN",
+    "address": "NO. 134, GROUND FLOOR,JALAN BURHANUDDIN HELMI,TMN TUN DR ISMAIL, Wil. Persekutuan",
+    "postcode": "60000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.519244+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT KUANTAN",
+    "address": "LOT B4, GF, GIANT HYPERMARKET,LOT 5197, JLN TANAH PUTIH,SEKSYEN 124, MUKIM KUANTAN, Pahang",
+    "postcode": "25150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.524056+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT KLANG",
+    "address": "LOT B5, GIANT HYPERMARKET KLANG,BANDAR BUKIT TINGGI 1,JLN LANGAT, KLANG, Selangor",
+    "postcode": "41200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.530855+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KINRARA, PUCHONG",
+    "address": "36A, JALAN TK1/11A,TAMAN KINRARA, SEKSYEN 1,BATU 7 1/2, JALAN PUCHONG, Wil. Persekutuan",
+    "postcode": "58200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.536913+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PUCHONG PRIMA",
+    "address": "F-01-08, BLOCK F, JALAN PRIMA 5/3,PERSIARAN PRIMA UTAMA,TAMAN PUCHONG PRIMA, Selangor",
+    "postcode": "47100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.541572+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PUCHONG JAYA",
+    "address": "NO.3, GROUND FLOOR,JALAN KENARI 1,BANDAR PUCHONG JAYA, Selangor",
+    "postcode": "47100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.546120+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN PUTRA",
+    "address": "NO.8,JALAN BUNGA TANJUNG 8,,TAMAN PUTRA, Selangor",
+    "postcode": "68000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.550797+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANDAR BARU SUNGEI BULOH",
+    "address": "NO 368 JALAN 1A/3,BANDAR BARU SUNGEI BULOH,SEKSYEN U20, Selangor",
+    "postcode": "47000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.556268+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SRI GOMBAK",
+    "address": "NO. 17 GROUND FLOOR,JALAN SG 1/6,TAMAN SRI GOMBAK, BATU CAVES, Wil. Persekutuan",
+    "postcode": "68100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.562617+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN TUNKU IBRAHIM ALOR SETAR",
+    "address": "57 & 59 JLN TUNKU IBRAHIM, Kedah",
+    "postcode": "5000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.568094+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PANDAN JAYA",
+    "address": "NO 39 & 41,JALAN PANDAN JAYA 3/3, Wil. Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.573618+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "ETONIC RAWANG",
+    "address": "G2, GROUND FLOOR, WISMA ETONIC,NO 7, PERSIARAN BANDAR RAWANG,PUSAT BANDAR RAWANG, Selangor",
+    "postcode": "48000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.580186+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TANJUNG BUNGAH",
+    "address": "NO 1-G, JALAN SUNGAI KELIAN,TANJUNG BUNGAH, Pulau Pinang",
+    "postcode": "11200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.586341+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SRI RAMPAI",
+    "address": "2A, JALAN 46/26,TAMAN SRI RAMPAI, Wil. Persekutuan",
+    "postcode": "53300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.592202+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "ISLAND PLAZA",
+    "address": "LOT G10 & G11,GROUND FLOOR,ISLAND PLAZA,NO.118, JALAN TANJUNG TOKONG, Pulau Pinang",
+    "postcode": "10470",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.597611+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KOMPLEKS MUTIARA",
+    "address": "NO. 568-G-44, KOMPLEKS MUTIARA,3 1/2 MILES, JALAN IPOH, Wil. Persekutuan",
+    "postcode": "51200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.603343+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON METRO PRIMA KEPONG",
+    "address": "LOT G25, GROUND FLOOR,JUSCO METRO PRIMA SHOPPING CENTRE,JALAN KEPONG, Wil. Persekutuan",
+    "postcode": "52100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.608666+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT BUKIT ANTARABANSA",
+    "address": "LOT 560 (PT 3429) JALAN WANGSA UKAY,TAMAN WANGSA UKAY,ULU KLANG, Selangor",
+    "postcode": "68000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.615523+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KOMPLEKS KARAMUNSING, KK",
+    "address": "LOT G.01(pt), G.02 & G. 03,, Sabah",
+    "postcode": "88300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.650033+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "FAJAR COMPLEX, TAWAU",
+    "address": "TB330A & TB330B,JALAN MERDEKA 2, FAJAR COMPLEX, Sabah",
+    "postcode": "91000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.661105+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SATOK, KUCHING",
+    "address": "NO. 194K & 194L, GROUND FLOOR,AL-IDRUS COMMERCIAL CENTRE,JALAN SATOK, Sarawak",
+    "postcode": "93400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.668862+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT KELANA JAYA",
+    "address": "LOT F28 & F29, GIANT HYPERMARKET KJ,JALAN PERBANDARAN SS6/4,PUSAT BANDAR KELANA JAYA, Selangor",
+    "postcode": "47301",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.674557+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN DUNLOP TAWAU",
+    "address": "TB 254B, GROUND FLOOR,JALAN DUNLOP, Sabah",
+    "postcode": "91000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.680082+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN TAS KUANTAN",
+    "address": "LOT A-9, GROUND FLOOR,TAMAN PANDAN PERMAI, JALAN 2/1,KM12, JALAN GAMBANG, Pahang",
+    "postcode": "25150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.686940+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN TUN PERAK",
+    "address": "40 & 42,JALAN TUN PERAK, Wil. Persekutuan",
+    "postcode": "50050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.694626+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PUTRAJAYA",
+    "address": "PUTRAJAYA PRECINCT 8,BLOCK C-T00-UO1,NO 1, JALAN P8D, Wil. Persekutuan",
+    "postcode": "62250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.707386+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN PUTRA ALOR SETAR",
+    "address": "LOT NO 206-A,,SEBERANG JALAN PUTRA, Kedah",
+    "postcode": "5100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.713732+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "WISMA SEE HUA",
+    "address": "NO. 40, JALAN TUANKU OSMAN,GROUND FLOOR,WISMA SEE HUA, Sarawak",
+    "postcode": "96000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.719485+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "INTERMARK",
+    "address": "LOT C-18 CONCOURSE FLOOR,,THE INTERMARK,348 JALAN TUN RAZAK, Wil. Persekutuan",
+    "postcode": "50400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.727132+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN BENDAHARA, MELAKA",
+    "address": "53A-53B, GROUND & MEZANANINE FLOOR,JALAN BENDAHARA, Melaka",
+    "postcode": "75100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.733926+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "ENTREPRENEUR PARK",
+    "address": "NO 4, GF, JLN 10/116B,KUCHAI ENTREPRENEUR'S PARK,OFF JALAN KUCHAI LAMA, Wil. Persekutuan",
+    "postcode": "58100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.739392+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KOTA BARU MALL",
+    "address": "LOT NO 31, GROUND FLOOR, KB MALL,PT 101 & 102, JALAN HAMZAH,SEKSYEN 16, Kelantan",
+    "postcode": "15050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.744588+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN ALI, MUAR",
+    "address": "NO 31-1 & 31-2, GROUND FLOOR,JALAN ALI, Johor",
+    "postcode": "84000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.749723+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN MOLEK",
+    "address": "NO 89, GROUND FLOOR,JALAN MOLEK 3/1,TAMAN MOLEK, Johor",
+    "postcode": "81100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.756843+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JLN SIA HER YAM, SEGAMAT",
+    "address": "NO. 154, JALAN SIA HER YAM, Johor",
+    "postcode": "85000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.764383+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BERCHAM IPOH",
+    "address": "NO 277 & 279 (GROUND & FIRST FLOOR),JALAN BERCHAM,TAMAN DESA KENCANA, Perak",
+    "postcode": "31400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.771868+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN RAHMAT BATU PAHAT",
+    "address": "NO 37, 37-1, 37-2 GROUND FLOOR,JALAN RAHMAT, Johor",
+    "postcode": "83000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.778745+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN ENG ANN",
+    "address": "No. 14 & 16, LORONG KASAWARI 8,TAMAN ENG ANN, Selangor",
+    "postcode": "41150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.785238+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN KOTA, TAIPING",
+    "address": "NO 62, 64 & 66, JALAN KOTA, Perak",
+    "postcode": "34000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.790555+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN PAYAMAS TANGKAK",
+    "address": "LOT 1331 JALAN PAYAMAS, Johor",
+    "postcode": "84900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.798827+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT KAJANG",
+    "address": "GIANT SUPERSTORE PRIMA SAUJANA,S02 PUSAT BANDAR BARU,KAJANG PRIMA SAUJANA, Selangor",
+    "postcode": "43000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.804875+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "E-GATE",
+    "address": "LOT G-17 & G-18, GF,E-GATE,LEBUH TENKU KUDIN 2,BANDAR JELUTONG, GELUGOR, Pulau Pinang",
+    "postcode": "11700",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.810022+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "CENTRE POINT BANDAR UTAMA2",
+    "address": "LOT G102B & G103, GROUND FLOOR,CENTRE POINT BANDAR UTAMA, Selangor",
+    "postcode": "47800",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.816933+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT BAYAN BARU",
+    "address": "LOT G10 & G11,NO 78 JALAN TENGAH BAYAN BARU,BAYAN LEPAS, Pulau Pinang",
+    "postcode": "11900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.823117+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TSH PARADE LANGKAWI",
+    "address": "NO 4 & 5 GROUND FLOOR TSH PARADE,BATU 3/4 POKOK ASAM, Kedah",
+    "postcode": "7000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.829142+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KLANG SHOPPING CENTRE",
+    "address": "NO G3 & G5,GF KLANG SHOPPING CENTRE,TAMAN UTAMA KLANG, Selangor",
+    "postcode": "42100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.835471+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT SUNGEI WANG PLAZA",
+    "address": "GIANT SUPERMARKET SUNGAI WANG PLAZA,LB FLOOR SUNGAI WANG PLAZA,JALAN SULTAN ISMAIL, Wil. Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.841536+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN MELAKA RAYA",
+    "address": "552 GROUND FLOOR,TAMAN MELAKA RAYA, Melaka",
+    "postcode": "75000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.847981+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SECTION 7 SHAH ALAM",
+    "address": "24 JALAN E7/E, SEKSYEN 7,FASA 3A, Selangor",
+    "postcode": "40000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.853954+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN DATO SHEIKH SEREMBAN",
+    "address": "NO 10 & 11 JALAN DATO SHEIKH AHMAD, Negeri Sembilan",
+    "postcode": "70000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.861221+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN TOKONG KAMPAR",
+    "address": "NO 1 & 2, GROUND FLOOR,JALAN TOKONG, Perak",
+    "postcode": "31900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.868851+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PLAZA SENTOSA JOHOR BAHRU",
+    "address": "LOT 5 & 6, GROUND FLOOR,BLOCK F, PLAZA SENTOSA, Johor",
+    "postcode": "80150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.875756+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN DESA, TEBRAU JB",
+    "address": "45, GROUND FLOOR,JLN HARMONIUM 23/14, Johor",
+    "postcode": "81100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.883794+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SQUARE ONE BATU PAHAT",
+    "address": "G1, G2, G3, GT1 & GT2,LEVEL 1, SQUARE ONE MALL, Johor",
+    "postcode": "83000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.889525+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN AH CHEONG, TELOK INTAN",
+    "address": "NO. 17, GROUND FLOOR,JALAN AH CHEONG, Perak",
+    "postcode": "36000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.897397+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT SOUTHERN CITY",
+    "address": "GROUND FLOOR, SOUTHERN CITY,NO 3, JALAN SURIA 19, TAMAN SURIA,NO 3, JALAN SURIA 19,, Johor",
+    "postcode": "81100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.903959+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT SUPERSTORE SANDAKAN",
+    "address": "LOT A5,6&7,GIANT HYPERMARKET SANDAK,LOT 3, JLN IJM BDR UTAMA,BATU 6, OFF JALAN UTARA, Sabah",
+    "postcode": "9000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.915639+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN CECAWI KOTA DAMASARA",
+    "address": "LOT NO. 43-1, GROUND FLOOR,JALAN CECAWI 6/19A,KOTA DAMANSARA, Selangor",
+    "postcode": "47810",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.922640+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN KERAMAT PERMAI",
+    "address": "NO 15-G, JALAN AU1A/4B,TAMAN KERAMAT PERMAI, Wil. Persekutuan",
+    "postcode": "54200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.929745+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN BUKIT LAGI, KANGAR",
+    "address": "NO 32, GF & 1ST FLR,JALAN BUKIT LAGI, Perlis",
+    "postcode": "1000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.934925+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN PEDADA, SIBU",
+    "address": "NO 32, GROUND FLOOR,PUSAT PEDADA,JALAN PEDADA, Sarawak",
+    "postcode": "96007",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.939595+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN BERJAYA TIMES SQUARE (LG FLOOR)",
+    "address": "NO LG-06 & LG-07,LOWER GROUND FLOOR,BERJAYA TIMES SQUARE, Wil. Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.946740+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN NIAGA, KOTA TINGGI",
+    "address": "NO 22 GROUND FLOOR,JALAN NIAGA 1,BANDAR KOTA TINGGI, Johor",
+    "postcode": "81900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.952859+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "LANGKAWI FAIR SHOPPING MALL",
+    "address": "LOT GF2A PHASE 1, GROUND FLOOR,LANGKAWI FAIR SHOPPING MALL,JALAN PERSIARAN PUTRA, Kedah",
+    "postcode": "7000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.959382+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN TAMAN PUSAT PERDAGANGAN PONTIAN",
+    "address": "NO, 34 GROUND FLOOR,JALAN DELIMA,PONTIAN COMMERCIAL CENTRE, Johor",
+    "postcode": "82000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.965529+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN KUNDANG, BATU PAHAT",
+    "address": "NO 32 GROUND FLOOR,JALAN KUNDANG 1, Johor",
+    "postcode": "83000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.971183+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AUTO CITY, PRAI",
+    "address": "1820-G1 JALAN PERUSAHAAN AUTO CITY,NORTH-SOUTH HIGHWAY JURUINTERCHANGE,PRAI, Pulau Pinang",
+    "postcode": "13600",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.976572+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JLN SULTAN ISMAIL, TERENGGANU",
+    "address": "16A, GROUND FLOOR,,JALAN SULTAN ISMAIL,, Terengganu",
+    "postcode": "20200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.985010+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "QUEENSBAY MALL, PENANG",
+    "address": "100-LG-72, Queensbay Mall,Persiaran Bayan Indah, Pulau Pinang",
+    "postcode": "11900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:23.992357+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "FAJAR LAHAD DATU, SABAH",
+    "address": "LOTS NO MLDS 6584 & MLDS 6585,GROUND FLOOR, AIRPORT PLAZA,FAJAR LAHD DATU, Sabah",
+    "postcode": "91100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.001272+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "WISMA MERDEKA, KOTA KINABALU",
+    "address": "LOTS NO BG64-BG67 & BG72,GRD FLOOR WISMA MERDEKA PHASE 2,JALAN TUN RAZAK, Sabah",
+    "postcode": "88000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.008927+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN SIMPANG 3, KUCHING",
+    "address": "NO 27, JALAN SIMPANG TIGA,PANOVEL COMMERCIAL CENTRE, Sarawak",
+    "postcode": "93300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.015358+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN KEPONG, KL",
+    "address": "NO 30&32 GRD FLOOR,JLN METRO PERDANA 8 TMN USAHAWAN,FORTUNE CENTRE JLN KEPONG, Wil. Persekutuan",
+    "postcode": "52100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.022480+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SHAH ALAM, SECTION 25",
+    "address": "LOT NO. 8, GROUND FLOOR,JALAN MURNI 25/61,,SEKSYEN 25, TAMAN SRI MUDA,, Selangor",
+    "postcode": "40200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.027883+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SEMPORNA SEAFRONT RESORT",
+    "address": "25 GROUND FLOOR,SEMPORNA SEAFRONT RESORT TOWNSHIP,JALAN KASTAM, Sabah",
+    "postcode": "91307",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.034258+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANDAR LAHAD DATU",
+    "address": "Lot No.275, GF & 1st Floor,,Sri Perdana, Phase 3,,Jalan Silam,, Sabah",
+    "postcode": "91100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.040253+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN SUNGAI KAPAR INDAH",
+    "address": "NO. 25, JALAN SUNGAI KAPAR INDAH 3K,JALAN KAPAR, Selangor",
+    "postcode": "42209",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.048843+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN SRI ANDALAS",
+    "address": "NO. 49 GROUND FLOOR,JLN SRI SARAWAK,20A,TAMAN SRI ANDALAS, Selangor",
+    "postcode": "41200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.056166+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KAPAR TOWN",
+    "address": "NO. 200, GROUND FLOOR,JALAN BESAR/KU 13,,PEKAN KAPAR, Selangor",
+    "postcode": "42200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.064586+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "DATARAN PAHLAWAN MELAKA",
+    "address": "LOT BW05 DATARAN PAHLAWAN,MELAKA MEGAMALL,JALAN MERDEKA, BANDAR HILIR, Melaka",
+    "postcode": "75000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.071003+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANDAR SUNGAI LONG",
+    "address": "13 JALAN SL 1/3,BANDAR SUNGAI LONG, Selangor",
+    "postcode": "43000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.077552+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN ISMAIL, MERSING",
+    "address": "BLOCK E LOT NO 451,GROUND FLOOR, JALAN ISMAIL, Johor",
+    "postcode": "86800",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.083823+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SUNWAY METRO",
+    "address": "UNIT 2-G, GROUND FLOOR,,JALAN PJS 11/28A, PJS 11,,SUNWAY METRO, BANDAR SUNWAY,, Selangor",
+    "postcode": "46150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.090039+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KLUANG PARADE JB",
+    "address": "LOT GROUND 21,22,23,24,25 & 25 (A),KLUANG PARADE,NO 2 JALAN SENTUL, Johor",
+    "postcode": "86000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.097995+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "ALAMANDA PUTRAJAYA",
+    "address": "32 GROUND FLOOR,ALAMANDA PUTRAJAYA SHOPPING CENTRE,JALAN ALAMANDA PRECINCT 1, Wil. Persekutuan",
+    "postcode": "62000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.105304+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BIZ AVENUE SEREMBAN 2",
+    "address": "LOT NO 14G GROUND FLOOR,JALAN S2 B18,BIZ AVENUE SEREMBAN 2, Negeri Sembilan",
+    "postcode": "70300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.112388+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PJ NEW TOWN",
+    "address": "NO 8, GROUND FLOOR,JALAN 52/18,NEW TOWN CENTRE, Selangor",
+    "postcode": "46200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.118826+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT SUPERSTORE NILAI",
+    "address": "LOT G34, G35, G38, G39,GIANT SUPERSTORE NILAI,PT6367, JALAN BBN 3/1, PUTRA NILAI, Negeri Sembilan",
+    "postcode": "71800",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.125625+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN TARGET SRI KLUANG",
+    "address": "LOT G8, GIANT SUPERSTORE SRI KLUANG,NO1 JALAN 6,TAMAN SRI KLUANG, Johor",
+    "postcode": "86000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.133274+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT HYPERMARKET BDR KINRARA",
+    "address": "LOT F7, F8 & F9,,LOT 449, JALAN BK 5A/1,,BANDAR KINRARA, Selangor",
+    "postcode": "47100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.139818+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT KOTA DAMANSARA",
+    "address": "LT F40 GIANT HYPERMARKET KOTA DSARA,16 JALAN PJU 5/1,KOTA DAMANSARA, PJU5, Selangor",
+    "postcode": "47810",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.146569+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT KUALA TERENGGANU",
+    "address": "LOT G09-G16,,H.S(D) 6971, LOT PT 1485,,MUKIM CABANG TIGA,, Terengganu",
+    "postcode": "21100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.153470+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN NSK MUAR",
+    "address": "LOT F10 - F11, GIANT HYPERMARKET,LOT 6530, TANJUNG AGAS, MUKIM KESAS,DAERAH MUAR, Johor",
+    "postcode": "84000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.160811+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sunway Carnival Prai",
+    "address": "LG31A-LG32,LG, SUNWAY CARNIVAL MALL,NO 3068 JALAN TODAK,PUSAT BANDAR SEBERANG JAYA, Pulau Pinang",
+    "postcode": "13700",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.168297+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PARKCITY MALL BINTULU",
+    "address": "UNIT 08,09 & 10,LEVEL 1 PARKCITY MALL,JALAN TUN AHMAD ZAIDI, Sarawak",
+    "postcode": "97008",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.175679+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN KOSAS AMPANG",
+    "address": "LOT NO 5 & 7, GROUND FLOOR,JALAN KOSAS 1/2,,TAMAN KOSAS, Selangor",
+    "postcode": "68000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.181767+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PEKAN SIMPANG KUALA ALOR SETAR",
+    "address": "LOT NO 60 & 61, GROUND FLOOR,JALAN PSK 1, PEKAN SIMPANG KUALA, Kedah",
+    "postcode": "5400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.200876+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT CITY MALL KOTA KINABALU",
+    "address": "Lot M-0-77 (S014), Ground Floor City Mall, Jalan Lintas 88300 Kota Kinabalu Sabah, Sabah",
+    "postcode": "88300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.211536+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT KEPAYAN KOTA KINABALU",
+    "address": "GIANT SUPERSTORE KEPAYAN,CENTRAL SHOPPING PLAZA,GROUND FLOOR,JALAN BANJARAN, KEPAYAN RIDGE, Sabah",
+    "postcode": "88200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.219148+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JITRA MALL KEDAH",
+    "address": "LOT NO :G-38 & G-39,GROUND FLOOR, JITRA MALL, Kedah",
+    "postcode": "6000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.226232+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN LUMUT, PEKAN SITIAWAN",
+    "address": "LOT NO 31, GROUND FLOOR,JALAN LUMUT, Perak",
+    "postcode": "32000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.232846+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SHAW CENTREPOINT KLANG",
+    "address": "LG 17 & 18, TINGKAT LOWER GROUND,KOMPLEK SHAW CENTREPOINT,JALAN RAJA HASSAN, Selangor",
+    "postcode": "41400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.239151+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PARIT RAJA BATU PAHAT",
+    "address": "LOT NO 1 & 2 GROUND FLOOR,JALAN CEMPAKA 2,TAMAN CEMPAKA BIRU, PARIT RAJA, Johor",
+    "postcode": "86400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.246008+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANDAR BARU RAWANG",
+    "address": "LOT NO 15 GF,JALAN BANDAR BARU RAWANG 10,BANDAR BARU RAWANG, Selangor",
+    "postcode": "48000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.252470+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN UNGKU TUN AMINAH,JOHOR",
+    "address": "LOT 7, JALAN PENDEKAR 16, TAMAN UNGKU TUN AMINAH, Johor",
+    "postcode": "81300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.257585+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN JALAN RAJA JALIL KUALA SELANGOR",
+    "address": "LOT NO 28, GROUND FLOOR,,JALAN RAJA JALIL, Selangor",
+    "postcode": "45000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.265869+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "STAR PARADE, ALOR SETAR",
+    "address": "LOT NO. 34, 35 & 36, GROUND FLOOR,,888, KOMPLEKS STAR PARADE,,JALAN TELUK WANJAH,, Kedah",
+    "postcode": "5200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.272323+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PEKAN BATU GAJAH",
+    "address": "3 GROUND FLOOR,JALAN PEJABAT POS, Perak",
+    "postcode": "31000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.278019+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PASIR PUTEH",
+    "address": "PT 483, TINGKAT BAWAH,,DEPAN STESEN MINYAK ESSO,,JALAN KOTA BAHRU,, Kelantan",
+    "postcode": "16800",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.283625+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT PUTATAN",
+    "address": "GIANT HYPERMARKET PUTATAN,,NO.CL 215012883, KM11 JLN PUTATAN,,PUTATAN RAILWAY STATION, Sabah",
+    "postcode": "88869",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.288932+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PEKAN TEMERLOH",
+    "address": "NO. 25, GROUND FLOOR,,JALAN TENGKU BAKAR, Pahang",
+    "postcode": "28000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.297879+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANDAR SETIA ALAM",
+    "address": "9-1-1, GROUND FLOOR,,JALAN SETIA PRIMA RU 13/R,,SETIA ALAM, SEKSYEN U13,, Selangor",
+    "postcode": "40170",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.304331+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "DATARAN TEMPLER, SELAYANG",
+    "address": "NO. 18, GROUND FLOOR,,JALAN 2/12, DATARAN TEMPLER,,BANDAR BARU SELAYANG,, Selangor",
+    "postcode": "68100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.309924+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BOULEVARD SHOPPING MALL",
+    "address": "LOT G-B-2 & G-B-3A,,GROUND FLOOR,,BOULEVARD SHOPPING MALL,, Sarawak",
+    "postcode": "93250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.315662+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SEKSYEN 28 SHAH ALAM",
+    "address": "NO 15G, GROUND FLOOR,JALAN PULAU KEMPAS 28/3,SEKSYEN 28, TAMAN ALAM MEGAH, Selangor",
+    "postcode": "40400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.322024+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KINGFISHER KOTA KINABALU",
+    "address": "NO 2 GROUND FLOOR,BLOCK D, LORONG PLAZA KINGFISHER 6,PLAZA KINGFISHER, Sabah",
+    "postcode": "88450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.328890+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AYER ITAM",
+    "address": "NO 1228B, GROUND FLOOR,DESA PERMATA, JALAN PAYA TERUBONG,AYER ITAM, Pulau Pinang",
+    "postcode": "11060",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.335696+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANDAR BARU BANGI",
+    "address": "LOT NO. 2, GROUND FLOOR,,JALAN 3/69, SEKSYEN 3,,BANDAR BARU BANGI, Selangor",
+    "postcode": "43650",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.341822+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BERJAYA MEGAMALL",
+    "address": "LOT G.53A-G57,GROUND FLOOR,,BERJAYA MEGAMALL,JALAN TUN ISMAIL,,SRI DAGANGAN, Pahang",
+    "postcode": "25000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.347622+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TANJUNG AGAS,K-MART MUAR",
+    "address": "NO. 9A, GROUND FLOOR, K-MART,LOT 3153, JALAN KESANG,,TANJUNG AGAS, Johor",
+    "postcode": "84000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.353578+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANDAR BARU AMPANG",
+    "address": "NO.20,GROUND FLOOR,,JALAN WAWASAN AMPANG 2/3,,BANDAR BARU AMPANG, Selangor",
+    "postcode": "68000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.360314+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SEMENYIH TOWN",
+    "address": "47-G, GF,JALAN SEMENYIH SENTRAL 3,SEMENYIH SENTRAL, Selangor",
+    "postcode": "43500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.365525+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KEMAMAN, TERENGGANU",
+    "address": "LOT NO K-721 GROUND FLOOR,JALAN SULAIMANI,,CHUKAI, Terengganu",
+    "postcode": "24000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.370846+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JERTEH, TERENGGANU",
+    "address": "NO. G-244,GROUND FLOOR,JALAN TUAN HITAM,, Terengganu",
+    "postcode": "22000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.378463+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PJ OLD TOWN",
+    "address": "LOT NO. 100, GROUND FLOOR,,JALAN OTHMAN 1/14, Selangor",
+    "postcode": "46000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.384553+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BIDOR PERAK",
+    "address": "NO 3 PT2319, GROUND FLOOR,JALAN PERSATUAN, Perak",
+    "postcode": "35500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.389390+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN PEKAKA SUNGAI DUA",
+    "address": "NO 15 GROUND FLOOR LEBUH PEKAKA 1,TAMAN PEKAKA,SUNGAI DUA, Pulau Pinang",
+    "postcode": "11700",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.394713+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "LABIS TOWN JOHORE",
+    "address": "75 GROUND FLOOR,JALAN SEGAMAT,TAMAN ORKID BARU, Johor",
+    "postcode": "85300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.400925+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT KLANG SENTRAL",
+    "address": "LT F22 NO2 PERSIARAN KLANG SENTRAL4,TAMAN KLANG SENTRAL,BUKIT RAJA, MERU, Selangor",
+    "postcode": "41050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.406101+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BATU PAHAT MALL BATU PAHAT",
+    "address": "LOT G71 & G72 BATU PAHAT MALL,JALAN KLUANG, Johor",
+    "postcode": "83000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.412157+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BRINCHANG TOWN",
+    "address": "NO 15 & 16, GROUND FLOOR,JALAN BESAR,BRINCHANG, Pahang",
+    "postcode": "39100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.418166+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN SEJATI INDAH SG PETANI",
+    "address": "NO 13 GROUND FLOOR,JALAN PERMATANG GEDUNG,TAMAN SEJATI INDAH, Kedah",
+    "postcode": "8000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.424498+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "VISTA MAGNA",
+    "address": "NO 16 GROUND FLOOR VISTA MAGNA,JALAN PRIMA, Wil. Persekutuan",
+    "postcode": "52100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.430383+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PEKAN SUNGAI BESAR",
+    "address": "NO 19E GROUND FLOOR,JALAN MAHSURI, Selangor",
+    "postcode": "45300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.437607+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN DAYA JOHOR BARU",
+    "address": "NO 36 GROUND FLOOR,JALAN SAGU 8,TAMAN DAYA, Johor",
+    "postcode": "81100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.445181+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN INTAN KLUANG",
+    "address": "NO.46, GROUND FLOOR,,JALAN INTAN 2/1,TAMAN INTAN, Johor",
+    "postcode": "86000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.451151+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KOTA MASAI PASIR GUDANG",
+    "address": "NO 1, GROUND FLOOR,,JALAN BACANG 36,KOTA MASAI, Johor",
+    "postcode": "81700",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.457389+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN IMPIAN EMAS, SKUDAI JB",
+    "address": "NO. 59, GROUND FLOOR,,JALAN IMPIAN EMAS 3,,TAMAN IMPIAN EMAS,, Johor",
+    "postcode": "81300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.464872+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "MESRA MALL, KERTEH",
+    "address": "No. 34,35 & 35A, GROUND FLOOR,MESRA MALL,, Terengganu",
+    "postcode": "24300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.470645+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANDAR DAMAI PERDANA",
+    "address": "NO. 21, GROUND FLOOR,,JALAN DAMAI PERDANA 1/9B,BANDAR DAMAI PERDANA, Wil. Persekutuan",
+    "postcode": "56000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.476608+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN TUN ISMAIL KUANTAN",
+    "address": "NO. 23 GROUND FLOOR,JALAN TUN ISMAIL, Pahang",
+    "postcode": "25000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.481966+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANDAR PUTERI PUCHONG",
+    "address": "NO. 27, GROUND FLOOR,JALAN PUTERI 2/1,BANDAR PUTERI PUCHONG, Selangor",
+    "postcode": "47100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.487184+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PEKAN SARIKEI SARAWAK",
+    "address": "NO 23D JALAN ABDUL RAHMAN, Sarawak",
+    "postcode": "96100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.493036+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN SUDIRMAN TEMERLOH",
+    "address": "NO 32 GROUND FLOOR,JALAN SUDIRMAN 1,BANDAR BARU SERI SEMANTAN, Pahang",
+    "postcode": "28000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.500902+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "MEDAN IDAMAN",
+    "address": "32 GROUND FLOOR,JALAN 2/21D MEDAN IDAMAN, Wil. Persekutuan",
+    "postcode": "53000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.507457+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN JOHOR JAYA JOHOR BAHRU",
+    "address": "NO 58 & 60, GROUND FLOOR,JALAN DEDAP 4,TAMAN JOHOR JAYA, Johor",
+    "postcode": "81100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.513512+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT DESA PETALING",
+    "address": "LOT NO 1-02, PLAZA SALAK PARK,NO 2 JALAN 1/125E,TAMAN DESA PETALING, Wil. Persekutuan",
+    "postcode": "57100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.520071+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "MEGALONG KOTA KINABALU",
+    "address": "LOT G-088A GRD FLR BLK E,MEGALONG MALL,DONGGONGON NEW TOWNSHIP PHASE 3, Sabah",
+    "postcode": "89500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.526400+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "ONE BORNEO KOTA KINABALU",
+    "address": "LOT NO G-349 GROUND FLOOR,ONE BORNEO HYPERMALL,JALAN SULAMAN, Sabah",
+    "postcode": "88400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.534387+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "MIDVALLEY MEGAMALL",
+    "address": "LOT NO F-029C, MIDVALLEY MEGAMALL,MIDVALLEY CITY,LINGKARAN SYED PUTRA, Wil. Persekutuan",
+    "postcode": "59200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.539664+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "MEDAN SETIA, BUKIT DAMANSARA",
+    "address": "NO.59, GROUND & MEZZANINE FLOOR,,JALAN MEDAN SETIA 1,,BUKIT DAMANSARA, Wil. Persekutuan",
+    "postcode": "50490",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.544667+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT BREM MALL",
+    "address": "G-19 LEVEL G,BREM MALL,JALAN KEPONG, Wil. Persekutuan",
+    "postcode": "52000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.549510+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN GAYA KOTA KINABALU",
+    "address": "LOT NO 99, GROUND FLOOR,JALAN GAYA, Sabah",
+    "postcode": "88000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.554367+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT HYPERMARKET NUSA BESTARI",
+    "address": "LOT F22 1ST FLOOR,GIANT HYPERMARKET NUSA BESTARI,NO1 JLN BESTARI 7/2 TMN NUSA BESTAR, Johor",
+    "postcode": "81300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.560253+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT HYPER SERI KEMBANGAN",
+    "address": "LOT F20, 1ST FLOOR,JLN PUTRA PERMAI,BANDAR PUTRA PERMAI, Selangor",
+    "postcode": "43300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.566267+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT HYPERMARKET BANTING",
+    "address": "LOTG53,GIANT HYPERMARKET BANTING,LOT555 PERSIARAN KOTA SERI LANGAT,KOTA SERI LANGAT, Selangor",
+    "postcode": "42700",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.571746+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT HYPER KEMUNING UTAMA",
+    "address": "LT F07,1ST FLR GIANT KEMUNING UTAMA,NO 3 JALAN KEMUNING PRIMA E33/E,KEMUNING UTAMA, SEKSYEN 33, Selangor",
+    "postcode": "40400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.579477+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BANDAR PERDA BUKIT MERTAJAM",
+    "address": "NO 460, GROUND FLOOR,JALAN PERMATANG RAWA,BANDAR PERDA, Pulau Pinang",
+    "postcode": "14000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.586248+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN RAJA TAPAH",
+    "address": "NO 17, GROUND FLOOR,JALAN RAJA, Perak",
+    "postcode": "35000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.591888+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "VIVA",
+    "address": "UNIT NO 1-09, GROUND FLOOR,BLOCK A, VIVA,NO 378 JALAN IPOH, Wil. Persekutuan",
+    "postcode": "51200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.597926+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "VILLAGE MALL SUNGEI PETANI",
+    "address": "LOT G-25&26, GRD FLOOR VILLAGE MALL,JALAN LEGENDA 1,LEGENDA HEIGHTS, Kedah",
+    "postcode": "8000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.604757+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "MEDAN RAJA SYED ALWI KANGAR",
+    "address": "NO 50, GROUND FLOOR,MEDAN RAJA SYED ALWI, Perlis",
+    "postcode": "1000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.613012+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "STAR CITY NORTH KOTA KINABALU",
+    "address": "31 GROUND FLOOR STAR CITY, Sabah",
+    "postcode": "88000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.620441+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON BIG AMPANG",
+    "address": "LOT NO F2.28,F2.29,F2.35 & F2.36,CARREFOUR SHOPPING CENTRE, LOT 613,,TAMAN DAGANG PERMAI, Selangor",
+    "postcode": "68000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.630342+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON BIG TUN HUSSEIN ONN",
+    "address": "LOT NO F1.15, F1.16, F1.17 & F1.18,CARREFOUR SHOPPING CENTRE,BANDAR TUN HUSSEIN ONN, Selangor",
+    "postcode": "43200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.636356+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SENAI AIRPORT JOHORE",
+    "address": "LOT E5, PUBLIC CONCOURSE, AEON MALL,SULTAN ISMAIL INTERNATIONAL AIRPORT, Johor",
+    "postcode": "81250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.641848+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON AU2 TAMAN KERAMAT",
+    "address": "LOTG63, AEON AU2 SHOPPING CENTRE,NO6 JLN TAMAN SETIWANGSA(JLN 37/56),AU2 TAMAN KERAMAT, Wil. Persekutuan",
+    "postcode": "54200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.647018+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT HYPER SHAH ALAM BINTANG",
+    "address": "LOT G005-G008,GIANT HYPER SHAH ALAM,NO 2 JLN PLUMBUM T7/T,PUSAT KOMERSIAL SEK7, Selangor",
+    "postcode": "40000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.652704+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SURIA SABAH SHOPPING MALL",
+    "address": "LOT B-58, B-59, B-60 & PART OF B-61,LOWER GROUND FLOOR,SURIA SABAH SHOPPING MALL, Sabah",
+    "postcode": "88000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.657739+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON TAMAN EQUINE",
+    "address": "LOT G13 AEON TAMAN EQUINE SHOPPING,NO 2 JALAN EQUINE,TAMAN EQUINE, BANDAR PUTRA PERMAI, Selangor",
+    "postcode": "43300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.665095+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "DWITASIK TASEK PERMAISURI",
+    "address": "NO 11, GROUND FLOOR, JALAN DWITASIK,BANDAR TASEK PERMAISURI,CHERAS, Wil. Persekutuan",
+    "postcode": "56000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.672247+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT SUPERMARKET PUTERA JAYA",
+    "address": "LOT 8, GROUND FLOOR, BLOCK C,TAMAN PUTERA JAYA 1,MILE 13, JALAN TUARAN, TELIPOK, Sabah",
+    "postcode": "88450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.677527+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAIPING SENTRAL",
+    "address": "LOT G-39 & G-40, GROUND FLOOR,TAIPING SENTRAL MALL,NO 36, JALAN ISTANA LARUT, Perak",
+    "postcode": "34000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.682042+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON RAWANG",
+    "address": "LOT G05, GROUND FLOOR,KOMPLEKS BELI BELAH AEON ANGGUN,PERSIARAN ANGGUN, TAMAN ANGGUN, Selangor",
+    "postcode": "48000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.687581+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "ALL SEASON PLACE PENANG",
+    "address": "NO 6H-1-15 LVL 1, ALL SEASON PLACE,LEBUHRAYA THEAN TEIK,BANDAR BARU AYER ITEM, Pulau Pinang",
+    "postcode": "11500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.693960+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GIANT SUPERSTORE TUNJUNG",
+    "address": "LOT G17, GROUND FLOOR,,1, PERSIARAN LAGENDA,,BANDAR BARU TUNJUNG, SEKSYEN 65, Kelantan",
+    "postcode": "15100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.701314+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "NU SENTRAL SHOPPING CENTRE",
+    "address": "LOT NO LG23 & LG24 LOWER GROUND,NU SENTRAL SHOPPING CENTRE,JALAN TUN SAMBANTHAN, Wil. Persekutuan",
+    "postcode": "50470",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.707220+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "MEDAN PUTRA BANDAR MANJALARA",
+    "address": "67 GROUND FLOOR JALAN MEDAN PUTRA 1,MEDAN PUTRA BUSINESS CENTRE,BANDAR MENJALARA, Wil. Persekutuan",
+    "postcode": "52200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.715083+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON STATION 18 PERAK",
+    "address": "LOT G09, AEON IPOH STATION18,2 SUSURAN STESEN 18,STATION 18, Perak",
+    "postcode": "31650",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.721059+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT SUPERMARKET LABUAN",
+    "address": "LOT E011 GF GIANT SUPERMARKET LABUA,FINANCIAL PARK LABUAN COMPLEX,JALAN MERDEKA, Labuan",
+    "postcode": "87000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.726731+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SHAFTSBURY SQUARE CYBERJAYA",
+    "address": "UNIT P1-29 SHAFTSBURY SQUARE,PERSIARAN MULTIMEDIA,CYBER 6, Selangor",
+    "postcode": "63000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.732866+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "HARBOUR MALL SANDAKAN",
+    "address": "LOT G06 GROUND FLOOR,HARBOUR MALL SANDAKAN,SANDAKAN HARBOUR SQUARE, Sabah",
+    "postcode": "90000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.737809+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN BESAR MENGLEMBU",
+    "address": "115 GROUND FLOOR,JALAN BESAR, Perak",
+    "postcode": "31450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.742718+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "1 SEGAMAT JOHOR",
+    "address": "LOT G47 GROUND FLOOR,1 SEGAMAT,JALAN KOLAM AIR, Johor",
+    "postcode": "85000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.747585+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "CENANG MALL LANGKAWI",
+    "address": "LOT GF3 CENANG MALL LANGKAWI,LOT 2605 JALAN PANTAI CENANG,MUKIM KEDAWANG, Kedah",
+    "postcode": "7000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.752514+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SUMMER SHOPPING MALL KUCHING",
+    "address": "G18 G130 G131 & G132 GROUND FLOOR,THE SUMMER SHOPPING MALL,JALAN DATO MOHD MUSA, Sarawak",
+    "postcode": "94300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.757948+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KOMPLEKS ARAU",
+    "address": "G41&G42,TINGKAT BAWAH,KOMPLEKS TOK ARAU,JALAN ARAU-KODIANG, Perlis",
+    "postcode": "2600",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.763093+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PLAZA MERDEKA KUCHING",
+    "address": "LOT NO B-02 & PART OF B-03,BASEMENT 1 PLAZA MERDEKA,NO 88, PEARL STREET, Sarawak",
+    "postcode": "93000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.768326+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "STAR CITY MENTAKAB",
+    "address": "LOT G28 & G29, GROUND FLOOR,MENTAKAB STAR CITY,NO 1 JALAN STAR CITY, STAR CITY, Pahang",
+    "postcode": "28400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.775877+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KOTA KEMUNING SHAH ALAM",
+    "address": "NO 39, GROUND FLOOR,JALAN ANGGERIK VANILLA N31/N,KOTA KEMUNING, Selangor",
+    "postcode": "40460",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.784225+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TERMINAL BERSEPADU SELATAN",
+    "address": "UNIT L3-6, THIRD FLOOR, TERMINAL,JALAN TERMINAL SELATAN,BANDAR TASIK SELATAN, Wil. Persekutuan",
+    "postcode": "57100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.789824+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN PUBLIKA",
+    "address": "Lot 10,Level UG,Publika,,Solaris Dutamas,,Jalan Dutamas 1, Wil. Persekutuan",
+    "postcode": "50480",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.796332+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "MILE 4 SANDAKAN",
+    "address": "LOT 1 GROUND FLOOR, BLOCK 7,BANDAR INDAH,MILE 4 NORTH ROAD, Sabah",
+    "postcode": "90000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.802354+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "CHERAS SENTRAL MALL",
+    "address": "LOT NO 700-1F-38E & 700-1F-38F,FIRST FLOOR CHERAS CENTRAL,JALAN 2/142A OFF JALAN CHERAS, KM10, Wil. Persekutuan",
+    "postcode": "56000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.808965+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "EAST COAST MALL KUANTAN",
+    "address": "UNIT 2-42, LEVEL 2, EAST COAST MALL,JALAN PUTRA SQUARE 6,PUTRA SQUARE, Pahang",
+    "postcode": "25200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.816081+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KLIA2",
+    "address": "L2-143, LEVEL 2, GATEWAY@KLIA2,,TERMINAL KLIA2, KL INTERNATIONAL,JALAN KLIA2/1,, Selangor",
+    "postcode": "64000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.821556+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT KUALA PILAH",
+    "address": "LOT NO G14-G17,GIANT SUPERSTORE KUALA PILAH,JALAN MELANG, Negeri Sembilan",
+    "postcode": "72000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.826720+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GURNEY PARAGON MALL",
+    "address": "163D-LG-07 & 08,GURNEY PARAGON MALL,PERSIARAN GURNEY, Pulau Pinang",
+    "postcode": "10250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.832279+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TESCO ARA DAMANSARA",
+    "address": "LOT F17 & F18, 1ST FLOOR,,TESCO ARA DAMANSARA,1 JLN PJU 1A/3A,ARA DAMANSARA, PJU 1A, Selangor",
+    "postcode": "47810",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.837051+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SAUJANA UTAMA",
+    "address": "65-G, GROUND FLOOR,JALAN BIDARA 8,SAUJANA UTAMA 8, Selangor",
+    "postcode": "47000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.842345+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TANJUNG MALIM PERAK",
+    "address": "44 TINGKAT BAWAH,JALAN BUNGA RAYA,TAMAN BUNGA RAYA, Perak",
+    "postcode": "35900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.847303+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "ALOR SETAR MALL",
+    "address": "LOT G11, GF, ALOR SETAR MALL,KAWASAN PERUSAHAAN TANDOP BARU, Kedah",
+    "postcode": "5400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.852244+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TAMAN MELAWATI KUALA LUMPUR",
+    "address": "NO 232, GRD FLOOR, JALAN BANDAR 13,TAMAN MELAWATI METRO 1,TAMAN MELAWATI, Wil. Persekutuan",
+    "postcode": "53100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.858038+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PERMAISURI IMPERIAL MIRI",
+    "address": "FF31 & FF32, FIRST FLOOR,PERMAISURI IMPERIAL CITY MALL,JALAN MERPATI, Sarawak",
+    "postcode": "98000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.865593+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SEMUA HOUSE",
+    "address": "LOT 1.21 FIRST FLOOR,SEMUA HOUSE,JALAN BUNUS 6, Wil. Persekutuan",
+    "postcode": "50100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.871462+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON KULAI",
+    "address": "F01&F02,1ST FLR AEON MALL KULAIJAYA,PERSIARAN INDAHPURA UTAMA,BANDAR INDAHPURA, Johor",
+    "postcode": "81000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.876525+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PARADIGM MALL",
+    "address": "LOT GB-11, GROUND FLOOR, PARADIGM,NO 1, JALAN SS7/26A,KELANA JAYA, Selangor",
+    "postcode": "47301",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.881678+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SUNGAI WANG PLAZA",
+    "address": "UNIT NO C02&03 CONCOURSE LEVEL,SUNGEI WANG PLAZA,JALAN BUKIT BINTANG, Wil. Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.887006+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KEPALA BATAS PENANG",
+    "address": "10&12,GF, JLN DAGANGAN 8,,PUSAT BANDAR BERTAM PERDANA,KEPALA BATAS, Pulau Pinang",
+    "postcode": "13200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.893559+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "1ST AVENUE PENANG",
+    "address": "LOTS LG-13 & LG-14,,1st AVENUE,182 JALAN MAGAZINE, Pulau Pinang",
+    "postcode": "10300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.900481+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "QUILL CITY MALL KL",
+    "address": "LOTS NO. 2-37 & 2-38, SECOND FLOOR,QUILL CITY MALL,JALAN SULTAN ISMAIL, Wil. Persekutuan",
+    "postcode": "50250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.906748+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "ENCORP STRAND MALL",
+    "address": "F45&F46,1ST FLOOR ENCORP STAND MALL,PUSAT PERDAGANGAN KOTA DAMANSARA,JALAN PJU5 KOTA DAMANSARA, Selangor",
+    "postcode": "47810",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.913822+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AVENUE K",
+    "address": "L1-14 & L1-15, LEVEL 1 AVENUE K,156 JALAN AMPANG, Wil. Persekutuan",
+    "postcode": "50450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.920820+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON MALL TAIPING",
+    "address": "LOT F41 & F41A, 1ST FLOOR,AEON MALL TAIPING,JALAN KAMUNTING, Perak",
+    "postcode": "34600",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.928517+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "IMAGO SHOPPING MALL",
+    "address": "B29 & B30, IMAGO SHOPPING MALL,KK TIMES SQUARE PHASE 2,JALAN COASTAL, Sabah",
+    "postcode": "88100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.935132+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian IOI Mall 2",
+    "address": "LG-263 & 265, Lower Ground Floor,IOI City Mall Phase II, Wil. Persekutuan",
+    "postcode": "62502",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.940836+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON BUKIT MERTAJAM",
+    "address": "G29A & G29B,GF,AEON MALL BKT MERTAJ,LOT NO 30908, JALAN ROZHAN ALMA,,SEBERANG PRAI TENGAH, Pulau Pinang",
+    "postcode": "14000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.946333+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SUNWAY PUTRA MALL",
+    "address": "LG-5, SUNWAY PUTRA MALL,,100, JALAN PUTRA,, Wil. Persekutuan",
+    "postcode": "50350",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.953099+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "ONE CITY USJ",
+    "address": "A-GF-07, GROUND FLOOR,,ONE CITY MALL,,JALAN USJ 25/1A,, Selangor",
+    "postcode": "47650",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.960142+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "STAR AVENUE SUBANG BESTARI",
+    "address": "LOT L1-08,STAR AVENUE LIFESTYLE,NO. 3,JALAN ZUHAL U5/179,PUSAT,PUSAT KOMERSIAL ARENA BINTANG,SEKU5, Selangor",
+    "postcode": "40150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.966329+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON KLEBANG",
+    "address": "AEON MALL IPOH KLEBANG,LIT 12080, KLEBANG PERDANA, Perak",
+    "postcode": "31200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.972081+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "VIVACITY MALL, KUCHING",
+    "address": "LG–001,002&004,LG FLOOR,,VIVACITY MEGAMALL, JALAN WAN ALWI,, Sarawak",
+    "postcode": "93350",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.981146+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AMAN CENTRAL",
+    "address": "LG-03, LOWER GROUND FLOOR,,AMAN CENTRAL,,LEBUHRAYA DARUL AMAN,, Kedah",
+    "postcode": "5100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.988050+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SUNWAY VELOCITY",
+    "address": "B-12, BASEMENT ONE,,SUNWAY VELOCITY MALL,,LINGKARAN SV,SUNWAY VELOCITY,, Wil. Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:24.994722+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SETAPAK CENTRAL KL FESTIVAL",
+    "address": "G-02A,GROUND FLOOR,SETAPAK CENTRAL,,67, JALAN TAMAN IBU KOTA,,TAMAN DANAU KOTA,SETAPAK, Wil. Persekutuan",
+    "postcode": "53300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.001478+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON BUKIT INDAH JOHOR BAHRU",
+    "address": "F50, F51 7 F52, AEON BUKIT INDAH,JALAN INDAH 15/2,TAMAN BUKIT INDAH, Johor",
+    "postcode": "79100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.007889+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KLUANG MALL KLUANG",
+    "address": "LOT LG-13A & LG-15, KLUANG MALL,JALAN RAMBUTAN,BANDAR KLUANG, Johor",
+    "postcode": "86000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.014856+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "EMPIRE SHOPPING GALLERY",
+    "address": "F30 & F31, FIRST FLOOR,EMPIRE SHOPPING GALLERY,,JALAN SS16/1,, Selangor",
+    "postcode": "47500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.021202+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON BIG WANGSA MAJU",
+    "address": "LOT NO G-25&43A, GROUND FLOOR,,AEON BIG WANGSA MAJU,,6 JLN 8/27A, SECTION 5,WANGSA MAJU, Wil. Persekutuan",
+    "postcode": "53300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.028133+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "EVOLVE MALL CONCEPT MALL",
+    "address": "EV-G-19 & EV-G-20, GROUND FLOOR,,EVOLVE CONCEPT MALL@PACIFIC PLACE,JLN PJU 1A/4, ARA DAMANSARA, Selangor",
+    "postcode": "47301",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.034818+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JB CITY SQUARE LEVEL 2",
+    "address": "M2-02 & M2-03,LEVEL 2,,JOHOR BAHRU CITY SQUARE,NO 106-108,,JALAN WONG AH FOOK,, Johor",
+    "postcode": "-",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.043357+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TRIANG",
+    "address": "NO. 3&5, GROUND FLOOR,,JALAN SENTRAL TRIANG 6,,SENTRAL TRIANG,, Pahang",
+    "postcode": "28300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.049489+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "EG MALL KOTA MARUDU",
+    "address": "LOT 11 (B) & 12, GROUND FLOOR,BLOCK A, EG MALL KOTA MARUDU,JALAN GOSHEN, Sabah",
+    "postcode": "89107",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.056339+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sura Gate Buss Ctr Dungun Terengganu",
+    "address": "No. 7 Ground Floor,,HS (D) 1374, PT 18074,, Terengganu",
+    "postcode": "23000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.064967+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON MALL SHAH ALAM",
+    "address": "LOT F-01,FIRST FLOOR, AEON MALL,JALAN AKUATIK 13/64,,D'KAYANGAN, SEKSYEN 13,, Selangor",
+    "postcode": "40100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.070671+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian First World Plaza",
+    "address": "Lot No T2A-A09A of Level 2,,Sky Plaza,Genting Highland, Pahang",
+    "postcode": "69000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.076305+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Melawati",
+    "address": "Lot LG-04, Lower Ground,Melawati Mall, 355 Jalan Bandar Melawati,Pusat Bandar Melawati, Wil. Persekutuan",
+    "postcode": "53100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.085017+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Paradigm Mall JB",
+    "address": "GF-16 & 17,Paradigm Mall Johor Bahru,Jalan Skudai,, Johor",
+    "postcode": "81200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.091403+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JB CITY SQUARE LEVEL 4",
+    "address": "LOT NO. J4-09, LEVEL 4,,JOHOR BAHRU CITY SQUARE,,106 - 108 JALAN WONG AH FOOK,, Johor",
+    "postcode": "80000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.097034+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SS15 COURTYARD SUBANG JAYA",
+    "address": "LOT LG-01B, LOWER GROUND FLOOR,,SS15 COURTYARD. JALAN SS15/4G,, Selangor",
+    "postcode": "47500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.102923+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN KUALA KANGSAR 2",
+    "address": "NO 4 & 6, JALAN KUALA KANGSAR, Perak",
+    "postcode": "33000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.108367+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "STARLING MALL",
+    "address": "LOT B-005-006, BASEMENT LEVEL 1,,THE STARLING MALL,,JALAN SS21/60, DAMANSARA UTAMA,, Selangor",
+    "postcode": "47400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.114586+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PAVILION SHOPPING MALL",
+    "address": "LOT. NO. 1.26.00, LEVEL 1,,PAVILION, NO. 168,,JALAN BUKIT BINTANG,, Wil. Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.120722+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian CityONE Megamall Kuching",
+    "address": "Unit Nos MG16, MG17 & MG18,Ground Floor, Mall 1, CityONE Megamall,No. 1, Jalan Song, Sarawak",
+    "postcode": "93350",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.128201+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kuantan City Mall",
+    "address": "L 1-05, Level 1, Jalan Putra Square 6/1,Putra Square, Kuantan City Mall,Kuantan, Pahang",
+    "postcode": "25300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.137426+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian KL Eco City",
+    "address": "Guardian KL Eco City,KL Eco City Retail Centre,,Kuala Lumpur, Wil. Persekutuan",
+    "postcode": "59200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.144108+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Austin Heights Johor Bahru",
+    "address": "Lot No 23, Ground Floor,,Jalan Austin Heights 3,,Taman Mount Austin,, Johor",
+    "postcode": "81100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.151783+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian AEON Mall Kuching Central",
+    "address": "Lot F20 &F21, First Floor,,AEON Mall Kuching Central,, Sarawak",
+    "postcode": "93200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.158667+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KL GATEWAY MALL",
+    "address": "LOT UG20, UPPER GROUND FLOOR,,KL GATEWAY MALL, NO.2, JALAN KERINCHI,GERBANG KERINCHI LESTARI,, Wil. Persekutuan",
+    "postcode": "59200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.167784+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KSL MALL (RELOCATION)",
+    "address": "LOT LG-23A, LOWER GROUND FLOOR,,KSL CITY, JALAN SELADANG,,TAMAN ABAD, Johor",
+    "postcode": "80250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.173854+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KUBANG KERIAN",
+    "address": "LOT NO PT 1705, TINGKAT BAWAH,,JALAN RAJA PEREMPUAN ZAINAB 2,KUBANG KERIAN, Kelantan",
+    "postcode": "16100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.183721+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian AEON Mall Bandar Dato Onn",
+    "address": "AEON Mall Bandar Dato Onn,No 3, Jalan Dato Onn 3,Bandar Dato Onn, Johor",
+    "postcode": "81100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.190369+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Emart Matang Kuching",
+    "address": "Lot No S51 & S74,Emart Matang,Kuching, Sarawak",
+    "postcode": "93050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.199213+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Fahrenheit 88",
+    "address": "Lot G14, Ground Floor,Fahrenheit 88 Shopping Mall,179 Jalan Bukit Bintang, Wil. Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.206503+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Amcorp Mall 2",
+    "address": "Unit No G37, G38 & G39,,Ground Floor,Amcorp Mall, Selangor",
+    "postcode": "46050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.213055+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian C Mart Nibong Tebal",
+    "address": "Lot G-65, C Mart, Nibong Tebal,,5631, H.S. (D) 2523, Mukim 11,,Nibong Tebal, Pulau Pinang",
+    "postcode": "14300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.219118+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Saradise Kuching",
+    "address": "LOT G16 & G17, OFF JALAN STUTONG,SARADISE KUCHING, Sarawak",
+    "postcode": "93350",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.224618+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian TF Value Mart Seri Manjung",
+    "address": "LOT A15 & 16,,TF Value Mart Seri Manjung, PT,,Pusat Perniagaan Manjung Point 1,, Perak",
+    "postcode": "32040",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.230260+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Financial Park Labuan",
+    "address": "Lot No A008, Ground Floor,,Financial Park Shopping Complex,, Sabah",
+    "postcode": "87000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.235303+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Regina Mall Port Dickson",
+    "address": "Lot G-8, Ground Floor,,Regina Mall, Batu 1/2 Jalan Pantai,, Negeri Sembilan",
+    "postcode": "71000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.240305+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian The Spring Mall Kuching",
+    "address": "Lot G54B, Ground Floor,The Spring Shopping Mall,Persiaran Spring, Sarawak",
+    "postcode": "93300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.244811+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Wetex Parade Muar",
+    "address": "Lot 1-23A 25, & 25A Level 1,,Wetex Parade Shopping Centre,,No 69 Jalan Ali,, Johor",
+    "postcode": "84000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.249203+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Star Megamall Sibu",
+    "address": "L1-21, Ground Floor,,Star Mega Mall, Lot 1294,,Tunku Abdul Rahman Road,, Sarawak",
+    "postcode": "96000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.253983+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian SB Mall Sungai Buloh",
+    "address": "Lot G-18A, Ground Floor,,SB Mall, Jalan Bpr 1,,Bukit Rahman Putra,, Selangor",
+    "postcode": "47000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.258559+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Wisma Sanyan Sibu",
+    "address": "Lot 1.15 & 1.16, First Floor,,Wisma Sanyan, Sarawak",
+    "postcode": "96000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.264380+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Dpulze Shopping Centre Cyberjay",
+    "address": "Lot No. UG10, Upper Ground Floor,,Dpulze Shopping Centre, Lingkaran Cyber,Cyber 12,, Selangor",
+    "postcode": "63000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.269677+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bintulu Sentral Sarawak",
+    "address": "Lot 175 & 176, Ground Floor,,Bintulu Sentral,,Jalan Kidurong,, Sarawak",
+    "postcode": "97000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.274342+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jalan Bunga Raya Melaka",
+    "address": "Lot No. 189-G-02,,Jalan Persisiran Bunga Raya,, Melaka",
+    "postcode": "75100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.278709+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kuala Nerang Kedah",
+    "address": "Lot No. 21 & 22,,Jalan Semeliang, Pekan Baru,,Kuala Nerang, Kedah",
+    "postcode": "6300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.283101+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Seremban Gateway Negeri Sembila",
+    "address": "Lot No. 4, Ground Floor,,Seremban Gateway,, Negeri Sembilan",
+    "postcode": "70200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.287441+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Cameron Fair Cameron Highlands",
+    "address": "No. C-G-073, C-G-073A, C-G-075,,Level G, Cameron Fair Tanah Rata,,Tanah Rata, Cameron Highlands, Pahang",
+    "postcode": "39000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.292348+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "THE SPRING, BINTULU",
+    "address": "LOT NO. F45 & F46, FIRST FLOOR, THE SPRING SHOPPING MALL, BINTULU, SARAWAK, MALAYSIA, Sarawak",
+    "postcode": "97000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.298992+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN AEON MALL NILAI",
+    "address": "LOT G25, GROUND FLOOR, AEON MALL NILAI, NEGERI SEMBILAN, Negeri Sembilan",
+    "postcode": "71800",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.304196+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "KLIA 2 (2ND STORE)",
+    "address": "LOT NO. L3-41, L3-42, L3-43, L3-45 & L3-46, LEVEL 3, GATEWAY@KLIA2, 64000, SELANGOR, Selangor",
+    "postcode": "64000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.309026+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JALAN MERDEKA, LABUAN",
+    "address": "LOT NO. U0098, GROUND FLOOR, BA, JALAN MERDEKA, 87000 LABUAN, MALAYSIA, Sabah",
+    "postcode": "87000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.313855+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "CENTRAL I-CITY, SHAH ALAM",
+    "address": "UNIT LG-48, LG-49 AND LG-52, LOWER GROUND FLOOR, CENTRAL I-CITY, 40000 SHAH ALAM, SELANGOR, Selangor",
+    "postcode": "40000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.318335+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "ITCC PENAMPANG",
+    "address": "LOT NO. G-123, GROUND FLOOR, INTERNATIONAL TECHNOLOGY & COMMERCIAL CENTRE PENAMPANG, SHOPPING MALL, 89500 PENAMPANG, SABAH, MALAYSIA., Sabah",
+    "postcode": "89500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.322779+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "METRO POINT COMPLEX, KAJANG",
+    "address": "LOT G21 & G28, GROUND FLOOR, METRO POINT COMPLEX, JALAN JELOK 8, 43000 KAJANG, SELANGOR, Selangor",
+    "postcode": "43000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.328679+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "BERJAYA TIMES SQUARE (1ST FLOOR)",
+    "address": "Lot No.01-14&0-15,,1st Floor,Berjaya Times Square,No.1,Jalan Imbi, KL, Wil. Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.334834+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PUSAT PERNIAGAAN BALDWIN, TAPAH",
+    "address": "LOT NO. 117, GROUND FLOOR, JALAN BALDWIN 3, PUSAT PERNIAGAAN BALDWIN, 35000 TAPAH, MALAYSIA., Perak",
+    "postcode": "35000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.339726+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "LINTAS PLAZA, KK",
+    "address": "LOT 17, GROUND FLOOR, JALAN LINTAS, PLAZA LINTAS, 88300 KOTA KINABALU, SABAH, MALAYSIA., Sabah",
+    "postcode": "88300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.344235+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AMPANG BUSINESS CENTRE, ALOR SETAR",
+    "address": "LOT 10A, GROUND FLOOR, PT 111, KOMPLEKS PERNIAGAAN AMPANG, LEBUHRAYA SULTANAH BAHIYAH, 05050 ALOR SETAR, KEDAH, MALAYSIA., Kedah",
+    "postcode": "5050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.348859+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian KLIA Level 5 Main",
+    "address": "LOT NO. MTB-5-L13, LEVEL 5, MAIN TERMINAL BUILDING, KUALA LUMPUR INTERNALTIONAL AIRPORT, 64000 KLIA, SELANGOR, Selangor",
+    "postcode": "64000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.353613+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON BIG BUKIT RIMAU",
+    "address": "LOT F1.30A, F1.31A, F1.32-35, GROUND FLOOR, AEON BIG BUKIT RIMAU, BUKIT RIMAU, 40460 SHAH ALAM, SELANGOR, Selangor",
+    "postcode": "40460",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.357964+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEROVILLE MALL, KUCHING",
+    "address": "LOT 1A3 – LOT 1 & 2 GROUND FLOOR, AEROVILLE SHOPPING MALL, 93350 KUCHING, SARAWAK, MALAYSIA., Sarawak",
+    "postcode": "93250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.362235+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "R&F MALL JB",
+    "address": "LOT 1-024 & 1-025, FIRST FLOOR, R&F MALL, JOHOR BAHRU, Johor",
+    "postcode": "80300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.367108+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON BIG KLANG",
+    "address": "LOT F1.03A-05, GROUND FLOOR, AEON BIG KLANG, JALAN HARMONI 3/KU3, SUNGAI PINANG, 41400 KLANG,, Selangor",
+    "postcode": "41400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.372007+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PAPAR SQUARE",
+    "address": "LOT NO. 55, GROUND FLOOR, PAPAR SQUARE, KG. LINGAN, 89600 PAPAR, SABAH, MALAYSIA, Sabah",
+    "postcode": "89600",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.377017+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "SEJATI WALK, SANDAKAN",
+    "address": "LOT G-A-25 & G-A-26, GROUND FLOOR, SEJATI WALK, JALAN MERPATI, 90000 SANDAKAN, SARAWAK, Sabah",
+    "postcode": "90000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.382827+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "MEGA EMART RIAM, MIRI",
+    "address": "LOT 8883, BLOCK 1 LLD, JALAN MIRI-BINTULU, MEGA E-MART COMMERCIAL CENTRE, 98000 MIRI, SARAWAK, MALAYSIA, Sarawak",
+    "postcode": "98000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.387706+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "AEON BIG FALIM",
+    "address": "LOT G.07, GROUND FLOOR, AEON BIG FALIM, TAMAN MAS JAYA, FALIM, 30200 IPOH, NEGERI PERAK, Perak",
+    "postcode": "30200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.392026+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian AEON Big Bukit Minyak",
+    "address": "LOT G.28-30, GROUND FLOOR, AEON BIG BUKIT MINYAK, TAMAN BUKIT MINYAK, 14000 BUKIT MERTAJAM, PENANG, Pulau Pinang",
+    "postcode": "14000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.396757+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "TF Value Mart Balik Pulau",
+    "address": "Lot 1,2,3 Kiosk 1&2, TF Value Mart Balik Pulau, Balik Pulau, 11000 Pulau Pinang, Pulau Pinang",
+    "postcode": "11000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.401162+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Design Village Penang",
+    "address": "Lot No G141, Design Village Outlet Mall, Jalan Cassia Barat 2, Bandar Cassia, 14110 Pulau Pinang, Pulau Pinang",
+    "postcode": "14110",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.405484+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jalan Pesta Muar",
+    "address": "Lot No 3, Ground Floor, Jalan Pesta 1-1, Taman Tun Dr Ismail, 84000 Muar, Johor, Johor",
+    "postcode": "84000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.410885+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN PASARAYA METRO KAJANG",
+    "address": "Lot G-06 – G9, No. 1, Jalan Kajang Mewah 7A, Taman Kajang Mewah, 43000 Kajang, Selangor, Selangor",
+    "postcode": "43000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.417143+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN JAYA ONE",
+    "address": "P2.019 , P2.021 & P2.023,72A, Jalan Universiti, Seksyen 13, 46200 Petaling Jaya, Selangor, Selangor",
+    "postcode": "46200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.422126+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian TF Sunway City Ipoh",
+    "address": "Guardian TF Value Mart Sunway City Ipoh, No 2, Jalan SCI 2/2, Bandar Sunway Ipoh, 31400 Ipoh Perak, Perak",
+    "postcode": "-",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.426702+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian KL East Mall",
+    "address": "Lot G2-29, Ground Floor, KL East Mall, 53100 Kuala Lumpur, Wil. Persekutuan",
+    "postcode": "53100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.431143+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian (SIS) Giant Hypermarket Kota Damansara",
+    "address": "No 16, Jalan PJU 5/1, Kota Damansara, PJU 5, 47810 Petaling Jaya, Selangor, Selangor",
+    "postcode": "47810",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.435489+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN KTCC MALL, KUALA TERENGGANU",
+    "address": "Lot No G-21 & G-22, Ground Floor, KTCC Mall, 20000 Kuala Terengganu, Terengganu",
+    "postcode": "20000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.439804+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN KIPMALL DESA COALFIELD",
+    "address": "Lot LG 18, LG 19 & LG 20, KIP Mall Desa Coalfield, Desa Coalfields, 47000 Selangor, Selangor",
+    "postcode": "47000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.445629+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian (SIS) TMC Bangsar",
+    "address": "TMC BANGSAR (TMCB) 23-27 LORONG ARA KIRI SATU, LUCKY GARDEN, BANGSAR, 59100 KUALA LUMPUR, Wil. Persekutuan",
+    "postcode": "59100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.450057+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian AEON Mall Seri Manjung",
+    "address": "Lot G72 & G73, Ground Floor,,AEON Mall Seri Manjung, Perak",
+    "postcode": "32040",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.455134+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "(SIS) GUARDIAN GIANT BANDAR BARU AMPANG",
+    "address": "GIANT HYPERMARKET BANDAR BARU AMPANG,SPECTRUM SHOPPING MALL,JALAN WAWASAN 4/2, BDR BARU AMPANG, Selangor",
+    "postcode": "68000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.460452+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "(SIS) GUARDIAN GIANT SENAWANG",
+    "address": "GIANT HYPERMARKET SENAWANG,LOT 1571, JALAN SENAWANG,TAMAN KOMERSIAL SENAWANG, Negeri Sembilan",
+    "postcode": "70400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.466340+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "(SIS) GUARDIAN GIANT SMKT AMCORP MALL",
+    "address": "GIANT SUPERMARKET AMCORP MALL,LG22, LGF BLOK E, AMCORP MALL,18 PERSIARAN BARAT OFF JALAN TIMUR, Selangor",
+    "postcode": "46050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.471229+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "(SIS) GUARDIAN SMKT KELANA JAYA",
+    "address": "GIANT SUPERMARKET KELANA JAYA,NO.2-8, SS 6/3,PUSAT BANDAR KELANA JAYA, Selangor",
+    "postcode": "47301",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.475997+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Gdn Econsave Kubang Kerian",
+    "address": "KK 27, 1st Flr, Econsave Kubang Kerian,Lot PT 1640 & PT 1685, Sek. 54,Jln. Raja Perempuan Zainab II, Kelantan",
+    "postcode": "16150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.480455+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Amanjaya Mall",
+    "address": "Lot A7,GF,No 1 Jln Jati 1,,Sungai Petani, Kedah, Kedah",
+    "postcode": "8000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.484983+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bahau Negeri Sembilan",
+    "address": "Lot No.126A & Lot No.126B,,Ground Floor, Jalan Mewah,, Negeri Sembilan",
+    "postcode": "72100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.489460+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Sri Sendayan",
+    "address": "No. 25, Persiaran Metro Sendayan 1,Sendayan Metro Park, Negeri Sembilan",
+    "postcode": "71950",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.499117+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Yong Peng",
+    "address": "Lot.15, GF,,Jalan Bayan,Tmn Sembrong Barat,,Tmn Sembrong,, Johor",
+    "postcode": "83700",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.505025+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bataras Kelombong Sabah",
+    "address": "NO CL015484974 CL015484983,5 1/2 MILE JALAN TUARAN KOLOMBONG, Sabah",
+    "postcode": "88400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.510487+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bataras Keningau Sabah",
+    "address": "LOT NO.G8&G9,GIANT SUPERSTORE,BANDAR BARU KENINGAU,JALAN APIN APIN, Sabah",
+    "postcode": "89000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.515602+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bataras Papar Sabah",
+    "address": "NO.CL 025019970,,1/2 KM JALAN PENGALAT,, Sabah",
+    "postcode": "89608",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.520966+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Beaufort Sabah",
+    "address": "Lot 99, Beaufort Commercial Centre,,Beaufort, Sabah",
+    "postcode": "89800",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.526427+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Boulevard Bintulu",
+    "address": "Lot No. G-23 & G-24, GF,,Boulevard Shopping Mall,,Jln Tanjung Batu, Sarawak",
+    "postcode": "97000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.532489+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian C180 Cheras Selatan",
+    "address": "Unit A-10-G,GF,,Jalan C180/2,Batu 11,,Cheras, Selangor, Selangor",
+    "postcode": "43200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.537815+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Centre Point KK",
+    "address": "Lot B41, B42, B43 & B44,,2nd Floor, Centre Point Sabah,,Lorong Centre Point, Sabah",
+    "postcode": "88000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.542705+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Citta Mall",
+    "address": "Lot No.G-26, Ground Floor,Citta Mall,Ara Damansara, Selangor",
+    "postcode": "47301",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.547550+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian EcoMall Petra Jaya",
+    "address": "Lot M-0-77(S014),Lot No.F28,F29,F30&F31,,First Floor ECO Mall Petrajaya,,Taman Melati 2,, Sarawak",
+    "postcode": "93050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.552227+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Eko Cheras",
+    "address": "Lot No.S-52,2nd Floor,,Eko Cheras Mall,Jalan Cheras,,Taman Mutiara Barat, Wil. Persekutuan",
+    "postcode": "56000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.556707+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Garden Home",
+    "address": "No. 916, Jalan S2 F23,Garden Homes,Seremban 2, Negeri Sembilan",
+    "postcode": "70300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.561039+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN GIANT HYPERMARKET NUSA BESTARI",
+    "address": "LOT F22 1ST FLOOR,GIANT HYPERMARKET NUSA BESTARI,NO1 JLN BESTARI 7/2 TMN NUSA BESTAR, Johor",
+    "postcode": "81300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.565899+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Gurney Mall UTM",
+    "address": "Lot 1-33, Level 1,,Jalan Maktab,,Kg Datuk Keramat,, Wil. Persekutuan",
+    "postcode": "54000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.570638+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Gurney Plaza",
+    "address": "Lot No.170-B1-05, Basement 1,Gurney Plaza,Gurney Drive, Pulau Tikus, Pulau Pinang",
+    "postcode": "10250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.575459+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Hulu Langat Kajang Selangor",
+    "address": "11, Jalan Seri Mas 1,Taman Seri Mas,Hulu Langat, Selangor",
+    "postcode": "43100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.581411+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian ICOM Square Kuching",
+    "address": "Lot A113, GF,,Block A1, ICOM Square,,Jalan Pending, Kuching, Sarawak",
+    "postcode": "93450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.586747+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jalan Beserah",
+    "address": "A-6606, Ground Floor,,Taman Metro, Jalan Beserah, Pahang",
+    "postcode": "25250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.592123+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Komtar JBCC Johor Bahru",
+    "address": "Lot No. 106-107,,1st Floor, Komtar JBCC,, Johor",
+    "postcode": "80000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.598219+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Lotuss Ara Damansara",
+    "address": "LOT F17 & F18, 1ST FLOOR,,TESCO ARA DAMANSARA,1 JLN PJU 1A/3A,ARA DAMANSARA, PJU 1A, Selangor",
+    "postcode": "47301",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.603449+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Lotuss Melaka",
+    "address": "LOT NO L4, TESCO MELAKA,,NO 1, JALAN TUN ABDUL RAZAK,,PERINGGIT, Melaka",
+    "postcode": "75400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.608329+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Lotuss Parit Raja",
+    "address": "L11 & 12, Tesco Parit Raja,HSD 70098, PTD No 23625 Mukim Sri Gading,Batu Pahat, Johor",
+    "postcode": "86400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.612715+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Lotuss Putra Nilai",
+    "address": "Tesco Putra Nilai,,No. 1, Jalan BBN 1/3,,Putra Nilai, Negeri Sembilan",
+    "postcode": "71800",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.616984+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Lotuss Setia Alam",
+    "address": "Lot No F6, Tesco Setia Alam,Jalan Setia Prima U13/3,Setia Alam, Selangor",
+    "postcode": "40170",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.621498+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Mid Valley Southkey JB",
+    "address": "Lot LG-022&023,Lower GF,,The Mall,Mid Valley SouthKey,,Persiaran Southkey 1, Southkey, Johor",
+    "postcode": "80150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.625972+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Miri Times Square",
+    "address": "Unit D-G-10, Block D,,Miri Times Square Marina Parkcity,,Jalan Bendahara, Sarawak",
+    "postcode": "98000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.630472+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Padang Matsirat",
+    "address": "The Smith House,,Lot 9&10,Bandar Padang Matsirat,,Pulau Langkawi, Kedah",
+    "postcode": "7000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.634883+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Palm Mall",
+    "address": "Level 4, Lot UG-22,,Upper GF,Palm Mall,,Jalan Sungai Ujong,, Negeri Sembilan",
+    "postcode": "70200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.640474+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Parit Buntar",
+    "address": "No. 5 Persiaran Shahbandar,,Pusat Bandar Baru,,Parit Buntar, Perak",
+    "postcode": "34200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.645405+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Penang Sentral",
+    "address": "2-03, Level 2,,Penang Sentral, Pulau Pinang",
+    "postcode": "12000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.652143+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Pengkalan Chepa",
+    "address": "Lot No. 15&16, GF,,Pantai Timur Hypermarket,Taman Bendahara,Pengkalan Chepa, Kelantan",
+    "postcode": "16100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.658633+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sentosa Parade Kuching",
+    "address": "Lot No.1659 (SL 5), GF,,Sentosa Parade, BLK 46,Kcld,,7th Mile, Jln Penrissen, Sarawak",
+    "postcode": "93250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.664015+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Setapak Central Kuala Lumpur",
+    "address": "Lot G48,GF,Setapak Central,,67,Jln Taman Ibu Kota,,Taman Danau Kota, Wil. Persekutuan",
+    "postcode": "53300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.668902+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Setia City Mall",
+    "address": "LG102/02, Lower Ground Floor,No.2, Jalan Setia Dagang AH U13/AH,Setia Alam, Seksyen U13, Selangor",
+    "postcode": "40170",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.673360+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Solaria Square Penang",
+    "address": "Lot No. 2-G-2 & 2-G-3,,Ground Floor, Medan Rajawali,,Solaria Square, Pulau Pinang",
+    "postcode": "11900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.678718+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Subang Parade Subang Jaya",
+    "address": "Lot LG12, Lower Ground Floor,,Subang Parade, Jalan Kemajuan Subang, SS, Selangor",
+    "postcode": "47500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.683739+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Summit USJ",
+    "address": "Persiaran Kewajipan USJ 1,,Lot G0.7,G0.8 & G0.9, GF,GF, The Summit Subang USJ,, Selangor",
+    "postcode": "47600",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.688199+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sunway Big Box Village",
+    "address": "Lot UG-L-4,Upper GF,,Sunway Big Box,,Nusajaya, Johor",
+    "postcode": "81550",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.693797+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sunway Geo",
+    "address": "Lot F-01-11,Level 1,,Sunway Geo Avenue,,Jalan Lagoon Selatan, Bdr Sunway, Selangor",
+    "postcode": "47500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.701608+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Taman Chemor Ipoh",
+    "address": "Lot No.3, Ground Floor,,Jalan Silang 3,,Taman Chemor, Perak",
+    "postcode": "31200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.707073+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian TF Taiping",
+    "address": "A14 & A15, TF Value Mart Taiping,Jln Perusahaan 3, Kawasan Perindustrian,Kamunting 3 Kamunting Raya, Perak",
+    "postcode": "34600",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.711903+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian TF Value Mart Sungai Petani",
+    "address": "NO A21 GIANT HYPERMARKET SUNGAI PET,PT20157,PT20209,PT50563-PT50584,PT50597 & PT50598,MUKIM SG PETANI, Kedah",
+    "postcode": "80000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.716813+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Toppen Shopping Ctr",
+    "address": "Lot No. G.03, GF,,Toppen Shopping Centre,Tebrau, Johor",
+    "postcode": "81100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.723311+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Trilium Lake Sg Besi",
+    "address": "Lot No. 5 & Lot No 7, Ground Floor,Jalan Tasik Utama 8, Taman Tasik Damai,Sungaii Besi, Wil. Persekutuan",
+    "postcode": "57000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.728952+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Tropicana Gardens",
+    "address": "Lot CC78,79,80,81&82A,,Concourse Level, Tropicana Gardens,,Kota Damansara, Selangor",
+    "postcode": "47810",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.734741+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian U Mall Pulai Utama",
+    "address": "Lot F08, 1st Floor, TF Value Mart,,U Mall,No.45,Jln Persiaran Pulai Utama,,Taman Pulai Utama, Johor",
+    "postcode": "81110",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.740468+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian U Sentral Segamat Johor",
+    "address": "Lot S15, S13A & S13,,Jalan Utama 3/2, Taman Bandar Utama, Johor",
+    "postcode": "85000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.763891+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Wisma Central",
+    "address": "Lot 1.05 & 1.06 GF,&,Lot 2.11B, 2.13, 2.14 &,2.15 1st Floor,, Wil. Persekutuan",
+    "postcode": "50450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.768999+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Wangsa Walk Wangsa Maju",
+    "address": "LOT G-41 WANGSA WALK MALL,WANGSA AVENUE,JALAN WANGSA PERDANA1,WANGSA MAJU, Wil. Persekutuan",
+    "postcode": "53300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.773966+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Permy Mall Miri",
+    "address": "Lot 102, 103 & 104,Ground Floor, Permy Mall,Bandar Baru Permyjaya, Sarawak",
+    "postcode": "98000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.780285+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian My Town Cheras",
+    "address": "Lot No. B1-063A, Basement 1,MyTOWN Shopping Centre,No. 6, Jln. Cochrane, Sek. 90, Wilayah Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.786116+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Pinnacle Mall Sri Petaling",
+    "address": "Lot LG-06 & LG-07,Pinnacle Sri Petaling Mall,Jln. Radin Anum 1, Wilayah Persekutuan",
+    "postcode": "57000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.791855+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Pavilion Bkt Jalil",
+    "address": "Lot 1.89.00 & 1.90.00, Level 1,Pavilion Bukit Jalil,Persiaran Jalil Utama, Bukit Jalil, Wilayah Persekutuan",
+    "postcode": "57000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.797622+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Mitsui Lalaport",
+    "address": "Lot L2 - 12B, Level 2,Mitsui Shopping Park Lalaport KL,No. 2, Jln. Hang Tuah, Wilayah Persekutuan",
+    "postcode": "55100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.804674+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Setia Taipan Setia Alam",
+    "address": "No. 111-G, Ground Floor,Jalan Setia Gemilang BG,U13/BG, Precint 15, Setia Alam, Selangor",
+    "postcode": "40170",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.811341+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian AEON Mall Tebrau",
+    "address": "Lot F26, AEON Mall Tebrau City,3, Persiaran Desa Tebrau,Taman Desa Tebrau, Johor",
+    "postcode": "81100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.818222+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian NSK Cheras",
+    "address": "Lot F13 - F16,NSK Hypermarket Cheras,Lebuhraya Cheras-Kajang, Wil. Persekutuan",
+    "postcode": "43200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.825186+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Seksyen 8 Kota Damansara",
+    "address": "Lot 13, Ground Floor,Jalan Pekaka 8/2,Kota Damasara, Selangor",
+    "postcode": "47810",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.832235+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian United Point Kepong",
+    "address": "Unit LG-09, Lower Ground Floor,United Point,Jalan Lang Emas, Wil. Persekutuan",
+    "postcode": "51200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.838393+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Eco Majestic",
+    "address": "Lot 1-2, Blok 1,Jalan Eco Majestic 10/1,Eco Majestic, Selangor",
+    "postcode": "43500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.844914+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Faber Tower",
+    "address": "Lot 112&113A,1st Floor,Podium Block,,Faber Towers,Jln Desa Bahagia,,Taman Desa, Wil. Persekutuan",
+    "postcode": "58100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.850524+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Dgarden Batu Pahat",
+    "address": "No. 8,(GF) & Part of No.10 (GF),,Jalan Desa Botani 1,,Taman Desa Botani, Johor",
+    "postcode": "83000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.855603+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Emart Bintulu",
+    "address": "Lot 8631, Ground Floor,Jalan Tun Ahmad Zaidi,Berjaya Commercial Centre, Sarawak",
+    "postcode": "97000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.862593+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian NSK Rawang Jaya",
+    "address": "Lot. No 3-8 & 3-9, Level 3, NSK Rawang Jaya, Selangor",
+    "postcode": "48000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.870195+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kota Samarahan",
+    "address": "Lot 101 & 102, Ground Floor,Jalan Datuk Mohammad Musa, Sarawak",
+    "postcode": "94300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.876169+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kudat Sabah",
+    "address": "Lot 3, Ground Floor,Block B, Sedco New Shophouse,Pekan Tomborungus, Kudat, Sabah",
+    "postcode": "89050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.882947+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Taman Meranti Puchong",
+    "address": "No. 101-G, Blok F,Tanming Boulevard,,Jln Meranti Jaya 3/1,,Tmn Meranti Jaya, Selangor",
+    "postcode": "47120",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.888824+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jalan Bunga Tanjung Mentakab",
+    "address": "Lot 9, Ground Floor,Jalan Bunga Tanjung, Pahang",
+    "postcode": "28400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.894370+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Radia Jelutong Shah Alam",
+    "address": "G-33A, Komersial Radia Persiaran Arked,Bukit Jelutong,,Seksyen U8, Selangor",
+    "postcode": "40150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.899312+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Eastern Mall Siburan",
+    "address": "Unit 1, Grd Floor, Lot 1964 B. Block 6,Sentah-Segu Land, 17th Mile,Jalan Kuching Serian, Siburan, Sarawak",
+    "postcode": "94200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.904914+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Emart Moyan Kuching",
+    "address": "LOT SN02, GF, Genesis Mall 2,,Jalan Batu Kawa - Matang,, Sarawak",
+    "postcode": "93250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.910739+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian The Meditel Kuching",
+    "address": "Lot 1, Section 21, Meditel,,Jln Tun Abang Haji Openg, Sarawak",
+    "postcode": "93586",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.916165+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kota Belud",
+    "address": "Lot 32, Ground Floor,,Jalan Keruak,,Kota Belud, Sabah",
+    "postcode": "89157",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.920966+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian AEON Kinta Mall",
+    "address": "F27, AEON Mall, No.2, Jalan Teh Lean Swee,, Perak",
+    "postcode": "31400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.926296+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Pearl Point Shopping Mall",
+    "address": "Lot G18 & G19, Ground Floor, Pearl Point Shopping Mall,, Wil. Persekutuan",
+    "postcode": "58000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.932440+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bataras Superstore Papar",
+    "address": "Lot 99, Beaufort Commercial Centre, 1/2 KM Jalan Pengalat, Kota Kinabalu",
+    "postcode": "89600",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.937721+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kota Emas Pontian",
+    "address": "NO 44 & 45 JALAN EMAS 2, PUSAT PERNIAGAAN KOTA EMAS, PONTIAN",
+    "postcode": "82000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.942948+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Sri Putra",
+    "address": "Lot No 62, Jalan Seri Putra 1/4,Bandar Seri Putra, Bangi, Selangor",
+    "postcode": "43000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.947565+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian City Mall Kota Kinabalu",
+    "address": "Lot M-0-77 (S014) Ground Floor,City Mall, Jalan Lintas, Kota Kinabalu",
+    "postcode": "88300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.952197+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Baru Sungai Buloh",
+    "address": "NO 368 JALAN 1A/3,BANDAR BARU SUNGEI BULOH, Sungai Buloh",
+    "postcode": "47000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.957354+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Meru Jaya Ipoh",
+    "address": "No. 21G, Jalan Meru Bestari B5,Medan Meru Bestari,Jelapang, Ipoh",
+    "postcode": "30020",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.964226+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Pusat Perniagaan Putra Raub",
+    "address": "No. A12 & A13, Ground Floor,Lorong Raub 1, Pusat Perniagaan Putra,Raub, Raub",
+    "postcode": "27600",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.970038+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Target Tmn Kluang Perdana",
+    "address": "GPK14, Target Supermarket Kluang Perdana,Jalan Kluang Perdana 22,Taman Kluang Perdana, Johor",
+    "postcode": "86000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.975086+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kuching Airport",
+    "address": "Lot L1 L09 & L1 L10, Level 1,Arrival Hall,Kuching International Airport, Sarawak",
+    "postcode": "93250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.979688+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sandakan Airport",
+    "address": "Lot GF L13, Ground Level,,Public Concourse/Arrival Level(Landside),Sandakan Airport, Sabah",
+    "postcode": "90000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.984678+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Tawau Airport",
+    "address": "Lot GF L03 & GF L04, Ground Floor,,Public Concourse,Arrival Level (Landslide), Tawau Airport, Sabah",
+    "postcode": "91011",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.990330+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian KK Airport",
+    "address": "Lot L3 L10 & L3L11 , Level 3,Departure Hall (Landslide),,KK International Airport,, Sabah",
+    "postcode": "88740",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:25.995145+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bdr Prima Senawang",
+    "address": "No. 37, Jalan BPS 3,,Bandar Prima Senawang, Negeri Sembilan",
+    "postcode": "70450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.008081+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian NSK Klang Sentral",
+    "address": "Lot F1, NKS Klang Sentral,2, Persiaran Klang Sentral 2,Taman Klang Sentral, Pekan Meru, Selangor",
+    "postcode": "41050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.014059+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Pines Square Kuching",
+    "address": "Lot 9 & 10, Ground Floor,,Block 4 Pines Square,,Jalan Batu Kawa,, Sarawak",
+    "postcode": "93250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.019049+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Klippa Batu Kawan",
+    "address": "LG08 Lower Grd Flr, Klippa Shopping Ctr,No. 752, Persiaran Cassia Selatan 8,Bandar Cassia, Pulau Pinang",
+    "postcode": "14110",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.024280+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Pendang Square Kedah",
+    "address": "No.14, Ground Floor,Persiaran Pendang Square 1,Pendang Square, Pendang, Kedah",
+    "postcode": "6700",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.029249+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Taman Mount Austin Johor",
+    "address": "Lot No.8, Jalan Austin Height 8/9,Taman Mount Austin, Johor",
+    "postcode": "81100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.033924+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian TTDI Grove Kajang",
+    "address": "Lot 8-1, Ground Floor,Jalan TTDI Grove 1/1, Selangor",
+    "postcode": "43000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.038566+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Prima Square Sandakan",
+    "address": "Lot 74 & 75, Ground Floor,Block 6, Prima Square,Jalan Utara, Sabah",
+    "postcode": "90000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.043132+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Gua Musang Kelantan",
+    "address": "Lot PT 8378, Ground Floor,Taman Wangsa Mewangi,Jalan Persiaran Raya, Kelantan",
+    "postcode": "18300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.047437+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kelapa Sawit Kulai",
+    "address": "No. 3, Jalan Impiana 1,Taman Impiana Kelapa Sawit, Johor",
+    "postcode": "81030",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.051853+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian SOGO KL",
+    "address": "Lot L7-4 & L7-5, Level 7, SOGO KL,Jalan Tuanku Abdul Rahman,City Centre, Wil. Persekutuan",
+    "postcode": "50100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.056248+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Rasah Jaya Seremban",
+    "address": "Lot 3827-G, Jalan RJ 6/8,Taman Rasah Jaya, Negeri Sembilan",
+    "postcode": "70300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.062187+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Centre Point Seremban",
+    "address": "G-19, Centrepoint Seremban,Lot PT 9149, Jln Dato' Siamang Gagap, Negeri Sembilan",
+    "postcode": "70100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.069219+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Tmn Kok Lian Jln Ipoh",
+    "address": "No. 27, Ground Floor,Jalan Batu Ambar Off Jalan Ipoh,Taman Kok Lian, Wil. Persekutuan",
+    "postcode": "51200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.074696+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jengka Pahang",
+    "address": "Lot No. 43, Ground Floor,Lorong Baiduri 5 Nadi Kota,Bandar Jengka, Bandar Tun Razak, Pahang",
+    "postcode": "26400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.081153+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Setia Ecohill Semenyih",
+    "address": "No 36, Ground Floor,Jalan Ecohill 1/5A,,Setia Ecohill, Selangor",
+    "postcode": "43500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.086787+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian AEON Cheras Selatan",
+    "address": "F-37, AEON Mall Cheras Selatan,Jalan Cheras Perdana Cheras,Balakong, Selangor",
+    "postcode": "43200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.091775+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Mukah Sarawak",
+    "address": "Lot D-4, Block D, Mukah Biotech,Bandar Baru Mukah,Jalan Mukah Baligian, Mukah, Sarawak",
+    "postcode": "96400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.096570+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian IOI Sierra Fresco",
+    "address": "Lot 5-5, Jalan Sierra 10/1,Bandar 16 Sierra, Selangor",
+    "postcode": "47110",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.101287+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN BATARAS KEPAYAN",
+    "address": "LOT 1, BATARAS SUPERSTORE KEPAYAN,,JALAN BANJARAN, KEPAYAN RIDGE,, Sabah",
+    "postcode": "88200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.105894+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "PEKAN KUALA SELANGOR",
+    "address": "LOT NO 28, GROUND FLOOR,,JALAN RAJA JALIL, Selangor",
+    "postcode": "45000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.110700+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN BATARAS PUTATAN",
+    "address": "LOT 14, BATARAS HYPERMARKET,PUTATAN RW,NO.CL 215012883, KM 11,JLN PUTATAN, PUTATAN RAILWAY STATION, Sabah",
+    "postcode": "88869",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.115295+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sri Iskandar Perak",
+    "address": "No. 28, Persiaran SIBC 2,Seri Iskandar Buiness Centre,Seri Iskandar, Perak",
+    "postcode": "32610",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.120774+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "GUARDIAN BATARAS LABUAN",
+    "address": "LOT E001, BATARAS SUPERSTORE LABUAN,,FINANCIAL PARK, LABUAN COMPLEX,,JALAN MERDEKA, Labuan",
+    "postcode": "87000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.125662+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Hann's Residence Sibu",
+    "address": "Lots 18, 19, 20, 21, 22 & 23, Grd Floor,Lots 660, Block 7,Sibu Town District, Sibu, Sarawak",
+    "postcode": "96000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.131482+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Datum Jelatek Shopping Ctr",
+    "address": "Lot No. G-16 & G-17, Ground Floor,Datum Jelatek Mall, Jalan Enggang,Taman Keramat, Wil. Persekutuan",
+    "postcode": "54200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.136556+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sipitang Sabah",
+    "address": "LPPB Lot 11,Jalan OKK Haji Puteh,Sipitang, Sabah",
+    "postcode": "98850",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.141174+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Tmn Rambai Jaya Melaka",
+    "address": "No. 45, Jalan Rambai Jaya 29,Taman Rambai Jaya, Melaka",
+    "postcode": "75260",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.145696+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jln Terminal Kampar",
+    "address": "No. 82, Jalan Terminal Kampar 1/D,Pusat Perdagangan Kampar, Perak",
+    "postcode": "31900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.150104+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kota Permai Bkt Mertajam",
+    "address": "Lot 2A, Jalan Lembah Permai 1,Kota Permai, Pulau Pinang",
+    "postcode": "14000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.154488+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Indahpura Kulai",
+    "address": "No 177, Jalan Kiambang 12,Pusat Komersial Indah,Bandar Indahpura, Johor",
+    "postcode": "81000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.159099+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Seksyen 18 Shah Alam",
+    "address": "No.12, Jalan Pinang C 18/C,Seksyen 18, Selangor",
+    "postcode": "40200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.163833+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Maha City Langkawi",
+    "address": "No. 3A-G, Jalan Mahawangsa 1, Kedah",
+    "postcode": "7000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.168270+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jalan Luak Bay Miri",
+    "address": "Lot 8526, Ground Floor,Jalan Luak Bay, Sarawak",
+    "postcode": "98000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.172816+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Eco Palladium Johor",
+    "address": "01-07, Block C,Jalan Ekoflora 7,Jalan Ekoflora Utama, Johor",
+    "postcode": "81100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.178720+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Tenom Sabah",
+    "address": "Lot 27, Ground Floor,Jalan Toh Puan Hajjah Kusnah,Tenom, Sabah",
+    "postcode": "89907",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.184853+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jalan Ling Kai Cheng Sibu",
+    "address": "No.2, Ground Floor,Lorong Ling Kai Cheng 14B,Jalan Ling Kai Cheng, Sarawak",
+    "postcode": "96000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.190307+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Taman Paya Rumput Melaka",
+    "address": "No. 23, Jalan Inang 1,Paya Rumput Utama, Melaka",
+    "postcode": "76450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.195185+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian KCC City Muar Johor",
+    "address": "No. 23A & 25, Ground Floor,Jalan Gemilang Bakri 1,Pusat Komersial Gemilang Bakri, Johor",
+    "postcode": "84200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.200601+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Taman Desa Cemerlang Johor",
+    "address": "No. 20, Jalan Tanjong 2,,Taman Desa Cemerlang,Ulu Tiram, Johor",
+    "postcode": "81800",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.205589+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kipmall Bachang",
+    "address": "L1- S116-S117 & S093-S096,,Kipmall Melaka,,Jln Tun Fatimah, Bachang,, Melaka",
+    "postcode": "75250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.211358+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian KL Trader Square",
+    "address": "Lot 47-G, Ground Floor, Block C,Plaza KLTS, 99 Jalan Gombak,Setapak, Wil. Persekutuan",
+    "postcode": "53000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.217406+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Plaza CKS Tuaran",
+    "address": "Lot 40 & 41, Ground Floor, Block C,,Plaza CKS Tuaran, Kg. Tutoh,Tuaran, Sabah",
+    "postcode": "88400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.222664+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian P. Komersial Saujana Sbn 2",
+    "address": "No. 141G, Jln Pusat Komersial Saujana 5,Pusat Komersial Saujana,Seremban 2 Height, Negeri Sembilan",
+    "postcode": "70300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.227453+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Centrum Cameron Highlands",
+    "address": "Lot No. 2,3,4 & 5, Lower Ground Floor,Billion Shopping Centre,PT3286, Mukim Tanah Rata, Cameron Highla, Pahang",
+    "postcode": "39000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.231929+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kip Mart Masai",
+    "address": "Lot A006-C & S008-B & S009.,Kip Mart Masai,,Jln Persiaran Dahlia 2,Tmn Bkt Dahlia, Johor",
+    "postcode": "81700",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.236525+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Cmart Serai Wangi",
+    "address": "Lot G39, G40, G41, G42, H.S (D) 78056,Mukim Bandar Padang Serai, Kedah",
+    "postcode": "9400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.241069+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kubota Sentral Tawau",
+    "address": "TB 73 & TB 74, Lot P2 & P3,Ground Floor, Kubota Sentral,Jalan Chong Thien Vun, Sabah",
+    "postcode": "91000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.245955+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Saujana Putra",
+    "address": "Bandar Saujana Putra ,,Jenjarom, Selangor",
+    "postcode": "42610",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.250345+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Pusat Perdagangan Banting",
+    "address": "Lot No. 9-G, Jalan Cemerlang 1,Pusat Perdagangan Banting, Selangor",
+    "postcode": "42700",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.254808+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Silibin Ipoh Perak",
+    "address": "Lot 49 (Ground Floor),Jalan Pusat Perniagaan Silibin 2,Pusat Perniagaan Silibin, Jln Jelapang, Perak",
+    "postcode": "301100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.259668+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian C Mart Changloon",
+    "address": "Lot F5, First Floor, Cmart Changlun,Kompleks Changlun, No. 1,Pekan Changlun, Kedah",
+    "postcode": "6010",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.265765+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Cmart Jitra",
+    "address": "Lot 49, 50 & 51, Grd Floor,C-Mart BDI Jitra Jln Industri Darul Aman,Kawasan Perusahaan Bandar, Kedah",
+    "postcode": "6000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.271297+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Pantai Remis",
+    "address": "Lot No 62, Jalan Damai Laut,Pantai Remis, Perak",
+    "postcode": "34900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.277257+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jalan Beserah",
+    "address": "A-6606, Ground Floor,,Taman Metro, Jalan Beserah, Pahang",
+    "postcode": "25250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.283280+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Masjid Tanah Melaka",
+    "address": "675, Jalan Penara Jaya,Masjid Tanah, Melaka",
+    "postcode": "78300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.288405+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Pekan Nenas",
+    "address": "Lot No.6, Jalan Permata 1,Pusat Perdagangan Pekan Nenas, Johor",
+    "postcode": "81500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.293243+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Tropicana Avenue",
+    "address": "Lot P-G-11, Ground Floor,Tropicana Avenue, Persiaran Tropicana,Tropicana, Selangor",
+    "postcode": "47410",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.297961+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian City Junction",
+    "address": "Lot No. 2-2-7 ©, Level 2, City Junction,Jalan Tanjong Tokong 2,Persiaran Lengkuas, Tanjung Tokong, Pulau Pinang",
+    "postcode": "10470",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.302785+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Denai Alam",
+    "address": "Lot No. 33-1, Jalan Elektron D 16/D,Denai Alam, Selangor",
+    "postcode": "40150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.308111+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jerantut",
+    "address": "S-30 & S-31,,Ground Floor, Jalan Benom,Bandar Baru, Jerantut, Pahang",
+    "postcode": "27000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.312967+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Limbang",
+    "address": "Lot 2002, Ground Floor,Limbang Town District, Tmn Metro,Jalan Beserah, Limbang, Sarawak",
+    "postcode": "98700",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.317803+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Golden Triangle",
+    "address": "Lot 1-13A & 1-15A, Level 1,,Golden Triangle 2,,Jln Dato Ismail Hashim,Kg Pagar Buluh,, Pulau Pinang",
+    "postcode": "11900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.322226+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Sri Permaisuri",
+    "address": "Lot 53, Jalan Sri Permaisuri 8,Bandar Sri Permaisuri, Wil. Persekutuan",
+    "postcode": "56000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.327461+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jasin Melaka",
+    "address": "No. JC 540, Jalan Bestari 5,Bandar Jasin Bestari,Bemban, Melaka",
+    "postcode": "77200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.333494+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Subang Perdana",
+    "address": "No. 41-G, Ground Floor,,Jalan Dinar G U3/G,,Tmn Subang Perdana, Seksyen U3,, Selangor",
+    "postcode": "40150",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.338722+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Eco Botanic City",
+    "address": "Lot No 6,Jalan Eko Botani 3/3,,Taman Eko Botani,,Iskandar Puteri, Johor, Johor",
+    "postcode": "79100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.343713+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Eco Santuary Selangor",
+    "address": "No. 66-G, Jalan Eco Santuari 8/2b,Eco Santuari,Teluk Panglima Garang, Selangor",
+    "postcode": "42500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.348556+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Puncak Jalil",
+    "address": "No. 92, Ground Floor,,Jln PUJ 3/2,Tmn Puncak Jalil,,Bandar Putra Permai,, Selangor",
+    "postcode": "43300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.353244+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Presint 15 Selangor",
+    "address": "No. 5, Jalan Diplomatik P15,Presint 15, Wil. Persekutuan",
+    "postcode": "62050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.357807+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Metro Mall Kuching",
+    "address": "Lot GS2 & GS3, Ground Floor,Metromall Metrocity Matang, Sarawak",
+    "postcode": "93050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.362430+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kunak",
+    "address": "Lot A1, Ground Floor,Kunak Plaza,Kunak, Sabah",
+    "postcode": "91207",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.367242+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Lmn Rimbunan Kepong",
+    "address": "No.138-G, Ground Floor,,Jalan Rimbunan Raya,,Laman Rimbunan, Kepong, Wil. Persekutuan",
+    "postcode": "52100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.371711+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Fin Park Labuan",
+    "address": "Lot E001(B), Ground Floor,,Financial Park Labuan Complex,,Jln Merdeka,, Sabah",
+    "postcode": "87000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.377345+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kapit Sarawak",
+    "address": "Lot 9 & 10, Grd Flr, Lot 619 & Lot 620,Lorong Selirik 2A, Kapit Town District,Kapit, Sarawak",
+    "postcode": "96800",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.383412+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian 88 Marketplace Kepayan",
+    "address": "Lot 8, Ground Floor, Block C,Lrg Pusat Komersial 88/2, Marketplace 88,Jalan Kepayan, Sabah",
+    "postcode": "88300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.388604+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Cerah Comm Centre Beaufort",
+    "address": "No. 9, Ground Floor,Lorong Cerah Commer Centre 3,Pekan Beaufort, Beaufort, Sabah",
+    "postcode": "89800",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.393460+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Iconic Point Penang",
+    "address": "9-G & 11-G, Jalan Iconic Point,Iconic Point,Simpang Ampat, Pulau Pinang",
+    "postcode": "14100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.398094+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Baru Teluk Intan",
+    "address": "Lot No 137 & 138, Tingkat Bawah,Jalan Intan 1,Bandar Baru Teluk Intan, Perak",
+    "postcode": "36000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.402669+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Batang Kali Selangor",
+    "address": "No. 61-G, Bandar Utama Batang Kali,Batang Kali, Selangor",
+    "postcode": "44300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.407360+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sikamat Seremban",
+    "address": "449, Jalan Sri Pulai 26,Taman Sri Pulai, Negeri Sembilan",
+    "postcode": "70200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.413928+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Ranau Sabah",
+    "address": "No. 7, Ground Floor, Block B,Lorong Taman, Ranau New Township,,Ranau, Sabah",
+    "postcode": "88300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.419868+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian T2@Apas Tawau",
+    "address": "Lot A.7.1 & A.8.1, Ground Floor,T2@APAS, Sabah",
+    "postcode": "91000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.425904+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Kapalai Semporna",
+    "address": "Lot 7, Ground Floor,Bandar Kapalai Semporna,Mile 1.5, Jalan Bubul, Sabah",
+    "postcode": "91308",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.431196+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jln Raja Uda Penang",
+    "address": "No. 19 & 21, Blok Q, Jalan Raja Uda,Pusat Perniagaan Raja Uda,Butterworth, Pulau Pinang",
+    "postcode": "12300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.436225+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Menara Hap Seng KL",
+    "address": "Lot 1.20B, Level 1,Menara Hap Seng,Jalan P. Ramlee, Wil. Persekutuan",
+    "postcode": "50250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.441046+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian NSK Seremban",
+    "address": "Lot 16,17 & 18,,NSK Trade City Seremban 2,Jln Haruan 2,Medan Perdagangan Oakland, Negeri Sembilan",
+    "postcode": "70300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.447536+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Keningau Sabah",
+    "address": "Lot 28, Ground Floor, Block A6,Pegalan Shoppling Complex, Sabah",
+    "postcode": "89008",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.453115+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sri Aman Square Sarawak",
+    "address": "Lot 9 & 10, Ground Floor,Sri Aman Square, Kampung Muhibbah,Sri Aman, Sarawak",
+    "postcode": "95000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.458238+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Farley Mall Sarawak",
+    "address": "Lot 4, Farley Mall,Lot 4547, Block 233, KNLD,Jln Penrissen, 6th Miles, Sarawak",
+    "postcode": "93250",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.463031+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Setia Tropika JB",
+    "address": "Taman Setia Tropika,Lot No.9, Jalan Setia Tropika 1/15, Johor",
+    "postcode": "81200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.467460+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Tun Razak Exchange (TRX)",
+    "address": "No. C.32.0, Level Concourse, The Exchange TRX, Jalan Tun Razak,, Kuala Lumpur",
+    "postcode": "50450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.471943+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "JAYA SHOPPING CENTRE",
+    "address": "LOT NO LG-03A, 05 & 06,JAYA SHOPPING CENTRE,26A JALAN 14/4, PETALING JAYA",
+    "postcode": "46100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.476286+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Jalan Tudan Miri",
+    "address": "Lot 2860, Ground Floor, Block 6, KBLD, Jalan Tudan, Sarawak",
+    "postcode": "98100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.480750+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sibu Jaya",
+    "address": "No. 6, Ground Floor, Sibu Jaya Sapphire East Commercial Centre, Lorong Sibu Jaya Timur 1, Sibu",
+    "postcode": "96000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.485132+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bataras Grand Merdeka Mall",
+    "address": "No 7, Lot 2, Grand Merdeka Mall,Jalan Tuaran, Menggatal",
+    "postcode": "88450",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.489660+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Muadzam Shah Rompin",
+    "address": "Lot No. 82, Ground Floor,Jalan Makmur 2, Bandar Satelit,Muadzam Shah, Rompin",
+    "postcode": "26700",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.496776+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Setiawan Perak",
+    "address": "No.17, Taman Sitiawan Maju 2, Perak",
+    "postcode": "32000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.502403+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Saratok Sarawak",
+    "address": "Lot 88, Ground Floor,Jalan Pahlawan, Saratok Bazaar, Sarawak",
+    "postcode": "95400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.507446+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sama Square, Kuala Lumpur",
+    "address": "Lot G13, Ground Floor, Sama Square, Jalan 1/23C, Kg Baru Air Panas,, Kuala Lumpur",
+    "postcode": "53200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.512379+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Damai Plaza",
+    "address": "Kota Kinabalu, Kota Kinabalu",
+    "postcode": "88300",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.516839+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Hutan Melintang",
+    "address": "No. 57, Ground Floor, Lorong Lagenda 2, Medaniaga Lagenda, Jalan Hutan Melintang, Perak",
+    "postcode": "36400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.521380+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Canning 2",
+    "address": "No. 27 (Ground Floor), Hala Pusat Perdagangan Canning 1, Ipoh",
+    "postcode": "30350",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.526587+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian KLIA Satellite Airport",
+    "address": "KLIA Satellite Airport Lot No. SAT-P-A04, Passenger Level, Satellite Building, KLIA Departure,Kuala Lumpur International Airport,, Selangor",
+    "postcode": "43900",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.532557+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "IOI CITY MALL PUTRAJAYA",
+    "address": "LOT NO. G-21, IOI Resort City, Ioi Resort,, Wil. Persekutuan",
+    "postcode": "43000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.537756+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bloomsvale Shopping Gallery",
+    "address": "Lot No. LG-003, Lower Ground Floor, Bloomsvale Shopping Gallery,, Kuala Lumpur",
+    "postcode": "58200",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.543121+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Lebuh Sungai Pinang",
+    "address": "No. 22G & 24G, Lebuh Sungai Pinang 1, Pulau Pinang",
+    "postcode": "11600",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.547686+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Bandar Tasik Putri Rawang",
+    "address": "No. 215, Block R-G-118 & R-G-120, Ground Floor, Jalan 7A/3, Bandar Tasik Putri,, Selangor",
+    "postcode": "48020",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.552400+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian AEON Bandaraya Melaka",
+    "address": "Lot S13 & S15, Level 2, AEON Bandaraya Melaka Shopping Centre 2, Jalan Lagenda, Taman 1 Lagenda, Melaka",
+    "postcode": "75400",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.556928+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian AEON Kota Bahru",
+    "address": "Lot F13 (1st Floor), AEON Mall Kota Bharu, Lembah Sireh, Kota Bharu, Kelantan",
+    "postcode": "15050",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.561791+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Sunshine Mall, Penang",
+    "address": "Lot No. B1.12, Basement 1, Sunshine Mall, Bandar Baru Air Itam,, Pulau Pinang",
+    "postcode": "11500",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.567077+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian 168 Selayang",
+    "address": "Lot LG-10, Lower Ground Floor, 168 Park Mall Selayang, Jalan Kuching, Batu Caves",
+    "postcode": "68100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.572040+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Mayang Mall, Kuala Terengganu",
+    "address": "LG - 10, Lower Ground, Mayang Mall, Jalan Sultan Zainal Abidin, Kampung Surau Pasir,, Kuala Terengganu",
+    "postcode": "20000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.578051+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Eco Galleria, Iskandar Puteri, Johor Bahru",
+    "address": "B0125, Blok B Eko Galleria, Jalan Eko Botani 3, Taman Eko Botani,, Iskandar Puteri",
+    "postcode": "79100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.584294+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian GITT Mall, Gombak",
+    "address": "Lot No. L2-24, Level 2, Terminal Bersepadu Gombak, Jalan Lingkaran Tengah 2, Gombak",
+    "postcode": "68100",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.589359+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Mercato Kulim, Kedah",
+    "address": "Lot No NF01, Mercato Kulim Landmark Central Shopping Center, No 1, Jalan Resak Satu, Taman Resak,, Kulim",
+    "postcode": "09000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.594971+00:00"
+  },
+  {
+    "chain": "Guardian",
+    "store_name": "Guardian Kangar Jaya, Perlis",
+    "address": "Ground Floor, No. 2 Jalan Kangar Jaya, Jalan Tunku Syed Putra (Jalan Kangar – Alor Setar), Kangar",
+    "postcode": "01000",
+    "source": "guardian html",
+    "scraped_at": "2025-12-20T15:16:26.600835+00:00"
+  }
+]

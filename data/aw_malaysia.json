@@ -1,0 +1,488 @@
+[
+  {
+    "chain": "A&W",
+    "name": "A&W 1 Mont Kiara Mall",
+    "address": "G-25 & G-25(AS), 1 Mont Kiara No 1, Jalan Mont Kiara 50480 Kuala Lumpur",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W 1st Avenue Mall",
+    "address": "Lot No LG-03, Lower Ground Floor , 1st Avenue Mall, 10100 George Town, Penang",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W 1Borneo Hypermall",
+    "address": "1Borneo Hypermall, Sabah",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Ativo Plaza",
+    "address": "Lot A-1-3 (A-G-3), Ground Floor, Block A, Ativo Plaza, No 1, Jalan PJU 9/1, Damansara Avenue, Bandar Sri Damansara, PJU 9, 52200, Kuala Lumpur",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Ampang Point Shopping Centre",
+    "address": "Lot G23A, G25 & 26, AMpang Point, 53 Jalan Memanda 9, Taman Dato Ahmad Razali, 68000, AMpang, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Bandar Baru Nilai",
+    "address": "Lot 4, Jalan BBN 1/3L, Off Jalan Persiaran Pusat Bandar, Bandar Baru Nilai, 71800 Nilai, Negeri Sembilan",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 11pm\nSat- Sun : 10am to 12am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Batu Pahat Mall",
+    "address": "Lot G06, G07 & Back Area of G06 to G13, Ground Floor, Batu Pahat Mall, Jalan Kluang, 83000 Batu Pahat, Johor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W BMC Mall",
+    "address": "Lot G06, G07 & Lot G-16, Ground Floor BMC Mall, Jalan Temenggung 21/9, Bandar Mahkota Cheras, 43200, Cheras, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W C180 Cheras Selatan",
+    "address": "3A & 5,jalan C180/1, Cheras Selatan 43200 Bt 11Cheras.Selangor\n",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Central i-City Mall",
+    "address": "LG 34, Lower Ground Floor, Central iCity Mall, i-City, 40000 Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Citta Mall",
+    "address": "G-10, Ground Floor, Citta Mall, Jalan PJU 1a/48, Pusat Perdagangan Dana 1, 47301 Petaling Jaya, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Cyberjaya",
+    "address": "Kanvas@Prima 15, Cyberjaya, No. G-8 (Retail Space), Kanvas@Prima 15, Jalan Teknokrat 6, 63000 Cyberjaya, Selangor",
+    "phone": "Opening Hours:\nSun- Thu : 10am to 10pm\nFri- Sat : 10am to 11pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Datum Mall",
+    "address": "Lot G-09, G-10, G-AL-09 & G-AL-10, Ground Floor Datum Mall, Jalan Jelatek, Jelatek, 54200, Kuala Lumpur",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W DPulze Shopping Centre",
+    "address": "3a, Lingkaran Cyber Point Timur, Cyber 12, 63000 Cyberjaya, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Wangsa Walk",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W East Coast Mall",
+    "address": "Lot GF-07 & GF-O7, Alfresco Ground Floor, East Coast Mall, Jalan Putra Square 6, Putra Square, 25200, Kuantan, Pahang",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W KLIA 2",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun : 24 hours"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Sunway Pyramid",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Taman Daya DT",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun : 10am to 11pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Amanjaya Mall",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun: 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Sunway Putra",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Kuala Pilah",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun: 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W EKO Mall Cheras",
+    "address": "F-18, First Floor, Eko Cheras Mall, Taman Mutiara Barat, Cheras Batu 9, 56000 Cheras, Kuala Lumpur",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Escape Penang",
+    "address": "Escape Theme Park Penang, 828, Jalan Teluk bahang, Teluk bahang, Tanjung Bungah, 11050, Teluk Bahang, Penang",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 6pm\nSat- Sun : 10am to 6pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Evo Mall Bangi",
+    "address": "Lot G.01, Ground Floor Evo Mall, Seksyen 9, 43650 Bandar Baru Bangi, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Express Escape Penang",
+    "address": "Escape Theme Park Penang, 828, Jalan Teluk bahang, Teluk Bahang, Tanjung Bungah, 11050, Teluk Bahang, Penang",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 6pm\nSat- Sun : 10am to 6pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Escape Tanjung Tualang",
+    "address": null,
+    "phone": "Opening Hours:\nTue- Thur: 10am to 7pm\nFri- Sun : 10am to 9pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Gamuda Gardens Theme Park",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Thur : 12pm to 10pm\nFri- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Bundusan Sabah",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun : 10am to 12am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Giant Plentong",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Giant Shah Alam Stadium",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Hero Market Bandar Puteri Puchong",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W IOI City Putrajaya Mall",
+    "address": "L2-26A, Second Floor (F2), IOI City Mall, Ioi Resort, 43000 Serdang, Putrajaya",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W IOI Puchong Mall",
+    "address": "EF13 – EF13A & EF13AA, First Floor, IOI Mall Puchong, Batu 9, Jalan Puchong, Bandar Puchong Jaya, 47100 Petaling Jaya, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Ipoh Parade Mall",
+    "address": "Lot G27 & G28, Ground Floor, Ipoh Parade, No 105, Jalan Sultan Abdul Jalil, Greentown, 30450 Ipoh, Perak",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Ipoh South Gate",
+    "address": "No 1 & 3, Lot B-2 & B-3, Ground Floor, Jalan Pulai Hartamas 1, Medan Pulai Hartamas, 31300, Ipoh, Perak",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Kajang",
+    "address": "No. A-0-9, MKH Avenue, Jalan Avenue 1A, Off Jalan Semenyih, 43000 Kajang, Selangor",
+    "phone": "Opening Hours:\nSun- Thu : 10am to 11am\nFri- Sat : 10am to 12am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Kemaman",
+    "address": "Tingkat 1&2 Bangunan MDK, Jln Dato Omar, 24000 Chukai Kemaman Terengganu",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 11pm\nSat- Sun : 10am to 11pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Kepong",
+    "address": "57 Ground Floor Jalan Rimbunan Raya 1 , Laman Rimbunan Kepong, 52100 Kuala Lumpur",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 11pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Kidzania",
+    "address": "Level 5 Curve NX, Jalan PJU 7/5, Petaling Jaya, 47810, Petaling Jaya, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 6pm\nSat- Sun : 10am to 6pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W KL East Mall",
+    "address": "LOT LG-29,30 & 31, KL EAST MALL, Jln Lingkaran Tengah 2, Taman Seri Melati, 53100 Kuala Lumpur",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Kluang Mall",
+    "address": "Lot No.LG-05, LG-06, LG-07 Lower Ground Floor, Kluang Mall, Jalan Rambutan, Bandar Kluang 86000 Kluang, Johor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W AEON Kota Bharu",
+    "address": "Lot G33, Ground Floor Aeon Mall Kota Bharu, Jalan Jambatan Sultan Yahya Petra, Kampung Sirih, 15050, Kota Bharu, Kelantan .",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Alor Setar Drive-Thru",
+    "address": "Lot 754 (GM33245) & Lot 755(GM33246), Bandar Alor Setar, Seksyen 48, Daerah Kota Setar Kedah.",
+    "phone": "Opening Hours:\nMon- Thu : 10am to 11pm\nFri- Sun : 10am to 12am\nPublic Holiday : 10am to 12am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Kota Kemuning",
+    "address": "39-1 ( Ground ) & 41-1 ( Ground ), No 8, Jalan Anggerik Vanilla BE 31/BE, Kota Kemuning, 40460 Shah Alam, Selangor.",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Sierra 16 DT",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Batu Kawan DT",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun: 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Mesa Mall",
+    "address": "Lot G-17, Ground Floor, Persiaran Ilmu, Bandar Baru Nilai, 71800 Nilai, Negeri Sembilan.",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Mid Valley Megamall",
+    "address": "T-074, Third Floor, MidValley Megamall, 59200 Kuala Lumpur",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 8pm\nSat- Sun : 10am to 8pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Mid Valley SouthKey",
+    "address": "LOT LG045, Lower Ground Floor, Mid Valley SouthKey, No 1 Persiaran SouthKey 1, 80150 Johor Bahru, Johor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Mydin Gong Badak",
+    "address": "Mydin Wholesale Hypermarket Gong Badak, Lot PT35511, Kampung Banggol, Jalan Gong Pak Damat, 21200 Kuala Terengganu",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Mydin Tunjong",
+    "address": "Lot no: GB-06,07,GP-97,98,99,100,101 & 102, Lot PT 666, jalan Kuala Krai, Bandar Baru Tunjong, 16010 Kota Bharu, Kelantan",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W OBR Ayer Keroh (Overhead Bridge Restaurant)",
+    "address": "Lot R3 Ayer Keroh Overhead Bridge, Restaurant KM210, 78000 Melaka",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 12am\nSat- Sun : 10am to 2am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W OBR Sungai Buloh (Overhead Bridge Restaurant)",
+    "address": "5-13-5B North South Interurban, Toll Expressway KM 458-1 Sg.Buloh, 47000 Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 11pm\nPublic Holiday : 10am to 11pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Ole-Ole Shopping Centre Section 18 Shah Alam",
+    "address": "Lot 1-2, Ground Floor Ole-Ole Shopping Centre, Seksyen 18, Shah Alam, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Pantai Batu Buruk",
+    "address": "Bangunan Kelab Kerajaan Pantai Batu Buruk, 20400 Kuala Terengganu",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 12am\nSat- Sun : 10am to 12am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Paradigm Mall Johor Bharu",
+    "address": "3F-25, Paradigm Mall, Jalan Skudai, 81200 Johor Bahru, Johor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Paradigm Mall Petaling Jaya",
+    "address": "Lot No GB-08, Ground Floor, No 1, Jalan SS7/26a, SS7, 47301, Petaling Jaya, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Pavilion Bukit Jalil",
+    "address": "Lot No 1.17.00, Level 1, Pavilion Bukit Jalil, No 2, Persiaran Jalil 8, Bandar Bukit Jalil, 57000, Kuala Lumpur",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Pearl Point Shopping Centre",
+    "address": "G23, G33 & G36, Pearl Point Shopping Centre, 5TH MILE, OLD KLANG ROAD, 58000 Kuala Lumpur, Federal Territory of Kuala Lumpur.",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Penang Hill",
+    "address": "Lot 234, Lower Station Penang Hill, Ayer Itam 11500 Penang",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Petaling Jaya",
+    "address": "No.9 Lorong Sultan, 46000 Petaling Jaya Selangor",
+    "phone": "Operating Hours:\nMon- Fri : 10am to 2am\nSat- Sun : 10am to 2am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Petronas Bukit Tinggi",
+    "address": "Petronas Service Station, Lot 7725 Lebuh Batu Nilam, Bandar Baru Bukit Tinggi, 41200 Klang Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Petronas Bandar Kinrara",
+    "address": "Petronas Service Station Lot 37331, Jln Kinrara 5 Section 5, Bandar Kinrara Puchong, 47100 Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Sunway City Ipoh",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun: 10am to 12am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Sunway Velocity",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun: 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Batang Kali",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun: 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W SS15",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Sun: 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Kangar Drive-Thru",
+    "address": null,
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 12pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Caltex Puncak Alam Drive-Thru",
+    "address": "Caltex Station, Lot 6229, Jalan Persiaran Puncak ALam 6, Eco Grandeur, 42300, Bandar Puncak Alam, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 1opm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W R&R Dengkil Southbound",
+    "address": "Lot No. 15, KM24.3, ELITE Highway, Dengkil Rest & Service Area Southbound, 43800 Dengkil, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 12am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W R&R Rawang Drive-Thru",
+    "address": "KM440.0, R&R Rawang Northbound, PLUS Highway",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 12am\nPublic Holiday : 10am to 12am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W R&R Seremban Northbound",
+    "address": "RNR Seremban Northbound, Lot C Faber Building KM 272.20 Lebuhraya Utara Selatan, 70000 Seremban Negeri Sembilan",
+    "phone": "Opening Hours:\nMon – Fri : 10am to 11pm\nSat – SUn : 10am to 12am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W R&R Tapah Southbound",
+    "address": "Lebuhraya Utara Selatan (Arah Selatan) KM 331.2, R&R Tapah, 35000 Tapah, Perak.",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 11pm\nSat- Sun : 10am to 12am\nPublic Holiday : 10am to 12am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Segamat",
+    "address": "No 1, Jalan Utama, 3/2, Pusat Komersial Sri Utama, 85000, Segamat, Johor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Sri Iskandar",
+    "address": "No 1, Ground Floor, PSRN SIBC 2, Sri Iskandar Business Centre, 32610, Sri Iskandar, Perak",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Mydin Seremban 2",
+    "address": "Lot No. GK-12, 12A & 13, Ground Floor Level, Mydin 2, Lot 31156, Jalan S2 B7, Seremban 2, 70300 Seremban, Negeri Sembilan",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Seremban Drive-Thru",
+    "address": "Lot 291 Taman Tasik Jln Yam Tuan, 70000 Seremban Negeri Sembilan",
+    "phone": "Opening Hours:\nMon – Fri : 10am to 12am\nSat – Sun : 10am to 2am"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Setapak Central Mall",
+    "address": "AG36, Setapak Central Mall, 67, Jalan Taman Ibu Kota, Danau Kota, 53300 Kuala Lumpur.",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Setia City Mall",
+    "address": "L2-MM02, Setia City Mall, Persiaran Setia Dagang, Setia Alam, 40170 Shah Alam, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  },
+  {
+    "chain": "A&W",
+    "name": "A&W Seventeen Mall",
+    "address": "Lot L1-07, Level 1, Seventeen Mall, 46400, Petaling Jaya, Selangor",
+    "phone": "Opening Hours:\nMon- Fri : 10am to 10pm\nSat- Sun : 10am to 10pm"
+  }
+]

@@ -1,0 +1,2474 @@
+[
+    {
+        "name": "1.MIXUE 68 Avenue Gelang Patah",
+        "state": "Johor",
+        "street": "91, Jalan Suria 3, Pusat Komersial Suria, 81550 Gelang Patah, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE AEON Bukit Indah",
+        "state": "Johor",
+        "street": "Grand Mezzanine, G23, 8, Jalan Indah 15/2, Taman Bukit Indah, 81200, Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE AEON Dato Onn",
+        "state": "Johor",
+        "street": "Ground Floor, 3, Jln Dato’ Onn 3, Bandar Dato Onn, 81100 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE AEON Kulai",
+        "state": "Johor",
+        "street": "KF1, AEON Mall Kulaijaya, PTD 106273, Persiaran Indahpura Utama, Bandar Indahpura, 81000 Kulai Jaya, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "5.MIXUE AEON Kulaijaya",
+        "state": "Johor",
+        "street": "1st Floor KF1, Aeon Mall Kulaijaya, Ptd 106273, Persiaran Indahpura Utama, Bandar Indahpura, 81000, Kulai, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE AEON Permas Jaya",
+        "state": "Johor",
+        "street": "Lot G03, Aeon permas jaya shopping centre, 1, Jalan Permas Utara, Bandar Baru Permas Jaya, 81750 Masai, Johor",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Angsana Johor Bahru",
+        "state": "Johor",
+        "street": "Level 1, L1 24, Angsana Johor Bahru Mall, Skudai Lbh, Pusat Bandar Tampoi, 81200 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Austin Street",
+        "state": "Johor",
+        "street": "Street No.29, Jalan Austin Heights 8/3, Taman Mount Austin, Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Batu Pahat Mall",
+        "state": "Johor",
+        "street": "Ground Floor, GK21-22, Jln Kluang, Kampung Beroleh, 83000 Batu Pahat, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Bukit Gambir",
+        "state": "Johor",
+        "street": "15, Ground Floor, Gambir Square, Bandar Baru Bukit Gambir, 84800 tangkak, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Desa Cemerlang",
+        "state": "Johor",
+        "street": "12, Jalan Tanjong 2, Taman Desa Cemerlang, 81800 Ulu Tiram, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Eco Botani",
+        "state": "Johor",
+        "street": "B0110, Blok B, Eko Galleria, 3, Jalan Eko Botani 3/2, Taman Eko Botani, 79100 Iskandar Puteri, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Eco Palladium",
+        "state": "Johor",
+        "street": "B-01-23, Eco Palladium, Jalan Ekoflora 7/2, 81100 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Econsave Taman Teratai",
+        "state": "Johor",
+        "street": "PTD 43282, Jalan Enau 14, Taman Teratai, 81300 Skudai, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Forest City",
+        "state": "Johor",
+        "street": "Level 1, Commercial Street, Forest City, Pulau Satu, 81500 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Jalan Dedap Johor Jaya",
+        "state": "Johor",
+        "street": "37, Jalan Dedap 4, Taman Johor Jaya, 81100 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Jalan Salleh Muar",
+        "state": "Johor",
+        "street": "1-19, Jalan Perniagaan Jaya, Pusat Perniagaan Mas Jaya, 84000 Muar, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Jalan Sinar Bakri 1 Muar",
+        "state": "Johor",
+        "street": "No.15, (Ground Floor), Jalan Sinar Bakri 1, 84200 Muar, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Jalan Sisi Muar",
+        "state": "Johor",
+        "street": "G-3, 44 (Ground Floor), Jalan Sisi, Pekan Muar, 84000 Muar, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Jalan Sisi Pekan Muar",
+        "state": "Johor",
+        "street": "Ground Floor, G-3, No.44, Jalan Sisi, 84000 Muar, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Johor Bahru City Square",
+        "state": "Johor",
+        "street": "Level 4, J4-19, Johor Bahru City Square, 106-108, Jalan Wong Ah Fook, 80000 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Kempas",
+        "state": "Johor",
+        "street": "G01#T01, Jalan Cengkerik 1, Pusat Perdagangan Kempas, 81200, Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Kipmall Tampoi",
+        "state": "Johor",
+        "street": "Ground Floor, S037, Kipmart Tampoi, Jalan Titiwangsa 1, Taman Tampoi Indah, 81200 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Kluang Mall",
+        "state": "Johor",
+        "street": "Ground Floor, No 54, Jalan Sutera Tanjung 8/4, Taman Sutera Utama 81300 Skudai, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Kota Masai",
+        "state": "Johor",
+        "street": "11A, Jalan Ekoperniagaan 8, Taman Kota Masai, 81700 Pasir Gudang, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Larkin Sentral",
+        "state": "Johor",
+        "street": "B-01,Tingkat Satu, No.5, Jalan Garuda Larkin Sentral, 80350 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Nusa Bestari",
+        "state": "Johor",
+        "street": "18G, Jalan Bestari 3/2, Taman Nusa Bestari, 81300 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Paradigm Mall JB",
+        "state": "Johor",
+        "street": "Lot 4FK-21 & 22 (Fourth Floor), Skudai Lbh, 81200 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "29.MIXUE Pekan Nanas",
+        "state": "Johor",
+        "street": "No. 17, Jalan Permata 4, Pusat Perdagangan, 81500 Pekan Nenas, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Permas Jaya",
+        "state": "Johor",
+        "street": "36, Jalan Permas 10, Bandar Baru Permas Jaya, 81750 Masai, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Plaza Pelangi",
+        "state": "Johor",
+        "street": "Lot 1.19B, Level 1, Jalan Kuning, Taman Pelangi, 80400 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Pontian",
+        "state": "Johor",
+        "street": "57, Jalan Emas 2, Pusat Perniagaan Kota Emas, 82000 Pontian, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Puteri Wangsa",
+        "state": "Johor",
+        "street": "21, Jalan Beladau 17, Taman Puteri Wangsa, 81800 Ulu Tiram, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE S’Mart",
+        "state": "Johor",
+        "street": "Lot FA18 & FA19, S’Mart Building, PTD 154409, Batu 7 1/2, Jalan Kota Tinggi, 81100 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Seri Alam",
+        "state": "Johor",
+        "street": "47G, Jalan Bina 1, Bandar Baru Seri Alam, 81750 Masai, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Daya",
+        "state": "Johor",
+        "street": "No. 01, Block H, Pusat Perniagaan TD Point, Jalan Daya, Taman Daya, 81100 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Gaya",
+        "state": "Johor",
+        "street": "70, Jalan Gaya 1, Taman Gaya, 81800 Ulu Tiram, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Nusantara",
+        "state": "Johor",
+        "street": "44, Jalan Nusaria 11/4, Taman Nusantara, 81550 Gelang Patah, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Scientex Pasir Gudang",
+        "state": "Johor",
+        "street": "28A, Jalan Belatuk 3, Taman Scientex, 81700 Pasir Gudang, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Setia Tropika",
+        "state": "Johor",
+        "street": "No.27, (Ground Floor) Jalan Setia Tropika 1/15, Taman Setia Tropika, 81200 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Sutera Utama",
+        "state": "Johor",
+        "street": "Ground Floor, No 54, Jalan Sutera Tanjung 8/4, Taman Sutera Utama 81300 Skudai, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Universiti",
+        "state": "Johor",
+        "street": "25, Jalan Kebudayaan 6, Taman Universiti, 81300 Skudai, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Yayasan",
+        "state": "Johor",
+        "street": "16A, Jalan Bistari 4/3, Taman Yayasan, 85000 Segamat, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Tasek Central",
+        "state": "Johor",
+        "street": "L2-33, Plaza Tasek, 2, Jalan Pendekar 16, Taman Ungku Tun Aminah, 81300 Skudai, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE TJ Mart",
+        "state": "Johor",
+        "street": "C21, TJ MART, Lot 5035 Batu 17, 1/2, Jalan Air Hitam, Saleng, 81400 Senai, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Toppen",
+        "state": "Johor",
+        "street": "No. 33A, Jalan Harmonium, Taman Desa Tebrau, 81100 Johor Bahru, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE U Sentral Segamat",
+        "state": "Johor",
+        "street": "KS019, Jalan Utama 3/2, Taman Bandar Utama, 85000 Segamat, Johor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "1.MIXUE AEON Alpha Angle",
+        "state": "Kuala Lumpur",
+        "street": "Ground Floor, Jln R1, Seksyen 1 Bandar Baru Wangsa Maju 53300 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE AEON Maluri",
+        "state": "Kuala Lumpur",
+        "street": "Ground Floor, Jalan Jejaka, Taman Maluri Cheras 55100, Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE AEON Mid Valley",
+        "state": "Kuala Lumpur",
+        "street": "AEON Mid Valley, C1, Unit AT3, Lingkaran Syed Putra, 59200 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Ampang Park",
+        "state": "Kuala Lumpur",
+        "street": "Retail No.9, Ampang Park Station, MRT Putrajaya Line",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "5.MIXUE Bandar Sri Damansara",
+        "state": "Kuala Lumpur",
+        "street": "20-G, Jalan Cempaka SD 12/1, Bandar Sri Damansara, 52200 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Bandar Sri Permaisuri",
+        "state": "Kuala Lumpur",
+        "street": "No.31, Jalan Dwitasik 2, Dataran Dwitasik, Bandar Sri Permaisuri, 56000 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Bandar Tun Razak",
+        "state": "Kuala Lumpur",
+        "street": "11, Jalan Budiman 25, Bandar Tun Razak, Taman Mulia, 56000 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Berjaya Times Square",
+        "state": "Kuala Lumpur",
+        "street": "Level 2, K02-03 & K02-03(a), 1, Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Bukit Bintang",
+        "state": "Kuala Lumpur",
+        "street": "96 (Ground Floor), Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Cheras Leisure Mall",
+        "state": "Kuala Lumpur",
+        "street": "Level 2, Lot L2-29, Jalan Manis 6, Taman Bukit Segar, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Desa Petaling",
+        "state": "Kuala Lumpur",
+        "street": "27-G, Jalan 3/125D, Desa Petaling, 57100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Desa Setapak",
+        "state": "Kuala Lumpur",
+        "street": "11, Jalan 1/27b, Desa Setapak, 53300 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Desa Tun Razak Cheras",
+        "state": "Kuala Lumpur",
+        "street": "14, Jalan 10/118b, Desa Tun Razak, 56000 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Jalan Hang Kasturi",
+        "state": "Kuala Lumpur",
+        "street": "No.24 Jalan Hang Kasturi, 50050 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Jalan Ipoh Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "street": "467, Jalan Ipoh, 3rd Mile, Taman Million, 51200 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Kepong Baru",
+        "state": "Kuala Lumpur",
+        "street": "56, Jalan Ambong Kiri 1, Kepong Baru, 52100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE KL Gateway Mall",
+        "state": "Kuala Lumpur",
+        "street": "Entrance B – G.14, Ground Floor, KL Gateway Mall, No. 2, Jalan Kerinchi, Gerbang Kerinchi Lestari, 59200 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE KLCC Amber",
+        "state": "Kuala Lumpur",
+        "street": "Ground Floor, Bangunan Getah Asli, 148 Jalan Ampang 50250 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Kompleks Selangor Jalan Sultan",
+        "state": "Kuala Lumpur",
+        "street": "Lot G10, Ground Floor, Kompleks Selangor, Jalan Sultan, 50000 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Kuchai Lama",
+        "state": "Kuala Lumpur",
+        "street": "30, Jalan Kuchai Maju 8, Kuchai Lama, 58200 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE LaLaport Bukit Bintang Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "street": "L4-FC-21, Mitsui Shopping Park LaLaport BBCC, No. 2, Jalan Hang Tuah, 55100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE M Vertica KL City",
+        "state": "Kuala Lumpur",
+        "street": "Lot G-26, Residensi M Vertica, 555, Jalan Cheras, Taman Pertama, 56000 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "Mixue Menjalara",
+        "state": "Kuala Lumpur",
+        "street": "8, Jalan 6/62A, Bandar Menjalara, 52200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE NU Sentral",
+        "state": "Kuala Lumpur",
+        "street": "LG.10, 201, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE OUG Parklane",
+        "state": "Kuala Lumpur",
+        "street": "A2-0-23. OUG Parklane, Jalan 1/152, Taman OUG Parklane, Off Jalan Klang Lama, 58200 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Pandan Indah",
+        "state": "Kuala Lumpur",
+        "street": "1, Jalan Pandan Indah 1/22, Pandan Indah, 55100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Pandan Jaya",
+        "state": "Kuala Lumpur",
+        "street": "22 G, Jalan Pandan 3/2, Pandan Jaya, 55100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Pavilion Bukit Jalil",
+        "state": "Kuala Lumpur",
+        "street": "P5-84-02, Pavilion Bukit Jalil, Persiaran Jalil Utama, Bukit Jalil, 57000 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "29.MIXUE Pearl Point Shopping Mall",
+        "state": "Kuala Lumpur",
+        "street": "G.50/G.57, Menara Pearl Point 2, No.2A, Jalan Sepadu, Off, Jalan Klang Lama, 58200 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Plaza Usahawan Crystal Ville",
+        "state": "Kuala Lumpur",
+        "street": "No 32, Plaza Usahawan Crystal Ville, Off, Jalan Danau Niaga 1, Taman Danau Kota, 53300, Wilayah Persekutuan Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Pudu Plaza",
+        "state": "Kuala Lumpur",
+        "street": "1, Jalan 1/77C, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Quill City Mall",
+        "state": "Kuala Lumpur",
+        "street": "LG-28, Quill City Mall, 1018, Jalan Sultan Ismail, Bandar Wawasan, 50250 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Razak City Residences",
+        "state": "Kuala Lumpur",
+        "street": "BLOCK D-G-23, Razak City Residences, 1, Jalan Razak Mansion, Sungai Besi, 57100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Sentul Point",
+        "state": "Kuala Lumpur",
+        "street": "8, Jalan Sentul Pasar, Sentul Pasar, 51000 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Sentul Raya",
+        "state": "Kuala Lumpur",
+        "street": "16, Jalan 14/48A, Sentul Raya Boulevard, Sentul, 51000 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Setapak Central Mall",
+        "state": "Kuala Lumpur",
+        "street": "GK 10, Ground Floor, Setapak Central Mall, 67, Jalan Taman Ibu Kota, Taman Danau Kota, 53300 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Southlink",
+        "state": "Kuala Lumpur",
+        "street": "Unit B1-09, Residensi Sambungan Selatan (South Link), No. 2A, Jalan Kerinchi Kiri 2, Bangsar South, 59200 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Sri Petaling",
+        "state": "Kuala Lumpur",
+        "street": "65g, Jalan Radin Bagus, Bandar Baru Sri Petaling, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Sungai Besi Lakefields",
+        "state": "Kuala Lumpur",
+        "street": "No 20, Jalan Tasik Utama 9, Medan Niaga Tasik Damai, The Trillium, Lake Fields, Sungai Besi, 57000 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Sungei Wang Plaza",
+        "state": "Kuala Lumpur",
+        "street": "Lower Ground, LG001(C), Jln Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Sunway Velocity",
+        "state": "Kuala Lumpur",
+        "street": "Level 3, SVM 3-59, Lingkaran SV2, Sunway Velocity, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Bunga Raya",
+        "state": "Kuala Lumpur",
+        "street": "No.17, Jalan Malinja 2, Off Jalan Genting Klang, Taman Bunga Raya, 53000 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Cheras (Yulek)",
+        "state": "Kuala Lumpur",
+        "street": "21, Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Connaught",
+        "state": "Kuala Lumpur",
+        "street": "138-G, Jalan Cerdas, Taman Connaught, Cheras, 56000 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Danau Desa",
+        "state": "Kuala Lumpur",
+        "street": "No 17, Plaza Danau 2, Jalan 3/109F, Taman Danau Desa, 58100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Danau Desa",
+        "state": "Kuala Lumpur",
+        "street": "No.17-G Plaza Danau 2, Jalan 4/109F, Taman Danau Desa, 58100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Ehsan Kepong",
+        "state": "Kuala Lumpur",
+        "street": "6, Jalan E 3/7A, Taman Ehsan, 52100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Maluri Cheras",
+        "state": "Kuala Lumpur",
+        "street": "No 269, Jalan Mahkota, Taman Maluri, 55100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Mulia",
+        "state": "Kuala Lumpur",
+        "street": "No.11-G, Jalan Budiman 25, Taman Mulia, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Putra",
+        "state": "Kuala Lumpur",
+        "street": "No.30, Jalan Bunga Tanjung 9b, Taman Putra, 56100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman Sri Jati",
+        "state": "Kuala Lumpur",
+        "street": "10, Jalan Seri Jati 1, Taman Sri Jati, 58200 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Taman United OUG",
+        "state": "Kuala Lumpur",
+        "street": "75, Jalan Mega Mendung, Taman United, 58200 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Wangsa Melawati",
+        "state": "Kuala Lumpur",
+        "street": "39-G, Jalan Wangsa Setia 1, Wangsa Melawati, 53300 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Wangsa Walk Mall",
+        "state": "Kuala Lumpur",
+        "street": "Lot GK-18, Wangsa Walk Mall, Wangsa Avenue 9,Jalan Wangsa Perdana 1, Bandar Wangsa Maju,53300 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "1.MIXUE 1 Utama",
+        "state": "Selangor",
+        "street": "G627, 1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "2.MIXUE AEON Bukit Tinggi",
+        "state": "Selangor",
+        "street": "Second Floor, S29, 1, Persiaran Batu Nilam 1/KS06, Bandar Bukit Tinggi 2, 41200 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "3.MIXUE AEON Taman Equine",
+        "state": "Selangor",
+        "street": "KG01, AEON Taman Equine Shopping Centre, No. 2, Jalan Equine, Taman Equine, Bandar Putra Permai, 43300 Seri Kembangan, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "4.MIXUE Aman Puri",
+        "state": "Selangor",
+        "street": "1-28A, Jalan Desa 1-3, Desa Aman Puri, Kepong, 52100 Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "5.MIXUE Aman Suria Damansara",
+        "state": "Selangor",
+        "street": "A-G-36, Jalan PJU 1/43, Aman Suria Damansara, 47301 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "6.MIXUE Anggun City",
+        "state": "Selangor",
+        "street": "No 33A-1, Jalan Anggun City1, Pusat Komersial Anggun City, Tmn Anggun 48000, Rawang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "7.MIXUE Bandar Baru Bangi",
+        "state": "Selangor",
+        "street": "42-G, Jalan Medan Pusat 2C, Persiaran Bangi, Seksyen 9 Bandar Baru Bangi, 43650 Bandar Baru Bangi, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "8.MIXUE Bandar Baru Selayang",
+        "state": "Selangor",
+        "street": "No 23, Jalan 2/16, Bandar Baru Selayang, 68100 Batu Caves, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "9.MIXUE Bandar Bukit Raja",
+        "state": "Selangor",
+        "street": "4, Jalan Rodat 3/KU5, Bandar Bukit Raja, 41050 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "10.MIXUE Bandar Bukit Tinggi 1",
+        "state": "Selangor",
+        "street": "G627, 1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "11.MIXUE Bandar Bukit Tinggi 2",
+        "state": "Selangor",
+        "street": "No.47-G, Lorong Batu Nilam 21B, Bandar Bukit Tinggi 2, 41200 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "12.MIXUE Bandar Country Homes",
+        "state": "Selangor",
+        "street": "15, Jalan Pusat Bch 1A, Bandar Country Homes, 48000 Rawang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "13.MIXUE Bandar Damai Perdana",
+        "state": "Selangor",
+        "street": "No.3 Jalan Damai Perdana 1/9B, Bandar Damai Perdana, 43200 Cheras. Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "14.MIXUE Bandar Mahkota Cheras",
+        "state": "Selangor",
+        "street": "60, Jalan Temenggung 17/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "15.MIXUE Bandar Parklands Klang",
+        "state": "Selangor",
+        "street": "No.19, Jalan Jed 3/KS9 Bandar Parklands 41200 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "16.MIXUE Bandar Puteri",
+        "state": "Selangor",
+        "street": "19-GF, Jalan Puteri 1/6, Bandar Puteri, 47100, Puchong Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "17.MIXUE Bandar Puteri 2 Puchong",
+        "state": "Selangor",
+        "street": "14, Jalan Puteri 2/2, Bandar Puteri, 47100 Puchong, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "18.MIXUE Bandar Saujana Putra",
+        "state": "Selangor",
+        "street": "NO.71-G, Jalan SP 1/1, Bandar Saujana Putra, 42610 Jenjarom, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "19.MIXUE Bandar Seri Putra",
+        "state": "Selangor",
+        "street": "5-G, Jalan Seri Putra 1/5A, Bandar Seri Putra, Bangi, 43000 Kajang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "20.MIXUE Bandar Sunway",
+        "state": "Selangor",
+        "street": "31 Ground Floor, Jalan PJS 11/9, Bandar Sunway, 47500 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "21.MIXUE Banting",
+        "state": "Selangor",
+        "street": "14, Jalan Bunga Pekan 4, 42700 Banting, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "22.MIXUE BMC Mall",
+        "state": "Selangor",
+        "street": "G42, BMC Mall, Jalan Temenggung 21/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "23.MIXUE Bukit Jelutong Shah Alam",
+        "state": "Selangor",
+        "street": "25-GF, Trivo, Jalan Bazar u8/99, Bukit Jelutong, 40150 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "24.MIXUE Bukit Rahman Putra",
+        "state": "Selangor",
+        "street": "34A, Jalan BRP 6/11, Bukit Rahman Putra, 47100 Sungai Buloh, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "25.MIXUE Central I-City",
+        "state": "Selangor",
+        "street": "L3-K03, Central I City, No. 1, Persiaran Multimedia, Seksyen 7, Jalan Plumbum 7/102, I-City, 40000 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "26.MIXUE Cheras Trader Square",
+        "state": "Selangor",
+        "street": "100-G, Jalan Dataran Cheras 5, Dataran Perniagaan Cheras, 43200 Cheras, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "27.MIXUE Damansara Damai",
+        "state": "Selangor",
+        "street": "L-007, Vista Shop, Jalan PJU 10/2A, Damansara Damai, 47830 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "28.MIXUE Dengkil",
+        "state": "Selangor",
+        "street": "5, Jalan Teratai, Taman Seri Dengkil, 43800 Dengkil, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "29.MIXUE Desa Mentari",
+        "state": "Selangor",
+        "street": "9-1 (Half Shop), Desa Mentari Block 5, Jalan PJS 6/6, Pjs 6, 46000 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "30.MIXUE Dpulze Shopping Centre",
+        "state": "Selangor",
+        "street": "Dpulze Shopping Centre, Upper Ground Floor, Lot UGE-B3, Persiaran Multimedia, Cyberjaya, 63000 Cyberjaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "31.MIXUE Eco Majestic",
+        "state": "Selangor",
+        "street": "27-1, Eco Majestic, Jalan Eco Majestic 10/1C, 43500, Semenyih, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "32.MIXUE Glenmarie Shah Alam",
+        "state": "Selangor",
+        "street": "23, Jalan Juruaudit U1/37, Hicom-Glenmarie Industrial Park, 40150 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "33.MIXUE IOI Mall Puchong",
+        "state": "Selangor",
+        "street": "First Floor, EFK02, Lot S37, Batu 9, Jalan Puchong, Bandar Puchong Jaya, 47170, Puchong, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "34.MIXUE Jalan Kebun Nenas",
+        "state": "Selangor",
+        "street": "No.143­G & 143­1, Jalan Kebun Nenas 7A/KS8, 41200 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "35.MIXUE Kajang",
+        "state": "Selangor",
+        "street": "24, Jalan Raja Haroun, Bandar Kajang, 43000 Kajang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "36.MIXUE Kajang Prima",
+        "state": "Selangor",
+        "street": "No.12133A, ShowRoom Jalan Kajang Prima, Taman Kajang Prima, 43000 Kajang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "37.MIXUE Kapar",
+        "state": "Selangor",
+        "street": "218, Jalan Besar / KU 13, Pekan Kapar, 42200 Kapar, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "38.MIXUE Kepong Metro Perdana",
+        "state": "Selangor",
+        "street": "44-G, Block D, Jalan Metro Perdana Timur 2, Taman Usahawan Kepong, 52100, W.P Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "39.MIXUE KLIA2",
+        "state": "Selangor",
+        "street": "Transportation Hub, Level 1, L1-23, KLIA2 Gateway, Kuala Lumpur International Airport, 64000 Sepang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "40.MIXUE Kosas Ampang",
+        "state": "Selangor",
+        "street": "10, Jalan Kosas 1/5, Taman Kosas, 68000 Ampang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "41.MIXUE Kota Damansara",
+        "state": "Selangor",
+        "street": "7-1, Jalan PJU 5/12, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "42.MIXUE Kota Kemuning",
+        "state": "Selangor",
+        "street": "3A, Jalan Anggerik Vanilla X 31/X, Kota Kemuning, 40460 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "43.MIXUE KSL Esplanade Mall",
+        "state": "Selangor",
+        "street": "GD65, Ground Floor, KSL Esplanade Mall, No.1, Jalan Langat KS9, Bandar Bestari, 41200 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "44.MIXUE Kuala Selangor",
+        "state": "Selangor",
+        "street": "No.75 Jalan Medan Niaga 2, Medan Niaga, 45000 Kuala Selangor, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "45.MIXUE Megah Rise Mall",
+        "state": "Selangor",
+        "street": "G-31A, Ground Floor, Megah Rise Mall, Jalan SS 24/8, Taman Megah, 47301 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "46.MIXUE Melawati Mall",
+        "state": "Selangor",
+        "street": "LG-14, Melawati Mall, 355, Pusat Bandar Melawati, 53100, Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "47.MIXUE Metro Point",
+        "state": "Selangor",
+        "street": "G-22, Metro Point Kajang, Jalan Jelok 6, Bandar Kajang, 43000 Kajang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "48.MIXUE MKH 2 Kajang",
+        "state": "Selangor",
+        "street": "1-2, Ground Floor, MKH Boulevard 2, Jalan Bukit, Taman Bukit Mewah, 43000 Kajang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "49.MIXUE MSU",
+        "state": "Selangor",
+        "street": "University Drive, Off Persiaran Olahraga, 40100 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "50.MIXUE Olive Hill Seri Kembangan",
+        "state": "Selangor",
+        "street": "72-G, Ground Floor, Jalan BS 1, 1, Seksyen 1, Taman Bukit Serdang, 43300 Seri Kembangan, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "51.MIXUE Pandamaran",
+        "state": "Selangor",
+        "street": "No.311, Jalan Besar Pandamaran, 42000 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "52.MIXUE Paradigm Mall PJ",
+        "state": "Selangor",
+        "street": "CF-57 & CF-58, Paradigm Mall, 1, Jalan SS 7/26a, SS7, 47301 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "53.MIXUE PJ New Town",
+        "state": "Selangor",
+        "street": "30, Ground Floor, Jalan 52/18, Pj New Town, 46200 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "54.MIXUE Plaza Shah Alam",
+        "state": "Selangor",
+        "street": "LB 13A, Lower Ground Floor, Plaza Shah Alam, Jalan Tengku Ampuan Zabedah E 9/E, Section 9, 40100 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "55.MIXUE Puchong Jaya",
+        "state": "Selangor",
+        "street": "4G, Jalan Kenari 10, Bandar Puchong Jaya, 47100 Puchong, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "56.MIXUE Puchong Utama",
+        "state": "Selangor",
+        "street": "35, Jalan Bpu 2, Bandar Puchong Utama, 47100 Puchong, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "57.MIXUE Puncak Jalil",
+        "state": "Selangor",
+        "street": "22A, Jalan PUJ 3/13, Taman Puncak Jalil, 43300 Seri Kembangan, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "58.MIXUE Rantau Panjang",
+        "state": "Selangor",
+        "street": "No 11, Jalan Rantau Panjang 2/KU4, Kampung Rantau Panjang, 42100 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "59.MIXUE SACC Mall",
+        "state": "Selangor",
+        "street": "GF-SACC Mall, Jalan Perbadanan 14/9, Seksyen 14, 40000 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "60.MIXUE Saujana Utama",
+        "state": "Selangor",
+        "street": "No. 31G, Jalan Bidara 9/3, Saujana Utama, 47000 Sungai Buloh, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "61.MIXUE SB Mall",
+        "state": "Selangor",
+        "street": "LGK-13, 13A, 15, 16, SB Mall Bandar Baru Sungai Buloh, Seksyen U20, 47000 Sungai Buloh, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "62.MIXUE Segar Perdana",
+        "state": "Selangor",
+        "street": "5, Jalan Segar Perdana 2, Taman Segar Perdana, 43200 Cheras, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "63.MIXUE Seksyen 14 Petaling Jaya",
+        "state": "Selangor",
+        "street": "NO 20B-1, Jalan 14/20, Seksyen 14, 46100 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "64.MIXUE Seksyen 18 Shah Alam",
+        "state": "Selangor",
+        "street": "41, Jalan Pinang 18/B, Seksyen 18, 40200 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "65.MIXUE Seksyen 7 Shah Alam",
+        "state": "Selangor",
+        "street": "28, Jalan Kristal J7/J, Seksyen 7, 40000 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "66.MIXUE Selayang Jaya",
+        "state": "Selangor",
+        "street": "2, Jalan SJ 2, Taman Selayang Jaya, 68100 Batu Caves, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "67.MIXUE Selayang Mall",
+        "state": "Selangor",
+        "street": "GSW.3B Walk (Ground Floor), Selayang Mall, Jalan SU10, Taman Selayang Utama, 68100 Batu Caves, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "68.MIXUE Semenyih",
+        "state": "Selangor",
+        "street": "H-10-L1, Block H Pusat Komersial Dataran EcoHill Jalan EcoHill 1/2 Setia EcoHill, 43500 Semenyih, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "69.MIXUE Seri Kembangan",
+        "state": "Selangor",
+        "street": "219A, Jalan SK 6/1, Kampung Baru Seri Kembangan, 43300 Seri Kembangan, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "70.MIXUE Setia Prima",
+        "state": "Selangor",
+        "street": "No. 611, Jalan Setia Prima S U13/G, Setia Alam, 40170 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "71.MIXUE Setia Taipan",
+        "state": "Selangor",
+        "street": "No 25-G, Jalan Setia Alam Utama, AW U13/AW, Seksyen 13, Setia Alam, 40170 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "72.MIXUE Southville City",
+        "state": "Selangor",
+        "street": "B-G-12, Savanna Lifestyle Retail, BBLS 1, Bandar Baru, Lembah Selatan, Bandar Baru Lembah Selatan, 43800 Dengkil, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "73.MIXUE Spectrum Ampang",
+        "state": "Selangor",
+        "street": "Lot CW-2, Café Walk, Ground Floor, Spectrum Shopping Mall, Jalan Wawasan 4/2, Bandar Baru Ampang, 68000 Ampang Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "74.MIXUE Sri Manja",
+        "state": "Selangor",
+        "street": "No 22, Jalan PJS 3/48, Taman Sri Manja, 46000 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "75.MIXUE Sri Muda Shah Alam",
+        "state": "Selangor",
+        "street": "27, Ground Floor, Jalan Makmur 25/64, Taman Sri Muda, 40400 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "76.MIXUE Sri Serdang",
+        "state": "Selangor",
+        "street": "26G, Jalan 18/34, Taman Sri Serdang, 43400 Seri Kembangan, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "77.MIXUE SS15",
+        "state": "Selangor",
+        "street": "Ground Floor, No 12-G, Jalan SS 15/4B Subang Jaya 47500 Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "78.MIXUE SS15 Subang Jaya",
+        "state": "Selangor",
+        "street": "No 12-G, Ground Floor, Jalan SS 15/4B, SS15, 47500 Subang Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "79.MIXUE SS19 Subang Jaya",
+        "state": "Selangor",
+        "street": "51-G, Jln SS19/6, Subang Jaya, 47500 Subang Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "80.MIXUE SS2",
+        "state": "Selangor",
+        "street": "6-G, Jalan SS 2/67, SS 2, 47300 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "81.MIXUE SS22 Damansara Jaya",
+        "state": "Selangor",
+        "street": "No 15, Ground Floor, Jalan SS 22/19 Damansara Jaya, 47400 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "82.MIXUE Subang Perdana",
+        "state": "Selangor",
+        "street": "20-G, Jalan Dinar C U3/C, Seksyen U3, 40150 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "83.MIXUE Sungai Besar",
+        "state": "Selangor",
+        "street": "No.7, Jalan SBBC 7, 45300 Sungai Besar, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "84.MIXUE Sungai Long",
+        "state": "Selangor",
+        "street": "8, Jalan SL 1/2, Bandar Sungai Long, 43000 Kajang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "85.MIXUE Sunway Geo",
+        "state": "Selangor",
+        "street": "K3-01, Level 1, Sunway GEO Avenue 2, Jalan Lagoon Selatan, Bandar Sunway, 47500, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "86.MIXUE Sunway Mentari",
+        "state": "Selangor",
+        "street": "No. 12A (Ground floor), Jalan PJS 8/4, Sunway Mentari, 46150 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "87.MIXUE Sunway Pyramid",
+        "state": "Selangor",
+        "street": "OB2G.09 (Ground Floor), Oasis Boulevard, 3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "88.MIXUE Taman Bayu Tinggi Klang",
+        "state": "Selangor",
+        "street": "No.9, Lorong Sentosa 4, Taman Bayu Tinggi, 41200 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "89.MIXUE Taman Chi Liung Klang",
+        "state": "Selangor",
+        "street": "80, Lebuh Turi, Taman chi Liung, 41200 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "90.MIXUE Taman Eng Ann Klang",
+        "state": "Selangor",
+        "street": "No.44, Lorong Kasawari 4, Taman Eng Ann, 41150 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "91.MIXUE Taman Paramount",
+        "state": "Selangor",
+        "street": "Lot 9175, Jalan 20/16A, Taman Paramount, 46300 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "92.MIXUE Taman Pelangi Semenyih",
+        "state": "Selangor",
+        "street": "41, Jalan Tps 1/3, Taman Pelangi Semenyih, 43500 Semenyih, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "93.MIXUE Taman Puchong Utama",
+        "state": "Selangor",
+        "street": "18, Jalan PU 7/2, Taman Puchong Utama, 47100 Puchong, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "94.MIXUE Taman Sri Bintang",
+        "state": "Selangor",
+        "street": "No.59, Jalan Sri Bintang 2, Taman Sri Bintang, Kepong, Kuala Lumpur, 52100 Wilayah Persekutuan Kuala Lumpur.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "95.MIXUE Taman Sri Gombak",
+        "state": "Selangor",
+        "street": "11, Jalan SG 3/4, Taman Sri Gombak, 68100 Batu Caves, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "96.MIXUE Taman Teluk Pulai",
+        "state": "Selangor",
+        "street": "33G, Jalan Teluk Pulai /KS3, Taman Teluk Pulai, 41100 Klang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "97.MIXUE Taman TTDI Jaya",
+        "state": "Selangor",
+        "street": "No.31, Jalan Opera F U2/F, TTDI Jaya, 40150 Shah Alam, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "98.MIXUE Tanming Boulevard",
+        "state": "Selangor",
+        "street": "129-G, Tanming Boulevard Blok G, Jalan Meranti Jaya 3/1, Taman Meranti Jaya, 47120 Puchong, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "99.MIXUE Ten Kinrara",
+        "state": "Selangor",
+        "street": "C-GF-09, Ten Kinrara Serviced Apartment, Jalan BK 5A/3, Bandar Kinrara, 47180 Puchong, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "100.MIXUE The Mines",
+        "state": "Selangor",
+        "street": "L1-95, The Mines, Jalan Dulang, Mines Wellness City, 43300 Seri Kembangan, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "101.MIXUE The Starling Mall",
+        "state": "Selangor",
+        "street": "G627, 1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "102.MIXUE Tropicana Gardens Mall",
+        "state": "Selangor",
+        "street": "K35 & K36, 29, Unit CC, 2A, Persiaran Surian, Tropicana Indah, 47810 Petaling Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "103.MIXUE TTDI Grove Kajang",
+        "state": "Selangor",
+        "street": "66-1, Jalan TTDI Grove 1/1, TTDI Grove, 43000 Kajang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "104.MIXUE USJ Taipan",
+        "state": "Selangor",
+        "street": "22, Jalan USJ 10/1, Taipan Business Centre 47620 Subang Jaya, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "105.MIXUE Vista Semenyih",
+        "state": "Selangor",
+        "street": "15-G, Jalan Vista Valley 1, Vista Valley, 43500 Semenyih, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "106.MIXUE Xiamen (Bell Avenue)",
+        "state": "Selangor",
+        "street": "Lot R-G-20, Bell Avenue, Jalan Sunsuria, Kota Warisan, 43900 Sepang, Selangor.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "1.MIXUE AEON Bukit Mertajam",
+        "state": "Pulau Pinang",
+        "street": "KG01, Ground Floor, AEON Mall Bukit Mertajam, Jalan Rozhan, 14000 Bukit Mertajam, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "2.MIXUE All Seasons Place",
+        "state": "Pulau Pinang",
+        "street": "6G-1-10, All Seasons Place, Lebuhraya Thean Teik, 11500 Bandar Baru Ayer Itam, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "3.MIXUE Alma Bukit Mertajam",
+        "state": "Pulau Pinang",
+        "street": "Home Mart (Alma) Shop Lot 1, 1818, Jalan Rozhan, 14000 Bukit Mertajam, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "4.MIXUE Aston Bukit Mertajam",
+        "state": "Pulau Pinang",
+        "street": "64, Jalan Aston, 14000 Bukit Mertajam, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "5.MIXUE Auto City",
+        "state": "Pulau Pinang",
+        "street": "FM-A5 & FM-A6, Plot 3, Jalan Perusahaan, Auto- City, 13600 Perai, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Balik Pulau",
+        "state": "Pulau Pinang",
+        "street": "118, Jalan Besar, 11000 Balik Pulau, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "7.MIXUE Bukit Jambul",
+        "state": "Pulau Pinang",
+        "street": "Lot C 7 Food Cabin, Bukit Jambul Complex, Jalan Rumbia, 11900 Bayan Lepas, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "8.MIXUE C-Mart Nibong Tebal",
+        "state": "Pulau Pinang",
+        "street": "GF 85, Cmart Nibong Tebal, Taman Perindustrian Nibong Tebal, 14300 Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "9.MIXUE Chai Leng Park",
+        "state": "Pulau Pinang",
+        "street": "No 42, Lebuh Kurau 3, Chai Leng Park, 13700 Perai, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "10.MIXUE Design Village Outlet",
+        "state": "Pulau Pinang",
+        "street": "KS-1B, Design Village Outlet Mall, 733, Jalan Cassia Barat 2, Bandar Cassia, 14110 Simpang Ampat, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "11.MIXUE Farlim Jalan Angsana",
+        "state": "Pulau Pinang",
+        "street": "27A, Jalan Angsana, Bandar Baru, 11500 Ayer Itam, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "12.MIXUE Gat Lebuh Macallum",
+        "state": "Pulau Pinang",
+        "street": "14 (Ground Floor), Gat Lebuh Macallum, 10300 Georgetown, Penang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "13.MIXUE Golden Triangle 2",
+        "state": "Pulau Pinang",
+        "street": "35-1-29, Golden Triangle 2 Commercial Square, Jalan Dato Ismail Hashim, 11900 Bayan Lepas, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "14.MIXUE Gravitas",
+        "state": "Pulau Pinang",
+        "street": "B2-G, Gravitas, 18, Lorong Pauh Jaya 1/3, Taman Pauh Jaya, 13500 Permatang Pauh, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "15.MIXUE Gurney Plaza",
+        "state": "Pulau Pinang",
+        "street": "Level 6, 170-06-05/06, 170, Persiaran Gurney, Pulau Tikus, 10250 George Town, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "16.MIXUE I-Santorini",
+        "state": "Pulau Pinang",
+        "street": "8-G-7, Jalan Seri Tanjung Pinang 1, I-Santorini, 10470 Tanjung Tokong, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "17.MIXUE Icon City",
+        "state": "Pulau Pinang",
+        "street": "35, Jalan Icon City, Icon City, 14000 Bukit Mertajam, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "18.MIXUE Iconic Point",
+        "state": "Pulau Pinang",
+        "street": "69-G Jalan Iconic Point, Iconic Point, Iconic Point, 14100 Simpang Ampat, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "19.MIXUE IKEA Batu Kawan",
+        "state": "Pulau Pinang",
+        "street": "L1.K03, IKEA Batu Kawan, 752, Persiaran Cassia Selatan 8, Lebuhraya Bandar Cassia, 14110 Simpang Ampat, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "20.MIXUE Jalan Burma",
+        "state": "Pulau Pinang",
+        "street": "221e, Jalan Burma, 10050 Georgetown, Pulau Pinang",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "21.MIXUE Kheng Tian",
+        "state": "Pulau Pinang",
+        "street": "No.9-1-7, Taman Kheng Tian, Jalan Van Praagh, 11600 Jelutong, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "22.MIXUE Lotus’s Seberang Jaya",
+        "state": "Pulau Pinang",
+        "street": "Lot OL6 & OL7, Lotus’s Seberang Jaya, 2762, Persiaran Sembilang, 13700 Seberang Jaya, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "23.MIXUE Maju Utama",
+        "state": "Pulau Pinang",
+        "street": "2A, Lorong Maju Utama 1, Pusat Perniagaan Maju Utama , 14000 Bukit Mertajam , Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "24.MIXUE New World Park",
+        "state": "Pulau Pinang",
+        "street": "102-C-04, New World Park, Jalan Burma, 10050 George Town, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "25.MIXUE One City",
+        "state": "Pulau Pinang",
+        "street": "5 (Ground Floor), Jalan Perniagaan, Taman Seri Juru, 14100 Simpang Ampat, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "26.MIXUE Penang Sentral",
+        "state": "Pulau Pinang",
+        "street": "L2-09, Penang Sentral, 5130 Terminal Pengang, kutan Penang Sentral, Jalan Bagan Dalam, 12100 Butterworth, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "27.MIXUE Prangin Mall",
+        "state": "Pulau Pinang",
+        "street": "33-G-37, Prangin Mall, No 33, Jalan Dr Lim Chwee Leong, George Town, 10100 George Town, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "28.MIXUE Prima Tanjung",
+        "state": "Pulau Pinang",
+        "street": "98-G-13, Prima Tanjung Business Centre, Jalan Fettes, 10470 Tanjung Tokong, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "29.MIXUE Pulau Tikus",
+        "state": "Pulau Pinang",
+        "street": "7F, Asas Centre, Gottlieb Road, 10350 George Town, Penang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "MIXUE Queensbay Mall",
+        "state": "Pulau Pinang",
+        "street": "LG Floor, LG-122, 100, Persiaran Bayan Indah, 11900 Bayan Lepas, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "31.MIXUE Raja Uda",
+        "state": "Pulau Pinang",
+        "street": "7122, Jalan Raja Uda, Taman Mas, 12300 Butterworth, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "32.MIXUE Seberang Jaya",
+        "state": "Pulau Pinang",
+        "street": "19, Ground Floor, Jalan Todak 2 Pusat Bandar Seberang Jaya, 13700 Perai, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "33.MIXUE Summerskye",
+        "state": "Pulau Pinang",
+        "street": "1-1-2, Summerskye Residences, Jalan Sungai Tiram 8, 11900 Bayan Lepas, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "34.MIXUE Sungai Dua",
+        "state": "Pulau Pinang",
+        "street": "No.723U-G, Vanda Business Park, Jalan Sungai Dua, Sungai Dua, 11700 Gelugor, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "35.MIXUE Sunway Carnival",
+        "state": "Pulau Pinang",
+        "street": "Lower Ground Floor, LG-K6, Sunway Carnival Mall, 3, Jalan Todak 2, Seberang Jaya, 13700 Perai, Penang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "36.MIXUE Teras Jaya Raja Uda",
+        "state": "Pulau Pinang",
+        "street": "57, Lorong Teras Jaya 2, Kawasan Industri Ringan Teras Jaya, 13400 Butterworth, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "37.MIXUE The Promenade Bayan Lepas",
+        "state": "Pulau Pinang",
+        "street": "5-G-7, The Promenade, Persiaran Mahsuri, Bandar Bayan Baru, 11950 Bayan Lepas, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "38.MIXUE Weld Quay",
+        "state": "Pulau Pinang",
+        "street": "49F, Pengkalan Weld, 10300 George Town, Pulau Pinang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "1.MIXUE AEON Ipoh Station 18",
+        "state": "Perak",
+        "street": "Lot S20A, Second Floor, AEON Mall Ipoh Station 18, 31650 Ipoh, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "2.MIXUE AEON Taiping",
+        "state": "Perak",
+        "street": "Lot KF5, 1st Floor, Aeon Mall Taiping, Jalan Kamunting, 34000 Taiping, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "3.MIXUE Bercham",
+        "state": "Perak",
+        "street": "230, Jalan Bercham, Taman Ria, 31400 Ipoh, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "4.MIXUE Bond Square",
+        "state": "Perak",
+        "street": "No.3, Jalan Niaga Simee 1, Pusat Perniagaan Simee, 31400 Ipoh, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "5.MIXUE Ipoh Klebang",
+        "state": "Perak",
+        "street": "1, Laluan Klebang 21, Klebang Perdana, 31200 Chemor, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "6.MIXUE Ipoh Parade",
+        "state": "Perak",
+        "street": "Ground Floor, Lot G41B, 105, Jalan Sultan Abdul Jalil, Pusat Perdagangan Greentown, 30450 Ipoh, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "7.MIXUE Kampar",
+        "state": "Perak",
+        "street": "27, (Ground Floor), Jalan Batu Karang, Off Jalan Batu Sinar, 31900 Kampar, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "8.MIXUE Kamunting",
+        "state": "Perak",
+        "street": "31, Jalan Medan Saujana Kamunting, Taman Medan Saujana, 34600 Kamunting, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "9.MIXUE Lumut",
+        "state": "Perak",
+        "street": "No. 17, Jalan Lumut Indah 2/1,Taman Lumut Indah 2, 32200 Lumut Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "10.MIXUE Manhattan Business Center",
+        "state": "Perak",
+        "street": "No. 32, Jalan Pengkalan Putra 3, Pusat Perniagaan Pengkalan Putra (Manhattan Business Center), Jalan Pasir Puteh, 31650 Ipoh, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "11.MIXUE MYDIN Mall Meru Raya",
+        "state": "Perak",
+        "street": "GFNB-07, Mydin Mall Meru Raya, Pt Lot 03, Jalan Meru Bestari, 30020 Ipoh, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "12.MIXUE Pantai Remis",
+        "state": "Perak",
+        "street": "No.127, Hala Desa Pantai 1, Taman Desa Pantai 2, 34900 Pantai Remis, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "13.MIXUE Parit Buntar",
+        "state": "Perak",
+        "street": "Lot 0176, MYDIN Parit Buntar, Kerian Sentral Mall, Lot 23252, Jalan Sekolah 34200 Parit Buntar, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "14.MIXUE Sitiawan Sentral",
+        "state": "Perak",
+        "street": "No.25, Bawah, Jalan Sentral 2, Sitiawan Sentral, 32000 Sitiawan, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "15.MIXUE Soho Ipoh",
+        "state": "Perak",
+        "street": "Block D, G-3, Ipoh Soho, 2, Jalan Sultan Idris Shah, 30000 Ipoh, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "16.MIXUE Taiping",
+        "state": "Perak",
+        "street": "76D, Jalan Tupai, 34000 Taiping, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "17.MIXUE Taman Jubilee Perak",
+        "state": "Perak",
+        "street": "No 36, Jalan Yau Tet Shin, Taman Jubilee, 30300 Ipoh, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "18.MIXUE Taman Tasek Damai",
+        "state": "Perak",
+        "street": "646, Jalan Kuala Kangsar, Taman Tasek Damai, 30010 Ipoh, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "19.MIXUE Tambun Ipoh",
+        "state": "Perak",
+        "street": "25, Lengkok Perpaduan 1, Taman Perpaduan, 31150 Ulu Kinta, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "20.MIXUE Teluk Intan",
+        "state": "Perak",
+        "street": "8BG, Jalan Laman Intan, Bandar Baru Teluk Intan, 36000 Teluk Intan, Perak.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "1.MIXUE Aman Central",
+        "state": "Kedah",
+        "street": "LG Floor, LG-K32 & K33, Aman Central, 1, Darul Aman Hwy, Kampung Lubok Peringgi, 05100 Alor Setar, Kedah.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "2.MIXUE Bakar Arang",
+        "state": "Kedah",
+        "street": "No 6 (Hadapan Sekolah Menengah Che Tom), Jalan Bakar Arang, 08000 Sungai Petani, Kedah.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "3.MIXUE C-Mart Amanjaya Mall",
+        "state": "Kedah",
+        "street": "2nd Floor, P32&P33, Cmart Amanjaya Mall, Jalan Jati 1/1, Bandar Amanjaya, 08000 Sungai Petani, Kedah.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "4.MIXUE C-Mart Serai Wangi Mall",
+        "state": "Kedah",
+        "street": "GF, Lot 2, Cmart Serai Wangi Mall, No. 2500, 10, Lor Serai Wangi 14/4, Taman Serai Wangi, 09400 Padang Serai, Kedah.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "5.MIXUE Jitra",
+        "state": "Kedah",
+        "street": "14A, Bandar Darulaman Jaya, 06000 Jitra, Kedah.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "6.MIXUE Kuala Kedah",
+        "state": "Kedah",
+        "street": "No. 5, Ground Floor, Kompleks MHJ Utama, Jalan Batas Paip, 06600 Bandar Kuala Kedah, Kedah.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "7.MIXUE Kuala Ketil",
+        "state": "Kedah",
+        "street": "111, Persiaran KLCC 2, Kuala Ketil, 09100 Baling, Kedah.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "8.MIXUE Kulim",
+        "state": "Kedah",
+        "street": "No.51, Ground Floor, Jalan KLC 5, Kulim Landmark Central, 09000 Kulim, Kedah.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "9.MIXUE Taman Rakyat",
+        "state": "Kedah",
+        "street": "29, Susuran Tuanku Haminah, Pusat Perdagangan Tuanku Haminah, 05150 Alor Setar, Kedah.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "10.MIXUE Taman Sejati Indah",
+        "state": "Kedah",
+        "street": "No.24, Jalan Permatang Gedong, Taman Sejati Indah 08000 Sungai Petani, Kedah.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "11.MIXUE Taman Tuanku Haminah",
+        "state": "Kedah",
+        "street": "No.43, Jalan Tuanku Haminah 1, Taman Tuanku Haminah, 08000 Sungai Petani, Kedah.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "1.MIXUE AEON Bandaraya Melaka",
+        "state": "Melaka",
+        "street": "Level 2, S57, Aeon Bandaraya Melaka, No 2, Jalan Lagenda 2, Taman 1 Lagenda, 75400 Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "2.MIXUE Ayer Leleh",
+        "state": "Melaka",
+        "street": "11, Jalan Laksamana Cheng Ho 2, Taman Laksamana Cheng Ho, 75050 Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "3.MIXUE Bandar Baru Sungai Udang",
+        "state": "Melaka",
+        "street": "10, Jalan Kerambit 4, Bandar Baru Sungai Udang, 76300 Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "4.MIXUE Bandar Jasin Bestari",
+        "state": "Melaka",
+        "street": "JC 542 (Ground Floor), Jasin Bestari 5, Bandar Jasin Bestari, Seksyen 2 Bemban 77200 Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "5.MIXUE Batu Berendam",
+        "state": "Melaka",
+        "street": "2F, Jalan SS1, Taman Sri Selendang, 75350 Batu Berendam, Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "6.MIXUE Gajah Berang",
+        "state": "Melaka",
+        "street": "307, Jalan Gajah Berang, 75200 Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "7.MIXUE Gangsa Jaya",
+        "state": "Melaka",
+        "street": "No.39, Jalan Komersial Gangsa Jaya, 76100 Durian Tunggal, Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "8.MIXUE Jalan Ong Kim Wee",
+        "state": "Melaka",
+        "street": "Ground Floor, 45C, Jalan Ong Kim Wee, 75200 Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "9.MIXUE Jonker Street",
+        "state": "Melaka",
+        "street": "No.86, Jalan Hang Jebat, Jonker Street, 75200, Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "10.MIXUE Mahkota Parade",
+        "state": "Melaka",
+        "street": "KG5D, Ground Floor, Mahkota Parade, Lot B-02, Mahkota Parade, 1, Jln Merdeka, Taman Costa Mahkota, 75000 Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "11.MIXUE Masjid Tanah",
+        "state": "Melaka",
+        "street": "SU 1454, Jalan Masjid Tanah Ria Utama, Taman Masjid Tanah Ria, 78300 Masjid Tanah, Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "12.MIXUE Merlimau",
+        "state": "Melaka",
+        "street": "JC5, JALAN BMU 1, BANDAR BARU MERLIMAU UTARA, 77300 MERLIMAU MELAKA.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "13.MIXUE MMU Melaka",
+        "state": "Melaka",
+        "street": "No.8 Jalan Ixora, Pusat Komersial Ixora, Bukit Beruang, 75450 Ayer Keroh, Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "14.MIXUE MYDIN MITC",
+        "state": "Melaka",
+        "street": "Lot GP 29, Mydin Mall, Malacca International Trade Centre, 75450 Ayer Keroh, Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "15.MIXUE NSK Melaka",
+        "state": "Melaka",
+        "street": "19395-1, Jalan Ttc 26, Taman Teknologi Cheng, 75250 Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "16.MIXUE Pekan Durian Tunggal",
+        "state": "Melaka",
+        "street": "974, Jalan Durian Tunggal, Taman Tunggal, 76100 Durian Tunggal, Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "17.MIXUE Simpang Point",
+        "state": "Melaka",
+        "street": "TN207-1, Jalan Meranti, Simpang Point Fasa 2, 73000, Alor Gajah, Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "18.MIXUE Taman Cheng Baru",
+        "state": "Melaka",
+        "street": "No.3 Jalan Seri 7, Taman Cheng Baru, 75260 Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "19.MIXUE Taman Melaka Raya",
+        "state": "Melaka",
+        "street": "No.5, Jalan Merdeka, Taman Melaka Raya, 75000 Melaka.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "1.MIXUE Jalan Bukit Sekilau Kuantan",
+        "state": "Pahang",
+        "street": "B-88, Ground Floor, Jalan Bukit Sekilau, Utama, 25200 Kuantan, Pahang.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "1.MIXUE Arau-Kodiang",
+        "state": "Perlis",
+        "street": "33, Jalan Dua Kompleks Arau, Jalan Arau-Kodiang, 02600 Narau, Perlis.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "2.MIXUE Kangar Perlis",
+        "state": "Perlis",
+        "street": "No 27, Shop Lot Ground Floor, Jalan Bukit Lagi, Pusat Bandar Kangar, 01000 Kangar, Perlis.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "3.MIXUE Kompleks Perniagaan Kuala Perlis",
+        "state": "Perlis",
+        "street": "No.19, Tingkat Bawah, Jalan 2, Kompleks Perniagaan Kuala Perlis, 02000 Kuala Perlis, Perlis.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "1.MIXUE Bandar Enstek",
+        "state": "Negeri Sembilan",
+        "street": "No 16,Jalan Timur 6/1A, 71760 Bandar Enstek, Negeri Sembilan.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "2.MIXUE Centerpoint Seremban",
+        "state": "Negeri Sembilan",
+        "street": "Lot G-05A , Ground Floor, Seremban Centre Point, Jalan Dato Siamang Gagap, Centre Points, 70400 Seremban, Negeri Sembilan.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "3.MIXUE INTI International University",
+        "state": "Negeri Sembilan",
+        "street": "Persiaran Perdana BBN Putra Nilai, 71800 Nilai, Negeri Sembilan.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "4.MIXUE Lobak Commercial Seremban",
+        "state": "Negeri Sembilan",
+        "street": "No.19, Jalan PKL 2, Pusat Komersial Lobak, 70200 Seremban, Negeri Sembilan.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "5.MIXUE Lukut",
+        "state": "Negeri Sembilan",
+        "street": "25, Jalan Hartamas 1, Taman Lukut Hartamas, 71010 Port Dickson, Negeri Sembilan.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "6.MIXUE Millennia Square",
+        "state": "Negeri Sembilan",
+        "street": "No.3A-G, Jalan DM 1, Millennia Square, 70200 Seremban, Negeri Sembilan.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "7.MIXUE MYDIN Senawang",
+        "state": "Negeri Sembilan",
+        "street": "GPL-13 & GPL-14, Mydin Senawang, No.110, Jalan BPS 7, Bandar Prima Senawang, 70450 Seremban, Negeri Sembilan.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "8.MIXUE MYDIN Seremban 2",
+        "state": "Negeri Sembilan",
+        "street": "31156, Persiaran S2 B7, Seremban 2, 70300 Seremban, Negeri Sembilan.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "9.MIXUE Senawang",
+        "state": "Negeri Sembilan",
+        "street": "127-G, Taipan Senawang, Jalan 1, Taman Komersil Senawang, 70450 Seremban, Negeri Sembilan.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    },
+    {
+        "name": "10.MIXUE Uptown Avenue Seremban 2",
+        "state": "Negeri Sembilan",
+        "street": "195, Jalan S2 B14, Seksyen B, Up Town Avenue, Seremban 2, 70300 Negeri Sembilan.",
+        "opening_hours": null,
+        "country": "Malaysia",
+        "brand": "Mixue"
+    }
+]

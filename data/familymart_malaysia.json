@@ -1,0 +1,4340 @@
+[
+    {
+        "name": "Wisma Lim Foo Yong",
+        "address": "Lot G-01, Ground Floor, Wisma Lim Foo Yong, 86, Jalan Raja Chulan, 50200 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Mid Valley",
+        "address": "F-027C, Level 1, North Court, Mid Valley Megamall, Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur.",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "MyTown",
+        "address": "Lot No. B1 - 031, Basement 1, Mytown Shopping Centre, No 6, Jalan Cochrane Seksyen 90, 55100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taylor Lakeside",
+        "address": "G-6, Ground Floor, The Broadwalk. No 2, Jalan Taylor's, Subang Jaya, 47500 Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sunway Medical Centre",
+        "address": "Lot C-G-R01, Sunway Medical Centre, Tower C, 5 Jalan Lagoon Selatan, Bandar Sunway, 47500 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Menara Citibank",
+        "address": "Suite 1.06, Level 1 Menara Citibank, 165 Jalan Ampang, 50450 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Sat 7AM to 10PM, Close on Sun and Public Holiday",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Amcorp Mall",
+        "address": "G-02, Ground Floor, PJ Tower, 18 Persiaran Barat, 46050 Petaling Jaya, Selangor, Malaysia",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Intermark",
+        "address": "Lot C-06, Concourse floor, Intermark Mall, 348, Jalan Tun Razak, Kampung Datuk Keramat, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Sunway",
+        "address": "17, Jalan PJS 11/9, Bandar Sunway, 46150 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Subang Jaya Medical Centre",
+        "address": "Lot G1-03, Subang Jaya Medical Centre (North Tower Annex Block), 1 Jalan SS12/1A, 47500 Subang Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Awana Skyway",
+        "address": "Lot No. 2-3, Level 2, Awana Skyway Station, Genting Highlands Resorts, 69000 Genting Highlands, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7:00 AM – 11:00 PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bukit Tinggi, Klang",
+        "address": "8-00-1, Lorong Batu Nilam 4A, Bandar Bukit Tinggi, 41200 Klang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Summit USJ",
+        "address": "Lot G (0), The Summit USJ, 38, Perisaran Kewajipan, Usj 1, 47600 Subang Jaya",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Menara Hap Seng",
+        "address": "Lot G11, Ground Floor, Menara Hap Seng, Jalan P.Ramlee,50250, Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Ikano Power Centre",
+        "address": "Lot LG 1.11, Lower Ground floor, IPC Shopping Centre,  No. 2, Jalan PJU 7/2, Mutiara Damansara, 47800, Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sri Petaling",
+        "address": "No 75G, Jalan Radin Bagus, Bandar Sri Petaling, 57000, Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bangsar South",
+        "address": "Unit UG-3, Level UG, The Sphere, No 1, Avenue 1, Bangsar South, No 8, Jalan Kerinchi, 59200 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Danau Niaga",
+        "address": "No. 6 Plaza Usahawan Genting Klang (Plaza Crystalville), Jalan Danau Niaga, Taman Danau Kota, 53300, Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Puteri Puchong",
+        "address": "No 18, Jalan Puteri 1/2, Bandar Puteri, Puchong, 47100, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sri Hartamas",
+        "address": "28(Ground Floor), Jalan 24/70A, Desa Sri Hartamas, 50480, Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sungai Long",
+        "address": "No 16, Jalan SL 1/2, Bandar Sg Long, 43000, Kajang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "PJ Sek. 14",
+        "address": "No. 13 Jalan 14/20, Petaling Jaya, 46100 Selangor Darul Ehsan",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "C180 Belakong",
+        "address": "31-G, Jalan C180/1, Dataran C180, 43200 Cheras, Selangor Darul Ehsan",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kota Kemuning",
+        "address": "No.29-G, Jalan Anggerik Vanilla X 31/X, Kota Kemuning, Seksyen 31, 40460 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sunway Giza",
+        "address": "Lot G12, Sunway Giza Mall, No.2, Jalan PJU 5/14, PJU 5, Kota Damansara, 47810 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Oasis Ara Damansara",
+        "address": "R-13, Ara Damansara, Oasis Square, No. 2, Jalan PJU 1A/7A, Petaling Jaya, 47301 Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Eng Ann",
+        "address": "No 2, Lorong Kasawari 4B, Taman Eng Ann, Klang, 41150 Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "The Mines",
+        "address": "The Mines, L2-K6, Level 2, Jalan Dulang, Mines Resort City, Seri Kembangan, 43300 Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Desa Aman Puri",
+        "address": "1-36A, Jalan Desa 1/3, Desa Aman Puri, Kepong 52100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kuchai Lama",
+        "address": "5G, Jalan Kuchai Maju 8, Kuchai Lama, 58200, Kuala Lumpur.",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Fraser Business Park",
+        "address": "48G, Jalan Metro Pudu 2, off Jalan Yew, 55100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Glenmarie",
+        "address": "No 3, jalan Peniaga U1 / 34 , Glenmarie , Seksyen U 1 , 40150 Shah Alam",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kapar",
+        "address": "G - 270, KU/13, Jalan Besar, 42200 Kapar",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Midpoint Shopping Complex",
+        "address": "Lot R.G.02, Level G, MidPoint Shopping Complex, Jalan Pandan Indah 1/25, Pandan Indah, 55100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 3AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Menara U",
+        "address": "G-9 , Menara U, Jalan Boling Padang 13/62, Section 13, 40100 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jalan Sultan Ismail (2)",
+        "address": "No.61, Ground Floor, Jalan Sultan Ismail, 50250 Wilayah Persekutuan Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Sutera",
+        "address": "95, Sutera Tanjung 8/2, Taman Sutera Utama, 81300 Skudai, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Puchong Jaya",
+        "address": "G7, Jalan Kenari 4, Bandar Puchong Jaya, 47170 Puchong, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Sungai Buloh",
+        "address": "Lot 37011, No. PU 469, Jalan Subang Sungai Buloh, Seksyen U3, 40150 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Selayang Utama",
+        "address": "No 3, Jalan SU 10, Taman Selayang Utama, 68100 Batu Caves, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kompleks Mutiara",
+        "address": "568-G-8 & 568-G-25, Kompleks Mutiara, 3 1/2 Miles, Jalan Ipoh, 52100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Nusa Bestari",
+        "address": "14 (G), Jalan Bestari 2/2, Taman Nusa Bestari, 81200 Skudai, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex LDP Batu 14",
+        "address": "Lot 58753, Batu 14, Jalan Puchong, 47100 Puchong, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Lestari Perdana",
+        "address": "Lot 45245, Persiaran Lestari Perdana, Taman Lestari Perdana, 43300 Seri Kembangan",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Plaza Sentosa",
+        "address": "Unit 1A & Unit 25, Ground Floor, Block F, Plaza Sentosa, 80150 Johor Bahru",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Ampang Point",
+        "address": "87 (Ground Floor), Lorong Mamanda 1, Ampang Point, 68000 Ampang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sunway Monash Residences",
+        "address": "Lot L2-02-01A, Sunway Monash Residence, Persiaran Tasik Barat, Sunway South Quay, 47500 Subang Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours (Will be temporarily closed on Saturday from 10AM - 5PM for maintenance works)",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bukit Jalil Jaya",
+        "address": "22, 2, Jalan Jalil Jaya 2, Jalil Link, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "JB City Square",
+        "address": "Lot J2-18 Level 02, Johor Bahru City Square, 106-108, Jalan Wong Ah Fook, 8000 Johor Bahru, Johor.",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Mega Mendung",
+        "address": "109, Jalan Mega Mendung, Bandar Complex, 58200 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Mid Valley L3",
+        "address": "T-030A, Third Floor, Mid Valley Megamall, Lingkaran Syed Putra, 59200 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Fri 10AM to 10PM, Sat to Sun and Public Holiday 10AM to 11PM",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "I-City Mall",
+        "address": "Lot LG-39, Sentral i-City Shopping Centre, Plot 1, I-City, Persiaran Multimedia, Seksyen 7, 40000 Shah Alam",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "10AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Lebuh Turi",
+        "address": "No.112,Leboh Turi,Taman Chi Liung,41200 Klang",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Johor Jaya",
+        "address": "No 22, Jalan Dedap 4, Taman Johor Jaya, 81100 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Lake Fields",
+        "address": "63A, Jalan Tasik Utama 3, The Trillium, Lake Fields, Sungei Besi, 57000 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Metropoint Kajang",
+        "address": "Lot G2, Ground Floor, Metro Point Complex, Jalan Jelok 8, 43000 Kajang, Selangor Darul Ehsan",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jonker Street",
+        "address": "No. 127, Jalan Hang Jebat, 75200 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Molek",
+        "address": "No 45, Ground Floor, Jalan Molek 3/10, Taman Molek, 81100 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Mutiara Mas",
+        "address": "No. 2 , Jalan Mutiara 1/1, Taman Mutiara Mas, 81300 Skudai, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Indahpura",
+        "address": "189, Jalan Kenanga 29/4, Indahpura, 81000 Kulai, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Mesamall",
+        "address": "G-03a, Ground Floor, Mesamall, Persiaran Ilmu, Bandar Baru Nilai, 71800 Nilai, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bukit Dahlia",
+        "address": "No. 5, Jalan Sejambak 14, Taman Bukit Dahlia, 81700, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Rasah Prima",
+        "address": "No.12-G, Jalan Rasah Prima 1, Pusat Komersial Rasah Prima, 70300 Seremban, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman University",
+        "address": "No. 1 , Jalan Pendidikan 8, Taman Universiti, 81300 Skudai, Johor Bahru",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Mount Austin",
+        "address": "5-1A-1, Jalan Austin Heights 3, Taman Mount Austin, 81100 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Ampang Jaya",
+        "address": "No.1A-00-06, Pangsapuri Melati Merdeka Villa, Jalan Merdeka Villa, 68000 Ampang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Bestari Jaya",
+        "address": "PT 7490, Section 2, Kubang Badak, Pekan Bestari Jaya, 45000 Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Setia City Mall",
+        "address": "#LG-20A, Setia City Mall, No. 7, Persiaran Setia Dagang, Bandar Setia Alam, Seksyen U13, 40170 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Seremban Gateway",
+        "address": "Lot No 10 (A), Ground Floor, Gateway Off, Seremban - Bukit Nenas Highway, 70200 Seremban, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Centrepoint Seremban",
+        "address": "G-14, Ground Floor, Centerpoint Seremban, 33, Jalan Dato Siamang Gagap, Betaria Business Centre, 70100 Seremban, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Empire Subang",
+        "address": "LG-11, Lower Ground Level,  Empire Shopping Gallery, Jalan SS 16/1, 47500 Subang Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pantai KL Hospital",
+        "address": "Retail Lot 10, Ground floor, Block A, Pantai Hospital Kuala Lumpur, 8, Jalan Bukit Pantai, 59100, Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Danau Desa",
+        "address": "No. 1, Jalan 2/109F, Taman Danau Desa, 58100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Sri Damansara",
+        "address": "No. 11G, Jalan Tanjung, SD13/1, Bandar Sri Damansara, 52200 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sentosa Klang",
+        "address": "No. 6, Jalan Dato Yusuf Shabuddin 30, Taman Sentosa, 41200 Klang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Plaza Damas",
+        "address": "P-8A, Plaza Floor, No.60, Jalan Sri Hartamas 1, Taman Sri Hartamas, 50480 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "PLUS Sg Buloh",
+        "address": "Lot R5, Restoran Jejantas Sg Buloh (Arah Selatan), KM 458.3, Lebuhraya Sg Buloh-Tanjung Malim , 47000 Sg Buloh, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Berkeley Uptown",
+        "address": "Lot 75, Jalan Delima, Off Jalan Kapar, 41400 Klang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Melaka Raya",
+        "address": "258, Jalan Melaka Raya 3, Taman Melaka Raya, 75000 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Plaza Sentral",
+        "address": "Unit 3A-G Ground Floor, Block 3A, Plaza Sentral, Jalan Stesen Sentral 5, KL Sentral, 50470-Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Taman Puteri Wangsa",
+        "address": "Lot B, No.2, Jalan Beladau 31, Taman Puteri Wangsa, 81800 Ulu Tiram, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Waterfront @ Desa Park City",
+        "address": "GF-21H, Ground Floor, The Waterfront@ParkCity, No.5, Persiaran Residen, Desa Park City, 52200 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gravity Green, Bandar Seri Alam",
+        "address": "Gravity Green, Bandar Seri Alam, Masai Gravity Green @ Bandar Seri Alam, Jalan Suria, Bandar Baru Seri Alam, 81750 Masai, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "LRT Ampang Park",
+        "address": "K3- Concourse Level, LRT Ampang Park Station, Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bukit Beruang",
+        "address": "658F-G, Jalan Delima, Taman Bukit Melaka, Hang Tuah Jaya, 75450 Ayer Keroh, Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "KLSMC",
+        "address": "G-01A, Ground Floor, Wisma Perintis, 47, Jalan Dungun, Damansara Heights, 50490 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Jalan Skudai",
+        "address": "GM 679, Lot 1283, Mukim Of Pulai, Tempat Batu 8, Jalan Skudai, 81300 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Menara UOA Bangsar",
+        "address": "Unit 1-3A, 5, Jalan Bangsar Utama 1, Taman Bangsar, 59000 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 10PM daily, Close on Public Holiday",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "KSL City",
+        "address": "No LG-039, Lower Ground Floor, KSL CITY, 33, Jalan Seladang, Taman Abad, 80250 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Mahkota Parade",
+        "address": "Lot G11, Ground Floor, Mahkota Parade, No.1, Jalan Merdeka, 75000 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Setia Impian",
+        "address": "No 2, Persiaran Setia Impian Bandar Setia Alam, Section U13, 40170 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Toppen",
+        "address": "G01, TOPPEN Shopping Centre, No.33, Jalan Harmonium, Taman Desa Tebrau, 81100 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "10AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Nu Sentral (Expansion)",
+        "address": "G39 & G40, Level Ground Floor, Nu Sentral Shopping Centre, Jalan Tun Sambanthan, Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Ungku Tun Aminah",
+        "address": "No.2, Jalan Pendekar 13, Taman Ungku Tun Aminah, 81300 Skudai, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Bandar Puteri Klang",
+        "address": "No. M, Lot 133826, Lebuh Sanggul 1/KS7, Bandar Puteri, 41200 Klang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Senai Centrepoint",
+        "address": "No 32G, Jalan Terminal 5, 81400 Senai, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Porto Historia (Expansion)",
+        "address": "No. 10, Jalan KLJ 8, Taman Kota Laksamana Jaya, 75200 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Prima Avenue, Cyberjaya",
+        "address": "Prima 4, Jalan Teknokrat 5, 63000 Cyberjaya",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Batu Berendam",
+        "address": "No. 36, Jalan Mutiara Melaka 2, Taman Mutiara, 75350 Batu Berendam, Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Lagenda Melaka",
+        "address": "35, Jalan Lagenda 1, Taman 1 Lagenda  Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kebun Teh",
+        "address": "No. 20(GF), Jalan Kebun Teh 1, Pusat Perdagangan Kebun Teh, 80250 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bukit Baru",
+        "address": "19, Jalan PNBBU 1, Pusat Perniagaan Bukit Baru Utama, 75150 Bukit Baru, Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sky Avenue",
+        "address": "Lot No. T1-03 of Level G, SkyAvenue, Genting Highlands Resort, 69000 Genting Highlands, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Fri 8AM to 12AM Midnight, Sat to Sun & Public Holiday 8AM to 1AM",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sunggala Gateway",
+        "address": "No. 18-G, Block B, Jalan PDS 1, PD Sunggala Gateway, Teluk Kemang, 71050 Port Dickson, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Gaya",
+        "address": "No.102, Jalan Gaya 1, Taman Gaya, 81800 Ulu Tiram, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Puncak Bertam",
+        "address": "2A, Jalan PB 1A, Taman Puncak Bertam, 75250 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Fri 7AM to 1AM, Sat to Sun 7AM to 2AM",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "One Maxim, Sentul",
+        "address": "G-3A One Maxim, No.1 Jalan Pelangi 2, 51000 Sentul, Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Menara Ikhlas, Putrajaya",
+        "address": "Ground Floor, Retail F&B 3, Menara Ikhlas, No. 17, Persiaran Perdana, Presint 3, 62100 Putrajaya",
+        "state": "Putrajaya",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Melaka Sentral",
+        "address": "TZB14/TZB15, Zone B Terminal, Melaka Sentral, Jalan Tun Abdul Razak, Peringgit, 75300 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Malim Jaya",
+        "address": "No. 13, Jalan Rahmat 2, Taman Malim Jaya, 75250 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Seksyen 15, Bangi",
+        "address": "No.17 GF, Jalan 15/1A, Seksyen 15, 43650 Bandar Baru Bangi, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Alamanda Shopping Centre",
+        "address": "Lot G03-G04, Alamanda Shopping Centre, Jalan Alamanda, Precinct 1, 62000 Putrajaya",
+        "state": "Putrajaya",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Lebuh Spa",
+        "address": "Part of Lot 11723, Mukim Tanjung Minyak, Daerah Melaka Tengah, Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Kota Masai",
+        "address": "Jalan Jambu Utama, Taman Pasir Putih, 81700 Pasir Gudang, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sunway Velocity Medical Center",
+        "address": "L1,SunwayMedicalCentreVelocity, Lingkaran SV, Sunway Velocity, 55100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jalan Serampang, Pelangi",
+        "address": "No.21, Jalan Serampang, Taman Sri Tebrau, 80050 Johor Bahru",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Damansara Heights",
+        "address": "No. 28-G, Jalan Medan Setia 2, Plaza Damansara, Bukit Damansara, 50490 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Olive Hill Business Park",
+        "address": "50-LG, Jalan BS 1/1, Pusat Perdagangan Olive Hill, Taman Bukit Serdang, Seksyen 1, 43300 Seri Kembangan, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Teluk Pulai",
+        "address": "No. 39, Ground Floor, Jalan Teluk Pulai, 41100 Klang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Port Dickson",
+        "address": "No. 7, Ground Floor, Jalan Pusat Perniagaan Impian 1, Pusat Perniagaan Impian, 71009 Port Dickson, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Jalan Besar (Seri Kembangan)",
+        "address": "Lot 49358, Jalan Besar, 43300 Seri Kembangan, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Old Street, Batu Pahat",
+        "address": "Old Street Commercial Centre, No. 22 (Ground Floor), Jalan Rotan Utama, Taman Sri Jaya, 83000 Batu Pahat, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Setia Indah",
+        "address": "No.2, Jalan Setia 3/2, Taman Setia Indah 81100 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Taman Impian Emas",
+        "address": "Part of PTD 107072, Jalan Seri Impian 1, Taman Impian Emas, 81300 Skudai, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Rasah Kemayan",
+        "address": "PT9770, Persiaran Rasah Kemayan 1, Seremban 2, 70300 Seremban, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Rawang",
+        "address": "No. A1-G, Jalan Rawang, Pusat Perniagaan R.E.E.F 2, 48000 Rawang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jalan Pesta",
+        "address": "2 Jalan Pesta 1, Pusat Perdagangan Mega, Jalan Sakeh,84000 Muar",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Setiawangsa",
+        "address": "12914, Jalan 37/56, Taman Setiawangsa, 54200 Kuala Lumpur, Selangor",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kota Emas",
+        "address": "No. 50-G, Jalan Emas 2, Pusat Perniagaan Kota Emas, 82000 Pontian, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pusat Perniagaan Haji Manan, Kluang",
+        "address": "108, Jalan Haji Manan, Kampung Masjid Lama, 86000 Kluang, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kuala Pilah",
+        "address": "PT 3173, Taman Melang Shoplot, Jalan Melang, 72000 Kuala Pilah, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Parit Raja",
+        "address": "No 22, Jalan Universiti 1, Taman Universiti Parit Raja, Batu Pahat",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Karpal Singh Drive",
+        "address": "No.29C-01-19 & No. 29C-01-20, Maritime, Persiaran Karpal Singh, 11600 Jelutong, Penang",
+        "state": "Penang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Jalan Kapar",
+        "address": "A portion of Lot 2740, Jalan Kapar Batu 5, 42100 Klang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Setia Alam",
+        "address": "No.2, Jala Setia Utama AR U13/AR, Setia Alam, Seksyen U13, 40170 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Auto City",
+        "address": "Juru Interchange, Auto-City, No. 1824-G1 & 1823-G3, Jalan Perusahaan, 13600 Prai, Penang",
+        "state": "Penang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jalan Burma, Penang",
+        "address": "No.306-F, Jalan Burma,<br>10350 Penang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Paradigm JB",
+        "address": "Lot GF-18,19,20,21&22, Ground Floor, Paradigm Mall, Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Raja Uda",
+        "address": "Part of Lot 2219, Section 1, Jalan Raja Uda, Taman Tanjung Aman, 12300 Butterworth, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pekan Sentral, Pekan Nanas",
+        "address": "No 111, Jalan Industri 8, Taman Perindustrian Pekan Nenas, 81500 Pontian, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Farlim",
+        "address": "16E, Farlim Business Center, Lebuhraya Thean Teik, Bandar Baru Air Itam, 11500 Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Tanjung Karang",
+        "address": "No 9, PB1/1 Pusat Bandar Tanjung Karang, 45500 Tanjung Karang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Sg. Dua",
+        "address": "Caltex Sg Dua North Bound, PMT 10359, KM 132.5, Lebuhraya Utara Selatan, 13600 Permatang Pauh, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Damai Perdana",
+        "address": "No. 18, Jalan Damai Perdana 1/9a, Bandar Damai Perdana, 43200 Cheras, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Hulu Langat",
+        "address": "2, Jalan Hulu Langat Jaya 1, Taman Hulu Langat Jaya, 43200 Cheras, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Vista Valley, Semenyih",
+        "address": "No 20-G, Jalan Vista Valley 3, Semenyih Vista Valley, 43500 Semenyih, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 12AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Icon City",
+        "address": "No. 3(Ground & Mezzanine Floor), Jalan Icon City, Bukit Tengah, 14000 Bukit Mertajam, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Desa Pandan",
+        "address": "No. 4, Jalan 1/76D, Desa Pandan, 55100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Yong Peng",
+        "address": "No.2 (Tingkat Bawah), Jalan Cahaya Baru, Taman Sembrong, 83700 Yong Peng, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "D'Garden, Batu Pahat",
+        "address": "PTD 61251GF, Jalan Desa Botani 1, 83000 Batu Pahat, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Saujana Putra",
+        "address": "41-G, Jalan SP1/1, Bandar Saujana Putra, 42610 Jenjarom, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sg Besar",
+        "address": "No.2, Jalan Bunga Loceng Kuning, Sungai Besar Sentral, 45300 Sungai Besar, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Taman Perling",
+        "address": "PTD 30504, Jalan Layang, Taman Perling, 81200 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sekinchan",
+        "address": "No. 12, Jalan Indah 2/1, Taman Indah 2, 45400 Sekinchan, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Chulia Street",
+        "address": "Ground Floor, Kim Mansion Building, 332, Chulia Street, 10200 Penang",
+        "state": "Penang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Masjid Tanah",
+        "address": "SU1463, Jalan Masjid Tanah Ria Utama, Taman Masjid Tanah Ria, 78300 Masjid Tanah, Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jalan Perak",
+        "address": "338-D (Ground Floor), Jalan Perak, Taman Desa Green, 11600 Pulau Pinang",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Segar",
+        "address": "No 55, Jalan Manis 4, Taman Segar, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Setia Sentral",
+        "address": "No.1, Jalan Setia Sentral, Pusat Perniagaan Setia Sentral, 14000 Bukit Mertajam, Penang",
+        "state": "Penang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Tampin",
+        "address": "PS2, Jalan Besar, Pulau Sebang, 78000 Alor Gajah, Malacca",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gemas",
+        "address": "PT 4617 Bawah, Jalan Pekan Gemas, Pekan Gemas, 73400 Gemas, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Jalan Song Ban Kheng",
+        "address": "Lot 2551, Mukim, 10, Jalan Song Ban Kheng, 14000, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jalan Kebun",
+        "address": "No.25, Jalan Kebun Nanas 7A/KS8, 41200 Klang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sri Utama, Segamat",
+        "address": "Pusat Komersial Sri Utama, NO.5 - 7, Jalan Utama 3/2, Taman Utama, 85000 Segamat, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jasin",
+        "address": "JA 9954, Bandar Baru Jasin 3, 77200 Malacca",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bukit Sentosa, Rawang",
+        "address": "17-G, Seksyen BS1, Jalan Orkid 1F/2, Bukit Sentosa, 48300 Rawang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bukit Bakri",
+        "address": "No 3, Jalan Sinar Bakri 2, Pusat Perniagaan Sinar Bakri 84000 Muar, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Salak South",
+        "address": "A portion of Lot 166, Salak South Garden, 57100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Teluk Intan",
+        "address": "No.1B, Ground Floor, Laman Intan, Bandar Baru Teluk Intan, Jalan Changkat Jong, 36000 Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Prima Saujana, Kajang",
+        "address": "A-G-8, Jalan Prima Saujana 2, 1A, Seksyen 2, Taman Prima Saujana, 43000 Kajang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Segamat Baru",
+        "address": "A portion of No. 1-1A, Jalan Nagasari, Bandar Segamat Baru, 85000 Segamat, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bahau",
+        "address": "No. 1, Jalan Kiara 1, Pusat Perniagaan Kiara, 72100 Bahau, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Greentown, Ipoh",
+        "address": "No. 4 (Ground Floor), Persiaran Greentown 10, Greentown Business Centre, 30450 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Tangkak",
+        "address": "LC 171, Jalan Muar, Kampung Tanjong Batu 15, 84900 Tangkak, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Taman Banting Baru",
+        "address": "Lot 2352, Jalan Sultan Abdul Samad, Taman Banting Baru, 42700 Banting, Kuala Langat, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Merlimau",
+        "address": "JC 19, Jalan BMU 1, Bandar Baru Merlimau Utara,77300 Merlimau, Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bentong",
+        "address": "P11,  Jalan MG1, Pusat Perniagaan Mutiara Gemilang,28700 Bentong, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Taman Meru, Jelapang",
+        "address": "Jln Jelapang, 30020 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Solaria Square, Bayan Lepas",
+        "address": "2-G-3A, Solaria Square, Jalan Tun Dr. Awang, 11900 Bayan Lepas, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Batang Kali",
+        "address": "Part of Caltex Batang Kali, PT9610, Jalan Batang Kali, Seksyen 5 Bandar Baru Batang Kali, 44300 Batang Kali, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Manhattan Business Centre, Station 18",
+        "address": "Jalan Pengkalan Putra 1, Kampung Paya, 31650 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Taman Prima",
+        "address": "LOT 202, Susur GP Prima, Taman GP Prima, 81550 Gelang Patah, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Tanjung Labuh",
+        "address": "Lot 4459, BT 2, Jalan Tanjung Labuh, 83000 Batu Pahat, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sg Udang",
+        "address": "No 5, Jalan Kerambit 1, Bandar Baru Sungai Udang, 76300 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Fri 7AM to 1AM, Sat to Sun 7AM to 2AM",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Cameron Centrum",
+        "address": "C-G-43, Presint 1, Cameron Centrum, 39100 Brinchang, Cameron Highlands, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Tanah Rata",
+        "address": "41, Jalan Besar, Tanah Rata, 39000 Tanah Rata, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Summerton",
+        "address": "110-01-18, Persiaran Bayan Indah, 11900 Bayan Lepas, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 3AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bond Square",
+        "address": "No.19 & 19A, Jalan Niaga Simee 1, Pusat Perniagaan Simee, 31400 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Botanica CT Centre, Balik Pulau",
+        "address": "Plot 14 & 15, Botanica CT Centre, 11000 Balik Pulau, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kg Jelatang, Alor Gajah",
+        "address": "No.17, 1, Jalan Perniagaan Jelatang 1, Pusat Perniagaan Jelatang, 78000 Alor Gajah, Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Senawang",
+        "address": "No.160-G, Jalan Taman Komersial Senawang 1, Taman Komersial Senawang, 70450 Seremban, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Klebang",
+        "address": "20, Jalan Nirwana 2, Taman Nirwana, 75200 Tanjung Kling, Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Fri 7AM to 1AM, Sat to Sun 7AM to 2AM",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Taman Cahaya Masai",
+        "address": "Part of Lot 72090, Taman Cahaya Masai, 81700 Pasir Gudang, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bercham",
+        "address": "Jalan Bercham, Taman Sri Kurau, 31400 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "USM Sg Dua",
+        "address": "723 S-G, Vanda Business Park, Jalan Sungai Dua, 11700 Gelugor, Penang",
+        "state": "Penang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taiping Sentral Mall",
+        "address": "G-01 & G-02 of Taiping Sentral Mall, No. 36, Jalan Istana Larut, 34000 Taiping, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kota Tinggi",
+        "address": "No. 9, Jalan Niaga Utama, 81900 Kota Tinggi, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gunung Lang",
+        "address": "NO 109C, Jln. Kuala Kangsar, 30010 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Golden Triangle 2",
+        "address": "35-1-1 and 35-1-2, Golden Triangle 2, Jalan Dato' Ismail Hashim, 11900 Bayan Lepas, Penang",
+        "state": "Penang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "C-Mart Nibong Tebal",
+        "address": "Unit 62 & 63a, C Mart Nibong Tebal, Taman Perindustrian Nibong Tebal, 14300 Nibong Tebal, Penang",
+        "state": "Penang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 3AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Tambun",
+        "address": "PT 126050, Jalan Tambun, 31400 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Eco Majestic",
+        "address": "No. 43-1, Jalan Eco Majestic 10/1A, Eco Majestic, 43500 Semenyih, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Baru Uda",
+        "address": "No 29, Jalan Padi Ria, Bandar Baru Uda, 81200 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Batu Maung",
+        "address": "Jalan Batu Maung, Diamond Valley Industrial Park, 11960 Batu Maung, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "SOHO Ipoh",
+        "address": "Block D,G-9 Soho Ipoh, Jalan Sultan Idris Shah, 30000 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "KL Trader Square",
+        "address": "11-G (GF), Plaza KL Traders Square, Block A, Jalan Gombak, 53000 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Desaru",
+        "address": "155, Jalan Jelutong, Taman Desaru Utama, Bandar Penawar, 81930 Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Hutan Melintang",
+        "address": "Lot 6853 Simpang Empat, 36400 Hutan Melintang, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1 AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Enstek",
+        "address": "No. 26, Jalan Timur 6 / 1A, Timur@Enstek, 71760 Bandar Enstek, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Parit Buntar",
+        "address": "Unit G-6 & G-7, Kompleks Perniagaan Parit Buntar, No. 199, Jalan Taiping, 34200 Parit Buntar, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Silibin",
+        "address": "Jalan Silibin, Taman Malcop, 30100 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Raub",
+        "address": "Jalan Bukit, 27600 Raub, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kota Warisan",
+        "address": "Kota Warisan, 43900 Sepang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Wisma UOA II",
+        "address": "Unit No. 1-9D & 1-9E, Level 1, Wisma UOA II, 21, Jalan Pinang, 50450 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Sat 7AM to 10PM, Close on Sun and Public Holiday",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Sunway Iskandar",
+        "address": "as Plot F21, Jalan Medini Selatan 1, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Larkin Town Centre",
+        "address": "PTB 24504, Larkin Town Centre, Jalan Geroda 2/1, 81200 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pavilion Bukit Jalil",
+        "address": "Lot 1.47.00, Level 1, Pavilion Bukit Jalil, Pusat Bandar, 2, Persiaran Jalil Utama, Bukit Jalil, 57000 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "10AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "The Core",
+        "address": "No. 3, Jalan Teknologi 3/6B,Taman Sains Selangor,Sek 3, Kota Damansara,47810 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sg Siput",
+        "address": "No.2 & 3 ( Ground Floor ), Persiaran Persona 1 Medan Persona, 31100 Sungai Siput, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1 AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jenjarom",
+        "address": "No. 2, Jalan 2/21, Taman Seri Jaromas, 42600 Jenjarom, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Seri Botani",
+        "address": "No.2, Jalan Lapangan Siber 10, Bandar Cyber, 31350 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Eco Borealis, Batu Kawan",
+        "address": "31-G & 33-G, Jalan Borealis 3, Pusat Komersial Borealis, 14100 Bandar Cassia, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Subang Bestari",
+        "address": "1-G, Jalan Nova U5/N, Subang Bestari Sek U5, 40150 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Yayasan",
+        "address": "No 15, Jalan PKY 1, Pusat Komersial Yayasan, 85000 Segamat, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Seremban Uptown 2",
+        "address": "No. 348, Jalan S2 B8 Uptown Avenue,<br>Seremban 2, Seremban, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Melati Utama",
+        "address": "37G, Jalan Taman Melati Utama 4, Taman Melati Utama, 53100 Wilayah Persekutuan Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Southville",
+        "address": "Savanna Lifestyle Retail, Jalan BBLS 2 Bandar Baru Lembah Selatan Bandar Baru, Lembah Selatan, 43800 Dengkil, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Bentong Prima",
+        "address": "P65-G, Jalan Prima 1, Pusat Komersial Bentong Prima, 28700 Bentong, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Puncak Alam",
+        "address": "PT 42663, Jalan Persiaran Puncak Alam 6, 42300 Bandar Puncak Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pusat Perniagaan Putra Raub",
+        "address": "No. 111, Lorong Putra Raub 2, Pusat Perniagaan Putra Raub, 27600 Raub, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Tanjung Bungah",
+        "address": "533b, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jade Hills",
+        "address": "36, Jalan Dataran Jade 5, Jade Hills, 43000 Kajang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Baru Sg Buloh",
+        "address": "No. 374, Jalan 1a/3, Bandar Baru Sungai Buloh, 47000 Sungai Buloh, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bidor",
+        "address": "No. 2, (Ground Floor), PT 11166, No. 3, (Ground Floor), PT 11167, Jalan Tapah-Bidor, 35500 Bidor, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Teluk Air Tawar",
+        "address": "Jalan Teluk Air Tawar, Teluk Air Tawar, 13050 Butterworth, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Klebang Restu",
+        "address": "Laluan Klebang Restu 2, Medan Klebang Restu, 31200 Chemor, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Tanjung Bungah",
+        "address": "533b, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Tapah",
+        "address": "103, Jalan Baldwin 3, Pusat Perniagaan Baldwin, 35000 Tapah, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pinggiran Batu Caves",
+        "address": "41-G Pinggiran Batu Caves, Jalan TPI 1/5, 68100 Batu Caves, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pusat Bandar Putra Nilai",
+        "address": "Ground Floor, PT 12167, Jalan BBN 1/1F, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM - 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Jalan Pudu",
+        "address": "Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kelapa Sawit",
+        "address": "No. 9(GF), Jalan Impiana 1, Taman Impiana, Kelapa Sawit, 81030 Kulai, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Seri Iskandar",
+        "address": "No. 2 & 3 (Ground Floor), Persiaran SIBC 2, Seri Iskandar Business Centre, 32610, Seri Iskandar, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Puchong Permai",
+        "address": "Taman Puchong Perdana, 47100 Puchong, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Maju Utama",
+        "address": "32, Lorong Maju Utama 1, Pusat Perniagaan Maju Utama, 14000 Bukit Mertajam, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 12AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Dagang Avenue",
+        "address": "16, Jalan Dagang B/3a, Taman Dagang, 68000 Ampang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Hillpark Residence",
+        "address": "Bandar Teknologi Kajang, 43500 Semenyih, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Kinrara",
+        "address": "No. 53-G , Jalan BK 5A/2, Bandar Kinrara, 47180 Puchong, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Durian Tunggal",
+        "address": "DT 975, Pekan Durian Tunggal, 76100 Durian Tunggal, Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Mas Jaya",
+        "address": "No 21 (Ground Floor), Jalan Perniagaan Jaya, Pusat Perniagaan Mas Jaya, 84000 Muar, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Fri 7AM to 1AM, Sat to Sun 7AM to 2AM",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Baru Kampar",
+        "address": "No.2222 (Ground Floor), Jalan Batu Karang, Taman Bandar Baru, 31900 Kampar, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bukit Rambai",
+        "address": "No. 33, Jalan Rambai Jaya 29, Taman Rambai Jaya, 75260 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Temiang",
+        "address": "Caltex Temiang, Provisional Lot No. 3, Lot No. 40766, Persiaran Sri Pulai 2, 70400 Seremban, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Tasik Puteri",
+        "address": "No. 106G, Jalan 7A/2, Medan Puteri, Bandar Tasik Puteri, 48020 Rawang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Lumut Indah 2",
+        "address": "No. 7 (Ground Floor), Jalan Lumut Indah 2/1, Taman Lumut Indah II, 32200 Lumut, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bangi Seksyen 7",
+        "address": "No.43 Jalan 7/7C, Seksyen 7, 43650 Bandar Baru Bangi, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Alma",
+        "address": "No. 1 (Ground & Mezzanine), Persiaran Seri Impian, Pusat Perniagaan Mahkota Impian, 14000 Bukit Mertajam, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 3AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Medan Sejahtera",
+        "address": "Stesen Minyak Petron, PT 50174 (Lot Lama 44434), Jalan Sitiawan-Lumut, 32000 Sitiawan, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Ulu Yam",
+        "address": "A portion of PT 545, Kampung Batu 30, Mukim Hulu Yam, Daerah Hulu Selangor, Selangor Darul Ehsan",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Wangsa Melawati",
+        "address": "No. 33-G, Jalan Wangsa Setia 1, Taman Wangsa Melawati, 53300 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Saujana Utama",
+        "address": "88G, Jalan Bidara 6/3, Saujana Utama 3, 47000 Sungai Buloh, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kuala Sg Baru",
+        "address": "SI17, Jalan Kuala Sungai Baru Ilir Jaya Utama, Taman Sungai Baru Ilir Jaya, 78000 Alor Gajah, Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex S2 Heights",
+        "address": "PT 27159, Jalan Rimbun Indah 2, S2 Heights, 70300 Seremban, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Temerloh",
+        "address": "No. 4&6, Jalan Sudirman 1, Bandar Sri Semantan, 28000 Temerloh, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Thu 6AM to 2AM, Fri to Sun 24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Convent",
+        "address": "NO. S7 & S12, Lot 92, Jalan Istana Kuning, 05000 Alor Setar, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Tg Tokong",
+        "address": "A Portion of 5B, Mukim 18, Persiaran Tanjung Tokong, 10740 Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "TTDI Grove",
+        "address": "No. 70-1, Jalan TTDI Grove 1/1, Taman TTDI Grove, 43000 Kajang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pantai Remis",
+        "address": "16 (Ground Floor), Jln Pantai Makmur 2/1, Taman Pantai Makmur, 34900 Pantai Remis, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Jalan Kuala Ketil",
+        "address": "No.10, Jalan Cindai Jaya 1A, Taman Cindai Jaya, 08000 Sungai Petani, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Ayer Tawar",
+        "address": "No.10 (Ground floor), Jalan Seri Sentosa 1, Taman Medan Seri Sentosa, 32400 Ayer Tawar, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Batu Gajah",
+        "address": "No.11-G (Ground floor), Jalan Kemajuan, 31000 Batu Gajah, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Mentakab",
+        "address": "No.64 & 65, Jalan Temerloh, 28400 Mentakab, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Rengit",
+        "address": "No. 85 & 87, Lot 88 & 89, Jalan Besar, 83100 Rengit, Batu Pahat, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "IOI City 2",
+        "address": "Lot LG218, IOI City Tower Two Lebuh IRC, IOI Resort, 62502 Putrajaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Tandop",
+        "address": "Jalan Dato' Syed Omar, Kampung Teluk Bagan, 05050 Alor Setar, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jerantut",
+        "address": "No. 4, Tingkat Bawah Lorong SU 1/1, 98, 27000 Jerantut, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Selama",
+        "address": "A portion of Caltex Petrol Station at Lot 5863, Jalan Selama Kedah, 34100 Selama, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Lukut",
+        "address": "No. 23 (G), Jalan Hartamas 1, Taman Lukut Hartamas, 71010 Port Dickson, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Iconic Point",
+        "address": "101-G & 103-G, Jalan Iconic Point, Iconic Point, 14100 Simpang Ampat, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Dengkil Bypass",
+        "address": "PT 3353, KM48.7, Jalan Pintasan Dengkil-Putrajaya (FT29) Arah Utara, 43800 Dengkil, Selangor Darul Ehsan",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Sejati",
+        "address": "No. 3A & 5 (Ground Floor), Jalan Permatang Gedong, Taman Sejati Indah, 08000 Sungai Petani, Kedah Darul Aman",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "SS15 (2)",
+        "address": "No. 63 (Ground Floor), Jalan SS15/8A, SS15, 47500 Subang Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Tanjung Malim",
+        "address": "Lot 232, Mukim Hulu Bernam Timur, District Muallim, Perak Darul Ridzuan",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Lagenda Heights",
+        "address": "301, Jalan Legenda 1, Lagenda Heights, 08000 Sungai Petani, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex AMJ Paya Rumput",
+        "address": "No. 17, Jalan Inang 4, Taman Paya Rumput Utama, Taman Seri Paya Rumput, 76450 Malacca",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sitiawan",
+        "address": "No. 52 & 53 (Ground Floor), Lorong Bunga Ros 1, Taman Bunga Ros, 32000 Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1 AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Ampang Business Centre",
+        "address": "Lot 12A, PT111, Kompleks Perniagaan Ampang, Sultanah Bahiyah Hwy, Taman Bahagia, 05050 Alor Setar, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Temu Shop, Elmina",
+        "address": "No.71 (GF), Jalan Eserina Y U16/Y, Elmina East, 40160 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Samudra",
+        "address": "P13A-G, Prima Samudera, Jalan 11, Lorong Samudera Utara, Taman Samudra, 68100 Batu Caves, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Persiaran Mokhtar Dahari",
+        "address": "PT29780, Kg. Bukit Cherakah, Seksyen U15, Bukit Raja, 42200 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sikamat",
+        "address": "No. 9 (Ground Floor), Jalan Seri Pandan 1 Taman Seri Pandan, Kampung Sikamat Lama, 70400, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Dataran Selayang",
+        "address": "16-G, Jalan Dataran Selayang 1, Dataran Selayang, 68100 Batu Caves, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Lobak",
+        "address": "No. 13 (GF), Jalan PKL 2, Pusat Komersial Locak, 70200 Seremban, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Persiaran Mokhtar Dahari",
+        "address": "T29780, Kg. Bukit Cherakah, Seksyen U15, Bukit Raja, 42200 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Simpang Kuala",
+        "address": "No. 65 (Ground Floor), Jalan PSK 1, Pekan Simpang Kuala, 05400 Alor Setar, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Radia",
+        "address": "G-23(i), Komersial Radia, Persiaran Tebar Layar, Bukit Jelutong, 40150 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Tasik Indah, Kluang",
+        "address": "No 126, Jalan Tasik Indah 1/4, Taman Tasik Indah, 86000 Kluang, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Bandar Saujana Utama",
+        "address": "Lot PT 28807, Bandar Saujana Utama, Mukim Ijok, Daerah Kuala Selangor, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Krubong",
+        "address": "A portion of Lot PT 12724 Mukim Krubong, Melaka Tengah, 75260 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Ferringhi Walk",
+        "address": "72C-G-2 & 72C-G-3, Jalan Batu Ferringhi, 11100 Batu Ferringhi, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "KotaSas",
+        "address": "R-15, Tasek Commercial Centre, Kota Sultan Ahmad Shah, 25200 Kuantan, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kulim",
+        "address": "Plot 55 & 56 (Ground Floor), Landmark City Commercial Centre, Kulim, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Sri Serdang",
+        "address": "11, Jalan 18/33A, Taman Sri Serdang, 43300 Seri Kembangan, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Paroi",
+        "address": "406, Persiaran Rajawali, Taman Paroi Jaya, 70400 Seremban, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gambir Square",
+        "address": "Lot No. A12, Gambir Square, Bandar Baru Bukit Gambir, 84700 Tangkak, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Riverfront Kuantan",
+        "address": "Bangunan Lama MPK, Majlis, Jalan Tanah Putih, 25100 Kuantan, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Fri 6AM to 2AM, Sat to Sun 24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Serai Wangi Mall",
+        "address": "Lot 54, No. 2500， Lorong Serai Wangi 4/10, Taman Serai Wangi III & IV, 09400 Padang Serai, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "KLIA2 Domestic Departure",
+        "address": "S2-3-L11, Departure Level, Public Concourse (Landside), KLIA2, 64000 Sepang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "IM8",
+        "address": "B 138 & B 140 (Ground Floor), Lorong IM 8/33, Jalan Sungai Lembing, Bandar Indera Mahkota 8, 25200 Kuantan, Pahang Darul Makmur",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pusat Perniagaan Barry Kuala Lipis",
+        "address": "No. 3 & 4, Jalan Pusat Perniagaan Barry, Pusat Perniagaan Barry @ Kuala Lipis, 27200 Lipis, Pahang Darul Makmur",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Mayang Permai",
+        "address": "A portion of Stesen Minyak Mayang Pasir Permai, No. 23, Jalan Tengah, Bayan Baru, Mukim 12, 11950 Bayan Lepas, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Simpang Renggam",
+        "address": "13, Jalan Kijang, Taman Mohd Yassin, 86200 Simpang Renggam",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Desa Petaling",
+        "address": "39-G, Jalan 1/125D, Desa Petaling, 57100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pengerang",
+        "address": "No. 87-1, Ground Floor, Jalan Hee Seng, Sungai Rengit, 81600 Pengerang, Kota Tinggi, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Putra Heights",
+        "address": "No. 19, Jalan Putra Mahkota 7/6c, Putra Heights, 47650 Subang Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sunway Pyramid",
+        "address": "OB2.G.U2A, Oasis Boulevard, Sunway Pyramid, 3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Kuala Selangor",
+        "address": "Lot 139 Batu 2, Jalan Kuala Selangor, Klang, 45000 Kuala Selangor, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Genting Permai",
+        "address": "Part of Petron Genting Permai, Lot 21078, Jalan Permai 2, Genting Permai Avenue Bentong, 69000 Genting Highlands, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jerai Plaza",
+        "address": "Lot No. M1, 31, 32 & 33, Jerai Plaza, No. 1, Taman Jerai Maju 1, 08300 Gurun, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Kuantan ByPass By Seng Group",
+        "address": "Kampung Batu Tujuh, 25150 Kuantan, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Country Homes",
+        "address": "No. G-15, Avia Plus, Jalan Desa Utama, Bandar Country Homes, 48000 Rawang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Rembau",
+        "address": "No. 9-G (Ground Floor), Jalan RS 1, Rembau Sentral, 71309 Pekan Rembau, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jalan Beserah",
+        "address": "B-272, Ground Floor, Jalan Beserah, 25300 Kuantan, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sendayan",
+        "address": "No. 21, Ground Floor Persiaran Metro Park, Bandar Sri Sendayan, 71950, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Putra",
+        "address": "No. 39, Jalan Bunga Tanjung 9C, Taman Putra, 68000 Ampang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kuantan Perdana",
+        "address": "A-7, Ground Floor, Jalan Tun Ismail 1, 25000 Kuantan, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Bukit Raja",
+        "address": "Lot 53237 (PT 53555), Persiaran Batu Belah, Bandar Bukit Raja Stage 1, Mukim Kapar, Daerah Klang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Tas",
+        "address": "B-24, Ground & 1st Floor, Lor Pandan Damai, 2/201, Taman Tas, 25150 Kuantan, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Chepor Indah",
+        "address": "A portion of Plot 189141, Plot 228, Jalan Chepor Indah 23, Desa Chepor Indah, 31200 Chemor, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Jitra",
+        "address": "Part of Ground Floor, Bangunan Stesen Minyak Caltex, Jalan Jitra, Daerah Kubang Pasu, 06000 Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Jalan Semenyih",
+        "address": "Part of Caltex Jalan Semenyih, 39822 Jalan Semenyih, 43000 Kajang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Balok Sentral",
+        "address": "Lot Unit No. 5 &  No. 6, HSM 14457, PT 21214, Mukim Sungai Kaang, Kuantan, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Meranti Jaya",
+        "address": "Lot 108524, Jalan Meranti Jaya, Taman Meranti Jaya, 47120 Puchong, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "SS2",
+        "address": "No 10, Jalan SS 2/67, 47300 Petaling Jaya, Selangor.",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Amanjaya Walk",
+        "address": "Amanjaya, 1, Jalan Badlishah, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Seremban 2 City Park",
+        "address": "Caltex S2, Lot No. 33692, Geran 175307, Persiaran S2/1, Seremban, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "LRT Masjid Jamek",
+        "address": "K4- Concourse Level, LRT Masjid Jamek Station, Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Arau",
+        "address": "Lot G43, C-Mart, Kompleks Arau, Jalan Tiga, Arau, 02600 Arau, Perlis",
+        "state": "Perlis",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Mergong",
+        "address": "No. 181 (Ground Floor), Susuran Bandar Baru Mergong, Bandar Baru Mergong, 05150 Alor Setar, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taipan USJ",
+        "address": "No.33, Jalan USJ 10/1, UEP Subang Jaya, 47620 Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Baru Salak Tinggi",
+        "address": "No. 2G, Jalan ST 1C/4, Medan 88, Bandar Baru Salak Tinggi, Sepang, 43900 Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Alam Impian",
+        "address": "33, Jalan Panglima Hitam M35/M, Alam Impian, 40470 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Indera Sempurna",
+        "address": "Petron Indera Sempurna, Land held under HSM 2520, Lot PT 3475, Mukim Penor, Daerah Kuantan, Negeri Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Fri 6AM to 2AM, Sat to Sun & Public Holiday 24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Machang Bubok",
+        "address": "A portion of Caltex Petrol Station, Lot 847, Mukim 17, Seberang Perai Tengah, 14000 Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Damansara Damai",
+        "address": "No. N-012, Jalan PJU 10/2B, Damansara Damai, 47830 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "GATEWAY@KLIA2 Departure",
+        "address": "L3-12 & 13, Level 3, Gateway @ KLIA 2, KLIA 2, KL International Airport, Jalan KLIA 2/1, 64000, Sepang, Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "R&R Seremban SB",
+        "address": "North-South Expy, 71900 Labu, Negeri Sembilan",
+        "state": "Negeri Sembilan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Jalan Diary",
+        "address": "Jalan Seri Ampang, Taman Sri Ampang, 31350 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Desa Setapak",
+        "address": "20, Jalan 14/27B, Taman Desa Setapak, 53300 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Taman Desa Aman",
+        "address": "Part of Petron Taman Desa Aman, Lot 60016, HS(D) 69977, Taman Desa Aman, Pekan Padang Meha, 09400 Daerah Kulim, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Telok Mas",
+        "address": "No:23, Jalan Seri Emas 1, Taman Seri Telok Emas, 75460 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kajang",
+        "address": "No.26 (Ground floor), Jalan Tun Abdul Aziz, 43000 Kajang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "You City Retail, Taman Suntex",
+        "address": "Lot No. L1-09, First Floor, Youcity Retail",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "The Bayana Food Court",
+        "address": "Unit 23B-01-02, No. 23B, Medan Bayan Lepas, Taman Perindustrian Bayan Lepas Fasa 4, 11900 Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jengka",
+        "address": "G-08 G-09, Loring Tarbp 6, Tun Abdul Razak Business Park, Bandar Jengka, 26400 Maran, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kuala Nerang",
+        "address": "Plot 12 & 13, Kompleks Kuala Nerang, Jalan Kuala Nerang, Pekan Baru, 06300 Kuala Nerang, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Eco Ardence",
+        "address": "Part of Caltex Eco Ardence, PT 39738, Mukim Bukit Raja, Daerah Petaling, Negeri Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gateway@KLIA2 Arrival",
+        "address": "L2-96 & L2-97, Level 2, Gateway@KLIA2, Terminal KLIA2, KL International Airport, Jalan KLIA 2/1, 64000 KLIA Sepang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Uptown Tower 3",
+        "address": "Uptown Tower 3 No. 16G, Jalan SS 21/39, Damansara Utama, 47400 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pearl City Mall",
+        "address": "G18, Pearl City Mall, Persiaran Mutiara 4, Bandar Tasik Mutiara, 14120 Simpang Ampat, Pulau Pinang",
+        "state": "",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "R&R Rawang NB",
+        "address": "RWGNB-16, KM440.0, R&R Rawang Northbound, PLUS Highway, 48000 Rawang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Fri 7AM to 12AM Midnight, Sat to Sun and Public Holiday 7AM to 1AM",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Duyung Bestari",
+        "address": "NO 7,7-1, Jalan TDB 6, Taman Duyong Bestari, 76460 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "C-Mart Jitra",
+        "address": "No. G1, Kompleks BDI Jitra, Plot 21, Jalan Industri Darulaman 1, Kawasan Perusahaan Bandar Darulaman, 06000 Jitra, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gunung Rapat",
+        "address": "264, Jalan Dato Raja Nazrin Shah, Gunung Rapat, 31350 Ipoh, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Medan Idaman",
+        "address": "62A-G & 62A-1, Jalan Jernai 2, Medan Idaman, 53100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Shah Alam Seksyen 18",
+        "address": "27G, Jalan Pinang B, 18/B, Seksyen 18, 40000 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Damansara Jaya",
+        "address": "No. 51, Jalan SS22/19, Damansara Jaya, 47400 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pokok Sena",
+        "address": "No.2 (Ground floor), Kompleks Perniagaan Sena Sentral, Bandar Pokok Sena, 06400 Alor Setar, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Tuanku Haminah, Sg Petani",
+        "address": "No. 37 (Ground Floor), Jalan Tuanku Haminah, Jalan Kelab Cinta Sayang, 08000 Sungai Petani, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Nadi Putrajaya",
+        "address": "No. 58, Jalan Diplomatik, Presint 15, 62000 Putrajaya",
+        "state": "Putrajaya",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kangar Jaya",
+        "address": "No.8 & 10 (Ground Floor), Jalan Kangar Jaya 1, Kangar Jaya, Jalan Tuanku Syed Putra, 01000 Kangar, Perlis",
+        "state": "Perlis",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Equine Park",
+        "address": "No. 11-G, Equine Boulevard, Jalan Equine 1A, Taman Equine, 43300 Seri Kembangan, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bloomsvale Shopping Gallery",
+        "address": "G-012, Bloomsvale Shopping Gallery, Jalan Puchong, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Ecohill Taipan, Semenyih",
+        "address": "No.28,-1 (Ground Floor), Jalan Ecohill 1/5A, Seta Ecohill, 43500 Semenyih, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bakar Arang",
+        "address": "No. A186 (Tingkat Bawah), Jalan Baiduri 3, Taman Baiduri, 08000 Sungai Petani, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Paradigm Mall",
+        "address": "Lot CF-08, Concourse Floor, N0 1, Jalan SS7/26A, Kelana Jaya, 47301 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Petron Rasa",
+        "address": "A portion of Petron Rasa, Lot 6518, Batu 33 ÃÂÃÂ½, Jalan Kuala Lumpur ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Ipoh Rasa, 44200 Hulu Selangor, Selangor",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Teluk Cempedak",
+        "address": "Unit No. 1, Ground Floor, Shoplex Tree under Pantai Teluk Chempedak, 25050 Kuantan, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bangi Seksyen 9",
+        "address": "No.23, Ground Floor, Jalan Medan Pusat 2D, Seksyen 9, 43650 Bandar Baru Bangi, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Yan",
+        "address": "No. 7 (Ground Floor), Susuran Seri Bayu, Kompleks Perniagaan Seri Bayu, 06900 Yan, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Angsana Johor Bahru Mall",
+        "address": "Lot L1.14 & 15, Level 1, Angsana Johor Bahru Mall, Pusat Bandar Tampoi, Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "10AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "KIP Mall Melaka",
+        "address": "L1-A006, KIP Mall Melaka, Jalan Tun Fatimah, 75250 Bachang, Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Dataran Puchong",
+        "address": "No: A-G-12, Block A, Dataran Puchong, Jalan PU 7/1, Taman Puchong Utama, 47140 Puchong, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Sri Manja",
+        "address": "No. 33, Ground Floor, Jalan PJS 3/48, Taman Sri Manja, 46000 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Seri Putra",
+        "address": "No.12, Ground Floor, Jalan Seri Putra 1/4, Bandar Seri Putra, 43000 Bangi, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Batu Kawan",
+        "address": "A portion of Caltex Petrol station, Lot 21623 (Lot Lama Plot 3) MK13, Batu Kawan, Seberang Perai Selatan, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Simpang Pulai",
+        "address": "No.85 & 87 (Ground Floor), Jalan Pusat Perniagaan Pulai 1, Pusat Perniagaan Pulai, 31300 Kampung Kepayang, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1 AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jalan Pejabat",
+        "address": "1106, Jalan Pejabat, 20200 Kuala Terengganu, Terengganu",
+        "state": "Terengganu",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Thu 6AM to 2AM, Fri to Sun and Public Holiday 24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gleneagles KL (Lot 4 & 4A)",
+        "address": "Lots 4 & 4A (Alfresco), Block B, Gleneagles KL",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kota Masai",
+        "address": "No 7A, Jalan Ekoperniagaan 8, Taman Kota Masai, 81700 Pasir Gudang, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sunway Putra Mall",
+        "address": "Unit No 1.019B, First Floor, Sunway Putra Mall, 40, Jalan Putra, Chow Kit, 50350 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "KIP Mall Desa Coalfield",
+        "address": "LG28, KIP Mall Desa Coalfields, Jalan DC 4/5, Desa Coalfields, 47000 Sungai Buloh, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Egate",
+        "address": "1, Lebuhraya Tun Dr Lim Chong Eu, Seksyen 4 Jelutong, 11600 Georgetown, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Nusa Sentral",
+        "address": "A portion of Caltex Nusa Sentral, 11, Jalan Nusa Sentral, Taman Nusa Sentral, 79100 Iskandar Puteri, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gravitas",
+        "address": "B2-G-1, Elevate Gravitas, Jalan Baru, 13700 Bukit Mertajam, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "IOI Mall Puchong",
+        "address": "G47, Ground Floor, IOI Mall Puchong, Jalan Puchong, Bandar Puchong Jaya, 47170 Puchong, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "10AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Prominence",
+        "address": "No.57 (Ground Floor), Lorong Perda Utama 3, Taman Prominence, 14000 Bukit Mertajam, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "DPulze",
+        "address": "Lot-21B, Dpulze, Lingkaran Cyber Point Timur, Cyber12, 63000 Cyberjaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Dataran Sunway",
+        "address": "15-1, Jalan PJU 5/12, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kelang Lama Square, Kulim",
+        "address": "No. 33 (Ground Floor), Jalan Kelang Lama Square 1, Kelang Lama Square, 09000 Kelang Lama Kulim, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Cabang Tiga",
+        "address": "Unit 44 & 45, Tingkat Bawah, Pusat Komersial Cabang Tiga, 21000 Kuala Terengganu, Terengganu",
+        "state": "Terengganu",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Thu 6AM to 2AM, Fri to Sun and Public Holiday 24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Bendahara, Kuala Selangor",
+        "address": "No. G-22A (Ground Floor), Jalan Bendahara 1A, Taman Bendahara, 45000 Kuala Selangor, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Denai Alam",
+        "address": "No.15-1 Jalan Elektron J U16/J ,Seksyen U16, Denai Alam, 40160 Shah Alam",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Aeon Taman Maluri",
+        "address": "Lo G01, Ground Floor, Aeon Taman Maluri Shopping Centre, Jalan Jejaka, Taman Maluri, Cheras, 55100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kuala Kangsar",
+        "address": "No. 70-C Ground Floor, Jalan Kangsar, 33000 Kuala Kangsar, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pagoh Jaya",
+        "address": "No. 23, Ground Floor, Jalan Pagoh Jaya 1, Pusat Perniagaan Pagoh Jaya, Pagoh, 84500 Muar, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "TTDI",
+        "address": "No. 27B, Ground Floor, Jalan Tun Mohd Fuad 3, Taman Tun Dr Ismail, 60000 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Benut",
+        "address": "PTB 6309, No. 36, Jalan Mutiara 4, Pusat Perniagaan Benut, 82200 Benut, Pontian, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Taman Bahtera, Hulu Bernam",
+        "address": "A portion of Caltex Taman Bahtera Hulu Bernam, No.1, Jalan Bahtera Utama, Taman Bahtera 44110 Hulu Bernam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "M Vertica",
+        "address": "G13A, Residensi M Vertica, 555, Jalan Cheras, Taman Pertama, 56000 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bangi Avenue",
+        "address": "No. 1B, Jalan Bangi Avenue 5, Taman Bangi Avenue, 43000 Kajang Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex SIP Sepang",
+        "address": "Part of Lot 3365 Mukim Labu, Daerah Sepang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Chukai Kemaman",
+        "address": "Lot 5666 & 5667, Jalan Kubang Kurus, 24000 Chukai Kemaman, Terengganu Darul Iman",
+        "state": "Terengganu",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Thu 7AM to 2AM, Fri to Sun 24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kepong",
+        "address": "No.143, (Ground Floor), Jalan Rimbunan Raya 1, Laman Rimbunan Kepong, 52100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Muadzam Shah",
+        "address": "No. 27, Jalan PMS 3 1/1, Taman Perindustrian Muadzam Shah 3, 26700 Muadzam Shah, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "GMall, Terminal Bersepadu Gombak",
+        "address": "L2-7, Level 2 @ GMall, Terminal Bersepadu Gombak, Jalan Lingkaran Tengah 2, Gombak, 68100 Batu Caves",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "10AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "R&R Tapah SB",
+        "address": "North-South Expy, 35000 Tapah, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "Mon to Thu 6AM to 2AM, Fri to Sun 24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "TTDI Jaya",
+        "address": "No. 23, Jalan Opera F U2/F, TTDI Jaya, Seksyen U2, 40150 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "IOI City Mall",
+        "address": "LG-72, Lower Ground Floor, IOI City Tower Two, Lebuh IRC, IOI Resort City, 62502 Putrajaya, Sepang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Seksyen 9",
+        "address": "NO. 15, Tengku Ampuan Zabedah E9/E, Seksyen 9, 40100 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Sri Muda",
+        "address": "No. 2G, Jalan Makmur 25/64, Taman Sri Muda, Seksyen 25, 40400 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Tasek Gelugor",
+        "address": "No. 129 & 131 (Ground Floor), Jalan Tasek Gelugor Utama 1, Taman Tasek Gelugor Utama, 13300 Tasek Gelugor, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "KTCC",
+        "address": "G-36, G-37 & G-38, Ground Floor, KTCC Mall, Muara Selatan, 20000 Kuala Terengganu",
+        "state": "Terengganu",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "10AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Tropicana Aman",
+        "address": "43G, Jalan Aman Sinaria 2, Bandar Tropicana Aman, 42500 Telok Panglima Garang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Lotus Sungai Petani Utara",
+        "address": "Lot 19, Ground Floor, Lotus's Sg. Petani, 300, Jalan Lagenda 1, Lagenda Heights, 08000 Sungai Petani, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 11AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Setia Alam (Prima)",
+        "address": "22-1-1, Jalan Setia Prima B U13/B, Sek U13, Setia Alam, 40170 Shah Alam",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Anggun City",
+        "address": "A portion of PT 4384, Persiaran Anggun, Taman Anggun, 48000 Rawang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Maluri",
+        "address": "No.267, Jalan Mahkota, Taman Maluri, Cheras 55100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Anjung Warisan, Pekan",
+        "address": "No. 1A Tingkat Bawah, Bangunan Anjung Warisan (Tingkat Bawah), Jalan Sultan Abdullah, 26600 Pekan, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sentral Behrang",
+        "address": "No. 27-C (Ground Floor), Jalan Sentral 1, Sentral Behrang, 35950 Behrang Stesen, Perak",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bukit Tinggi 2",
+        "address": "No. 57 (Ground Floor), Lorong Batu Nilam 21B, Bandar Bukit Tinggi, 41200 Klang",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Permas Jaya",
+        "address": "No.14, Jalan Permas10/7, Bandar Baru Permas Jaya, 81750 Masai, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Banting",
+        "address": "Np. 1(G), Jalan Cemerlang 4, 42700 Banting, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pendang",
+        "address": "No. 38&39 (Ground Floor), Jalan Sukamari, Taman Sukamari, 06700 Pendang, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Shah Alam Seksyen 7",
+        "address": "No 17, Jalan Plumbum R7/R, Seksyen 7, 40000 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Adda",
+        "address": "No 89, Jalan Adda 3/1, Taman Adda, Adda Heights, 81100 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sri Permaisuri",
+        "address": "No 61, Jalan Dwitasik 1, Dataran Dwitasik, Bandar Sri Permaisuri, 56000 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pucak Jalil",
+        "address": "74G, Jalan PJU 3/2, Taman Puncak Jalil, Bandar Putra Permai, 43300 Seri Kembangan, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Precinct 14, Putrajaya",
+        "address": "Caltex Precint 14, Lot PT 9029, Presint 14, Bandar Putrajaya, Daerah Putrajaya, Wilayah Persekutuan",
+        "state": "Putrajaya",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gombak",
+        "address": "No 13G (Ground Floor), Jalan Prima SG 1, Prima Sri Gombak, 68100, Batu Caves Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Tunjong",
+        "address": "PT676, Jalan Kuala Krai, Bandar Baru Tunjong, 16100 Kota Bahru, Kelantan",
+        "state": "Kelantan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Selayang Utama",
+        "address": "No 3, Jalan SU 10, Taman Selayang Utama, 68100 Batu Caves, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Setia Tropika",
+        "address": "3, Jalan Setia tropica 1/15, Tmn Setia tropika, 81200 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "KSL Avenue",
+        "address": "No. 1, Ground Floor, KSL Avenue, No. 1, Jln Bestari 9/KS09, Bandar Bestari, 41200 Klang Bandar Diraja, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Wakaf Che Yeh",
+        "address": "PT676, Jalan Kuala Krai, Bandar Baru Tunjong, 16100 Kota Bahru, Kelantan",
+        "state": "Kelantan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6:00 AM – 2:00 AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gateway@KLIA2 Arrival (2)",
+        "address": "l2-27, 29 &30, Level 2, gateway@klia2, Arrival Hall, Terminal KLIA2, KL International Airport, Jalan KLIA 2/1, 64000 KLIA, Sepang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Ayer Keroh",
+        "address": "No. 3, Jalan Komersial TAKH 2, Taman Ayer Keroh Heights, Melak, Taman Muzaffar Shah, 75450 Malacca",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Guar Chempedak, Guar Utama",
+        "address": "No.1-G25 & 1-G26A, Ground Floor, Kompleks Perniagaan Guar Utama, Jalan Guar Utama 1, 08800 Guar Chempedak, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kuala Krai",
+        "address": "PT 5687 & PT 5688, Lebuh Raya Kuala Krai-Gua Musang, 18000 Kuala Krai, Kelantan",
+        "state": "Kelantan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Eco Botanic",
+        "address": "No 74, Jalan EkoBotanic 3/2, Taman Eko Botani, 79100 Nusajaya, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Terminal Bas, KT",
+        "address": "No. 1D, Jalan Syed Hussein, 20100 Kuala Terengganu, Terengganu",
+        "state": "Terengganu",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sura Gate, Dungun",
+        "address": "Lot 9940, Sura Gate Business Center, 23000 Dungun, Terengganu",
+        "state": "Terengganu",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Peramu, Pekan",
+        "address": "Standalone Building in front of Fresh Choice, Lot 2233, Kawasan Perindustrian Peramu, Pekan, Pahang",
+        "state": "Pahang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6:00 AM – 2:00 AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Wangsa Link, Wangsa Maju",
+        "address": "12A, Jalan Wangsa Delima 11, Wangsa Link, Wangsa Maju, 53300 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Dataran Glomac",
+        "address": "F-G-02, Jalan SS6/ 5B, Dataran Glomac, Kelana Jaya, 47301 Petaling Jaya, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Porto Historia",
+        "address": "No. 8, Jalan KLJ 8, Taman Kota Laksamana Jaya, 75200 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "24 Hours",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gelang Patah",
+        "address": "No. 27-01, Jalan Nusaria 11/1, Taman Nusantara,81550  Gelang Patah, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Mahkota Cheras",
+        "address": "No.2A, Jalan Temenggung 7/9, Seksyen 9, Bandar Mahkota Cheras, 43200, Cheras, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Mayang Mall",
+        "address": "LG-19, LG-20, LG-21, LG-21A, Lower Ground Floor, Mayang Mall, No. 1, Persiaran Mayang, 20000 Kuala Terengganu, Terengganu",
+        "state": "Terengganu",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "10AM to 10 PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bandar Menjalara",
+        "address": "No. 55 (Ground Floor), Jalan 3/62A, Bandar Menjalara, Kepong, 52100 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Aeon Taiping",
+        "address": "Lot G21 at AEON Mall Taiping",
+        "state": "Perak",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Alam Avenue",
+        "address": "Unit A-2-G, Jalan Serai Wangi F 16/F, Alam Avenue, Seksyen 16, 40200 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Marang",
+        "address": "Lot 8994-B, Bangunan Komersial Bandar Marang, Terengganu",
+        "state": "Terengganu",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gua Musang",
+        "address": "Lot 6586, Taman Wangsa Mewangi, Jalan Persiaran Raya, 18300 Gua Musang, Kelantan",
+        "state": "Kelantan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Gurney Paragon (LG)",
+        "address": "163D-LG-19, 20, 21 & P10, Lower Ground Floor, Gurney Paragon Mall, Persiaran Gurney, 10250 Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "8AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pasir Puteh",
+        "address": "PT 3063, Jalan Pasir Puteh Sentral 2/2, 16800 Pasir Puteh, Kelantan",
+        "state": "Kelantan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "The Exchange TRX 106",
+        "address": "Lot #G.02, Level Ground, Menara Exchange 106, Lingkaran TRX, 55188 Tun Razak Exchange (TRX), Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 10PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Pusat Perniagaan Oren, Bagan Ajam",
+        "address": "No. 91 (Ground Floor), Jalan Merbau, Pusat Perniagaan Oren, 13000 Butterworth, Pulau Pinang",
+        "state": "Pulau Pinang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Changlun",
+        "address": "No. 74A & 75A (Ground Floor), Jalan PKC 1, Pusat Komersial Cahngloon, 06010 Changlun, Kedah Darul Aman",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Mirai Residence",
+        "address": "Unit 1-9, Level 1, Mirai Residence Retail Shop, Kajang 2, 43000 Kajang, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 12AM Midnight daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Berek 12",
+        "address": "Ground Floor of Lot 4441, Jalan Abdul Kadir Adabi, Berek 12, 15200 Kota Bharu, Kelantan",
+        "state": "Kelantan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Kuala Ketil CC",
+        "address": "No. 102 & 103 (Ground Floor), Persiaran KKCC 2, 09100 Kuala Kedah, Kedah",
+        "state": "Kedah",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jalan Sultan Yahya Petra",
+        "address": "Ground Floor of Lot 727, 728 & 10676, Jalan Sultan Yahya Petra, 15200 Kota Bahru, Kelantan",
+        "state": "Kelantan",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Subang Perdana",
+        "address": "No. 47-G, Ground Floor, Jalan Dinar U3/G, Taman Subang Perdana, Seksyen U3, 40150 Shah Alam, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Southkey Megamall",
+        "address": "LG -020, Lower Ground Floor, The Mall Mid Valley Southkey, The Mall, Mid Valley Southkey, No. 1, Persiaran Southkey 1, Kota Southkey, 80150 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "9AM to 11PM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Jalan Air Jernih",
+        "address": "1D & 1E, Ground Floor and Mezzanine Floor, Jalan Air Jernih, 20300 Kuala Terengganu, Terengganu",
+        "state": "Terengganu",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Pulai Mutiara",
+        "address": "Unit 8, Ground Floor, Jalan Pulai Mutiara 4/9, Taman Pulai Mutiara, 81300 Johor Bahru, Johor",
+        "state": "Johor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Bertam Avenue",
+        "address": "No. 28 & 30, Jalan Dagangan 17, Pusat Bandar Bertam Perdana, 13200 Kepala Batas, Seberang Perai Utara, Pulau Pinang",
+        "state": "Penang",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Pengkalan Impian",
+        "address": "Unit 14, Ground Floor, Jalan Pengkalan Impian 2, Taman Pengkalan Impian, 75460 Melaka",
+        "state": "Melaka",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 2AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Taman Setiawangsa",
+        "address": "22-G, Jalan Setiawangsa 10, Taman Setiawangsa, 54200 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Sri Permaisuri 2",
+        "address": "No. 33 (Ground Floor), Jalan Sri Permaisuri 8, Bandar Sri Permaisuri, 56000 Kuala Lumpur",
+        "state": "Kuala Lumpur",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "7AM to 1AM daily",
+        "temp_close_date": "[]"
+    },
+    {
+        "name": "Caltex Ara Damansara",
+        "address": "Part of PT 259, Mukim Damansara, Daerah Petaling, Selangor",
+        "state": "Selangor",
+        "lat": null,
+        "lng": null,
+        "operating_hour": "6AM to 2AM daily",
+        "temp_close_date": "[]"
+    }
+]

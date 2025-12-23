@@ -1,0 +1,38 @@
+[
+  {
+    "chain": "Carl’s Jr",
+    "name": "CARL'S JR. MID VALLEY MEGAMALL",
+    "address": "T-005A, 3rd Floor, Mid Valley,\nLingkaran Syed Putra,\n59200 Kuala Lumpur.",
+    "phone": "+603 4815 5759"
+  },
+  {
+    "chain": "Carl’s Jr",
+    "name": "CARL'S JR. SUBANG PARADE",
+    "address": "F16,F17,F18, First Floor,\nSubang Parade, No.5, Jalan SS16/1,\n47500 Subang Jaya.",
+    "phone": "+603 5612 1188"
+  },
+  {
+    "chain": "Carl’s Jr",
+    "name": "CARL'S JR. AEON MALL SHAH ALAM",
+    "address": "S-13, Second Floor, AEON Mall Shah Alam,1, Jln Akuatik 13/64, 40100 Shah Alam, Selangor.",
+    "phone": "+603 5523 2337"
+  },
+  {
+    "chain": "Carl’s Jr",
+    "name": "CARL'S JR. MELAWATI MALL",
+    "address": "LG23B&LG24 Melawati Mall,\n855 Jalan Bandar Melawati.\n53100 Kuala Lumpur.",
+    "phone": "+603 4162 5760"
+  },
+  {
+    "chain": "Carl’s Jr",
+    "name": "CARL'S JR. SOUTHKEY",
+    "address": "T-053, 3rd Floor, Mid Valley Southkey,\nPersiaran Southkey 1,\n80150 Johor Bahru, Johor.",
+    "phone": "+607 338 3648"
+  },
+  {
+    "chain": "Carl’s Jr",
+    "name": "Carl's Jr. 1 Utama",
+    "address": "G-210C, Promenade, 1 Utama, No. 1, Lebuh Bandar Utama, 47800 Petaling Jaya.",
+    "phone": "+60376218528"
+  }
+]

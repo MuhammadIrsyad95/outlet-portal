@@ -1,0 +1,2842 @@
+[
+  {
+    "chain": "Subway",
+    "name": "Subway Menara UOA Bangsar",
+    "address": "Jalan Bangsar Utama 1, Unit 1-2-G, Menara UOA Bangsar, Kuala Lumpur, 59000",
+    "opening_hours": " | Monday - Friday (8:00AM - 9:00PM) | Saturday (8:00AM - 4:00PM) |  |     Find out more...",
+    "lat": 3.128099,
+    "lng": 101.678678
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway One Utama",
+    "address": "318A One Utama, Lower Ground Floor, New Wing, 1 Utama Shopping Centre, Petaling Jaya, 47800",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.151251,
+    "lng": 101.615116
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Jalan Pinang",
+    "address": "G9, Wisma UOA II, 19, Jalan Pinang, Kuala Lumpur, 50450",
+    "opening_hours": " | Monday - Saturday (8:00AM - 9:00PM)\nSunday (11:30AM - 6:30PM) |  |     Find out more...",
+    "lat": 3.152705,
+    "lng": 101.712034
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway UOA Damansara",
+    "address": "Unit 50-G-5, Ground Floor, Wisma UOA Damansara, No. 50, Jalan Dungun, Kuala Lumpur, 50490",
+    "opening_hours": " | Monday - Saturday (8:00AM - 9:00PM)\nSunday, Public Holiday (Closed)\n  |  |     Find out more...",
+    "lat": 3.151729,
+    "lng": 101.666006
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway The Mines",
+    "address": "Lot L1-93, Level 1, Mines Shopping Fair,Jln Dulang, Mines Resort City, Seri Kembangan, 43300",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.027692,
+    "lng": 101.718905
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mont Kiara",
+    "address": "E-01-16 ,Block E, Plaza Mont Kiara, 2 Jalan Kiara, Mont Kiara, Kuala Lumpur, 50480",
+    "opening_hours": " | Monday - Friday (8:00AM - 10:00PM)\nSunday & Public Holiday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.165686,
+    "lng": 101.651956
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Amcorp Mall",
+    "address": "(Canopy Area), Lot KG-05, 18 Jln Persiaran, Ground Floor, Barat, Petaling Jaya, 46050",
+    "opening_hours": " | Monday - Friday (9:00AM - 10:00PM) | Saturday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.104774,
+    "lng": 101.647341
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Avenue K",
+    "address": "Lot UC-8 & 9, Upper Concourse Level, Avenue K, No. 156, Jalan Ampang, Kuala Lumpur, 50450",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.159477,
+    "lng": 101.713515
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Center Point",
+    "address": "Lebuh Bandar Utama, Center Point, Lot G104B Gr Floor, Petaling Jaya, 47800",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.136096,
+    "lng": 101.607964
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Shell Sunway Mentari",
+    "address": "1, Jalan PJS 8/9 (Shell) Bandar Sunway, 46000 Selangor",
+    "opening_hours": " | Monday - Sunday (9:00AM - 9:00PM) |  |     Find out more...",
+    "lat": 3.079525,
+    "lng": 101.609623
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Berjaya Times Square",
+    "address": "LG-08A, Berjaya Times Square, No. 1, Jalan Imbi, Kuala Lumpur, 55100",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.142198,
+    "lng": 101.710551
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Capsquare",
+    "address": "Ground Floor, Unit 01-02, Cap Square Tower, 10 Jalan Munshi Abdullah, Kuala Lumpur, 50100",
+    "opening_hours": " | Monday - Friday (8:00AM - 10:00PM) | Saturday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.154416,
+    "lng": 101.698823
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway University Malaya",
+    "address": "Faculty of Dentistry, Level 1, Block B, University of Malaya, Kuala Lumpur, 50603",
+    "opening_hours": " | Monday - Sunday (8:00AM - 6:30PM) |  |     Find out more...",
+    "lat": 3.121723,
+    "lng": 101.653684
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Jade Hills",
+    "address": "No 40-G, Jalan Jade Hills Utama 1/2, Commerce Village, Jade Hills, 43000 Kajang, Selangor.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.994114,
+    "lng": 101.758669
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Wangsa Walk",
+    "address": "Wangsa Ave, Bandar Wangsa Maju, #9 Jalan Perdana 1, G-52, Wangsa Walk Mall, Kuala Lumpur, 53300",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.198582,
+    "lng": 101.742206
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway TTDI",
+    "address": "Lvl1, Petronas Svs Station TTDI,Lot29395 & 29396, Pinggir Zaaba, Taman Tun Dr Ismail, Kuala Lumpur, 60000",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.141958,
+    "lng": 101.625217
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Plaza Shah Alam",
+    "address": "Lot No. G 17, Ground Floor, Plaza Shah Alam, Sekysen 9, Shah Alam, 40100",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.084338,
+    "lng": 101.523317
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Taipan",
+    "address": "7A, Jalan USJ 10/1j, Taipan Business Centre, 47620 Subang Jaya, Selangor",
+    "opening_hours": " | Monday - Sunday (9:00AM - 9:00PM) |  |     Find out more...",
+    "lat": 3.047932,
+    "lng": 101.586015
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Menara Aras Jaya",
+    "address": "LG Floor, Menara Bumiputra Commerce, No 11, Jalan Raja Laut, 50350 Kuala Lumpur",
+    "opening_hours": " | Monday - Friday (8:00AM - 9:00PM)\nSaturday - Sunday (10:00AM - 7:00PM) |  |     Find out more...",
+    "lat": 3.155606,
+    "lng": 101.695688
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway The Place @ Ampang",
+    "address": "Petronas Gas Station/C-Store, Lot 36904 TT27423, Jalan Air Kolam Lama, Ampang, 68000",
+    "opening_hours": " | Monday - Sunday (8:30AM - 9:00PM) |  |     Find out more...",
+    "lat": 3.160486,
+    "lng": 101.754338
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Tesco Kepong",
+    "address": "Tesco Kepong Village Mall, Lot No. 14, 1st Floor, No. 3 Jalan 7A/62A Bandar Manjalara, Kuala Lumpur, 52200",
+    "opening_hours": " | Monday - Sunday (9:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 3.194423,
+    "lng": 101.633699
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Jalan Ipoh",
+    "address": "No. 447, Jalan Ipoh, Batu 3, Taman Million, 51200 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.178158,
+    "lng": 101.685121
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Selayang Mall",
+    "address": "Selayang Mall, GSW .5A, Ground Floor, Batu Caves, 68100",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.237131,
+    "lng": 101.643784
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Aeon Bukit Tinggi",
+    "address": "AEON Bukit Tinggi Shopping Ctr, No 1 Persiaran Batu Nilam, 1/KS6 Bandar Bukit Tinggi 2, Klang, 41050",
+    "opening_hours": " | Sunday - Thursday (10:00AM - 10:00PM) | Friday - Saturday (10:00AM - 10:30PM) |  |     Find out more...",
+    "lat": 2.99451,
+    "lng": 101.444207
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway AEON BIG Puchong",
+    "address": "AEON BIG Shopping Center, Lot No G04 Ground Floor, Lot 4029 Persiaran Selangor, Puchong Utama, 47100",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.991741,
+    "lng": 101.615601
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Seksyen 13",
+    "address": "Tadisma Business Park, Seksyen 13, 40100 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.089032,
+    "lng": 101.546357
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Axis Atrium",
+    "address": "Axis Atrium, Lot No. G-3 Ground Floor, Jalan Cempaka, Taman Cempaka Ampang, 68000",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.136505,
+    "lng": 101.747491
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Taman Prima Saujana",
+    "address": "G-2A-GB, Jalan Prima Saujana 2/D, Taman Prima Saujana, 43000 Kajang, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 3.008788,
+    "lng": 101.804503
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kota Kemuning",
+    "address": "2.27.1 (Ground), 14, Persiaran Anggerik Vanilla, Kota Kemuning Seksyen 31, Shah Alam, 40460",
+    "opening_hours": " | Monday - Sunday (8:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 3.003765,
+    "lng": 101.538959
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Cova Square",
+    "address": "G16, Cova Square Jalan Teknologi Pju5 Kota Damansara 47810 Petaling Jaya Selangor",
+    "opening_hours": " | Monday - Friday (8:30AM - 9:30PM) | Saturday - Sunday (9:00AM - 9:30PM) |   |   |  |     Find out more...",
+    "lat": 3.147444,
+    "lng": 101.575434
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Giant Bandar Kinrara - Puchong",
+    "address": "Giant Hypermkt Bandar Kinrara, Lot No:G8, Lot 449, Jalan BK 5A/1, Bandar Kinrara, Puchong, 47100",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.050157,
+    "lng": 101.646321
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway One City",
+    "address": "One City@Skypark, C-GF-01 Ground Floor, Jalan USJ 25/1, Subang Jaya, 47650",
+    "opening_hours": " | Monday - Friday (9:00AM - 8:00PM) | Saturday - Sunday (10:00AM - 8:00PM) |  |     Find out more...",
+    "lat": 3.021501,
+    "lng": 101.581089
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Eco Ardence",
+    "address": "L15-G-INT, L15-G-EXT, Ardence Lab, PT8 Persiaran Setia, 40170 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.095179,
+    "lng": 101.481037
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Southgate",
+    "address": "Pusat Komersial Southgate, No. 2, Jalan Dua, Unit E-1-6, Off Jalan Chan Sow Lin, Lvl 1, Kuala Lumpur, 55200",
+    "opening_hours": " | Monday - Sunday (8:00AM - 9:00PM) |  |     Find out more...",
+    "lat": 3.124517,
+    "lng": 101.710679
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Brem Mall",
+    "address": "G-06, Brem Mall, Jalan Kepong, Kepong, Kuala Lumpur, 52000",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.204461,
+    "lng": 101.6676
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Aeon Big Wangsamaju",
+    "address": "Aeon Big Wangsa Maju, F1-09, First Floor, Jalan 8/27A, Section 5, Wangsa Maju, 53300 Kuala Lumpur.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.196496,
+    "lng": 101.743179
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Endah Parade",
+    "address": "Endah Parade Shopping Complex, Lot G-013A, Ground Floor, Jalan 1/149E, Kuala Lumpur, 57000",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.063303,
+    "lng": 101.695198
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway NKVE",
+    "address": "Lot 15385KM 15.3, (NKVE), Petronas New Klang Expressway, Damansara Bound, Sungai Buloh, 47000",
+    "opening_hours": " | Monday - Sunday, 10:00 AM - 9:00 PM |  |     Find out more...",
+    "lat": 3.09422,
+    "lng": 101.541431
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway BBT",
+    "address": "57-0, Jalan Batu Nilam 4, Bandar Bukit tinggi, 41200 Klang, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 8:00PM) |  |     Find out more...",
+    "lat": 3.007776,
+    "lng": 101.436773
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Metro Point",
+    "address": "Metro Point Complex, Lot G03 Ground Floor, Jalan Jelok 8, Kajang, 43000",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.991637,
+    "lng": 101.793722
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Forum",
+    "address": "Sunsuria Forum@7th Avenue, Block E, No.E-15, Seksyen U13, Jalan Setia Dagang AL U13/AL, Setia Alam, 40170 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (8:30AM - 9:00PM) |  |     Find out more...",
+    "lat": 3.105348,
+    "lng": 101.467121
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mydin USJ",
+    "address": "G-42 & G-43, Ground Floor,Persiaran Subang Permai, USJ 1, 47500 Subang Jaya, Selangor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 8:00PM) |  |     Find out more...",
+    "lat": 3.057877,
+    "lng": 101.592775
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Shaftsbury Square",
+    "address": "Shaftsbury Square, P2-08&09, 2350 Persiaran Multimedia, Cyber 6, Cyberjaya, 63000",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.923232,
+    "lng": 101.660782
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway TBS",
+    "address": "Unit L4-29, 4th Floor, Terminal Bersepadu Selatan, Bandar Tasik Selatan, Kuala Lumpur, 57100",
+    "opening_hours": " | Monday - Sunday (9:00AM - 9:00PM) |  |     Find out more...",
+    "lat": 3.078001,
+    "lng": 101.710922
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Selayang 18",
+    "address": "Lot 3.06, 3rd Floor vendor letter SH-15-G,Grd Floor,Selayang, Kuala Lumpur, 68000 , Batu Caves, 68100",
+    "opening_hours": " | Monday - Friday (8:30AM - 9:00PM) | Saturday - Sunday (9:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 3.255174,
+    "lng": 101.654411
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Shell Bandar Puteri Klang",
+    "address": "Shell Gas Station/C-Store, Shell Bandar Puteri, PT80564,Lorong Pending 4/KS 07, Bandar Puteri, Klang, 41200",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.99444,
+    "lng": 101.468173
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sime Darby Parkcity",
+    "address": "Sime Darby Parkcity, CP Retail 2, No. 2 Jalan Intisari, Perdana Desa Parkcity, Kuala Lumpur, 52200",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.189334,
+    "lng": 101.638541
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway TM",
+    "address": "Lower Ground 1 (LG1), Menara TM, Jalan Pantai Baharu, 50672 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 9:00PM) |  |     Find out more...",
+    "lat": 3.116129,
+    "lng": 101.665866
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Semenyih",
+    "address": "19-G, Ground Floor, Jalan TPS 1/3, Taman Pelangi, 43500 Semenyih, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 2.931837,
+    "lng": 101.855625
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Petronas Bangi",
+    "address": "Petronas Bandar Baru Bangi, Plot A, Seksyen 15, Bandar Baru Bangi, Kajang, 43000",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.934294,
+    "lng": 101.768335
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Petronas Cyberjaya",
+    "address": "Petronas Cyberjaya, Lot PT 29771, Persiaran APEC, Cyber 3, Mukim Dengkil, Sepang, 63000",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.935971,
+    "lng": 101.661231
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway GPS",
+    "address": "Petronas Green Plus Station, Plus Hwy & Sungai Besi Hwy, Lot 896, Ground Floor, QSR 3, Mukim Kajang, Hulu Langat, 43300",
+    "opening_hours": " | Monday - Sunday (8:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 3.00588,
+    "lng": 101.725544
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sunway Lagoon",
+    "address": "Sunway Lagoon Theme Park, FB-Z-001, 3, Jalan PJS 11/11, Bandar Sunway, Petaling Jaya, 46150",
+    "opening_hours": " | Monday - Sunday (10:00AM - 6:00PM) | Tuesday (Closed) |  |     Find out more...",
+    "lat": 3.071533,
+    "lng": 101.605323
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sri Gombak",
+    "address": "No. G100, Jalan Prima SG3/2, Taman Prima, Sri Gombak, Kuala Lumpur, 68100",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.237666,
+    "lng": 101.700343
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Trillium, Lake Fields",
+    "address": "No.66, Jalan Tasik Utama 7, Medan Niaga Tasik Damai, (Trillium) Lake Field, Sg Besi, Kuala Lumpur, 57000",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.05989,
+    "lng": 101.710432
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Ikon Connaught",
+    "address": "Ikon Connaught, G-02A & Alfresco GA-02A, Ground Floor, Jalan Cerdas, Taman Connaught, Kuala Lumpur, 56100",
+    "opening_hours": " | Monday -  Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.081465,
+    "lng": 101.731419
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Atria",
+    "address": "Atria Shopping Gallery, Lot C11, Jalan SS 22/23, Damansara Jaya, Petaling Jaya, 47400",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.127096,
+    "lng": 101.616518
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway SS3",
+    "address": "Jalan SS3/39, Ground Floor, Unit 16, Bangunan PJ21, Petaling Jaya, 47300",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.090677,
+    "lng": 101.614668
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Ativo Plaza",
+    "address": "Ativo Plaza, #1 Jalan PJU 9/1, Damansara Ave, B-G-2, Block B, Bandar Sri Damansara, Kuala Lumpur, 52200",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |   |  |     Find out more...",
+    "lat": 3.196263,
+    "lng": 101.616271
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Centro Mall",
+    "address": "Centro Mall, G13, No. 8, Jalan Batu Tiga Lama, Kawasan 16, Klang, 41300",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.05287,
+    "lng": 101.462789
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sunway U",
+    "address": "No. 27 Jalan PJS 11/9, Bandar Sunway, Petaling Jaya, 46150",
+    "opening_hours": " | Monday - Sunday (9:00AM - 8:00PM) |  |     Find out more...",
+    "lat": 3.067818,
+    "lng": 101.603107
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway KLIA2 (A)",
+    "address": "Gateway@ KLIA2, L2-119, Terminal KLIA2,KL Intl Airport, Jalan KLIA 2/1, Sepang, 64000",
+    "opening_hours": " | Monday - Sunday (24/7) |  |     Find out more...",
+    "lat": 2.744089,
+    "lng": 101.685639
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kota Damansara",
+    "address": "15-1, Jalan PJU 5/6, Dataran Sunway, Kota Damansara, Petaling Jaya, 47810",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.153206,
+    "lng": 101.594907
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway OUG",
+    "address": "A1-07 Jalan 1/52, Taman OUG Parklane Off Jalan Klang Lama 58200 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.074779,
+    "lng": 101.661593
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Petronas Kesas",
+    "address": "Petronas Station, Lebuhraya Kesas Arah Barat KM34.5, Lebuhraya Kesas, 40000 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.050101,
+    "lng": 101.56337
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sri Petaling",
+    "address": "No. 53, Jalan Radin Bagus, 57000 Sri Petaling, Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.070392,
+    "lng": 101.695026
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Puncak Jalil",
+    "address": "116 Jalan PUJ 3/2,Taman Puncak Jalil, Bandar Putra Permai,Seri Kembangan, 63300",
+    "opening_hours": " | Monday - Sunday (8:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 3.020222,
+    "lng": 101.67502
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway My Town",
+    "address": "Lot B1-07 & B1-08, Level Basement 1, MyTOWN Shopping Centre, Jalan Cochrane, Seksyen 90, Kuala Lumpur, 55100",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.134863,
+    "lng": 101.722843
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Utropolis",
+    "address": "G-B2a, Utropolis Marketplace, Jalan Kontracktor U1/14, Seksyen U1, 40150 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 3.090114,
+    "lng": 101.559864
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Great Eastern Mall",
+    "address": "Great Eastern Mall, Lot 4C Lower Ground Floor, No 303 Jalan Ampang, Kuala Lumpur, 50450",
+    "opening_hours": " | Monday - Friday (8:00AM - 9:00PM) | Saturday (9:00AM - 9:00PM) | Sunday (9:30AM - 9:00PM) |  |     Find out more...",
+    "lat": 3.160073,
+    "lng": 101.736901
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway NU Sentral",
+    "address": "L4.13, Level Four, NU Sentral, No. 201 Jalan Tun Sambanthan, Kuala Lumpur, 50470",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.133075,
+    "lng": 101.687034
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sunway Putra",
+    "address": "Lot 4-60 & 4-79A, Fourth Floor, Sunway Putra Mall, No. 100, Jalan Putra, 50350 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.166426,
+    "lng": 101.692419
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sunway Pinnacle",
+    "address": "M-01, Mezzanine Floor, The Pinnacle, Persiaran Lagoon, Bandar Sunway, 46150 Petaling Jaya, Selangor",
+    "opening_hours": " | Monday - Friday (8:00AM - 8:00PM) | Saturday (9:00AM - 6:00PM) | Sunday, Closed |  |     Find out more...",
+    "lat": 3.070182,
+    "lng": 101.610049
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Melawati Mall",
+    "address": "L3-22, Third Floor, Melawati Mall, UP2-01, Melawati Mall, 355, Jalan Bandar Melawati, Pusat Bandar Melawati, 53100 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.211379,
+    "lng": 101.748677
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sunway Medical",
+    "address": "Sunway Medical Centre, Ground Floor,No. 5, Jalan Lagoon Selatan, 47500 Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 8:00PM) |  |     Find out more...",
+    "lat": 3.066085,
+    "lng": 101.608626
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Shell Melati",
+    "address": "PT 5729, Batu 6 1/2, Ulu Gombak, 68100 Gombak. Selangor",
+    "opening_hours": " | Monday - Sunday (8:30AM - 8:30PM) |  |     Find out more...",
+    "lat": 3.235291,
+    "lng": 101.723508
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Shell Karak",
+    "address": "PT 5946, Lebuhraya Karak, 68100 Gombak, Selangor",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:30PM) |  |     Find out more...",
+    "lat": 3.241128,
+    "lng": 101.716156
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bukit Jalil",
+    "address": "Level 1 Axiata Arena, KL Sport City, Bukit Jalil, 57000, Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.053815,
+    "lng": 101.693434
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Damansara Perdana",
+    "address": "D-S-G-01, Metropolitan Square, Jalan PJU 8/1, Damansara Perdana, Petaling Jaya, 47820, Selangor",
+    "opening_hours": " | Monday - Friday (8:00AM - 10:00PM)\nSaturday - Sunday (8:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 3.166098,
+    "lng": 101.607914
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Pearl Point",
+    "address": "Lot No. 1.0.69 (Ground Floor), Pearl Point Shopping Mall, Batu 5, Jalan Klang Lama, 58000 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.083153,
+    "lng": 101.669445
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Gurney Mall (UTMKL)",
+    "address": "Lot 1-03, Level 1, Residensi UTMKL, No 8 Jalan Maktab, 54000 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (9:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 3.171561,
+    "lng": 101.721805
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway KLTS",
+    "address": "45-G, Plaza KLTS, Block C, Jalan Gombak, 53000 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:30AM - 8:30PM) |  |     Find out more...",
+    "lat": 3.204075,
+    "lng": 101.70348
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Jaya One",
+    "address": "100-P2.015, Level 2, Block J, The School Jaya One, No.72A Jalan Prof Diraja Ungku Aziz, 46200 Petaling Jaya, Selangor",
+    "opening_hours": " | Monday - Sunday (10:30AM - 9:00PM) |  |     Find out more...",
+    "lat": 3.117373,
+    "lng": 101.635064
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Petronas Grand Saga 3",
+    "address": "Lot 432, Lebuhraya Grand Saga, (Kajang Bound) 43300, Kajang, Selangor",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.025706,
+    "lng": 101.771637
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway MSU",
+    "address": "Lot S0205 Management & Science University, Seksyen 13, 40100 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM – 8:00PM) | Saturday (9:00AM - 5:00PM) | Sunday (Closed) |  |     Find out more...",
+    "lat": 3.077918,
+    "lng": 101.552916
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bandar Rimbayu",
+    "address": "No 43, Jalan Flora 2/2, Bandar Rimbayu, 42500 Telok Panglima Garang, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 2.933245,
+    "lng": 101.547994
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sungai Buloh",
+    "address": "2390, Jalan 1A-1, Bdr Baru Sg Buloh, Seksyen U20, 40610 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.21035,
+    "lng": 101.564883
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Subang Parade",
+    "address": "LGC17, Lower Ground Floor, Subang Parade Shopping Centre, Jalan Kemajuan Subang, Ss 16, 47500 Subang Jaya, Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.081489,
+    "lng": 101.585103
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Temerloh",
+    "address": "No 19, Jalan Sudirman 2,Bandar Temerloh,28000 Temerloh, Pahang",
+    "opening_hours": " | Monday - Sunday (9:30AM - 10:30PM) |  |     Find out more...",
+    "lat": 3.449613,
+    "lng": 102.415563
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Setia City Mall",
+    "address": "LG-078, Lower Ground Floor, Setia City Mall, Bandar Setia Alam, 40170 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.109469,
+    "lng": 101.460218
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway KL East Mall",
+    "address": "LG 37 , Lower Ground Floor, KL East Mall, 823 Jalan Lingkaran Tengah 2, KL Timur, 53100 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.224754,
+    "lng": 101.730533
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bandar Sri Permaisuri",
+    "address": "Lot R-G-07, Ground Floor Q Avenue, Kompleks Permaisuri Q, No.6,Jalan Sri Permaisuri, Bandar Sri Permaisuri, Cheras 56000 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.101187,
+    "lng": 101.711708
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bukit Mahkota",
+    "address": "No 12, Jalan Seri Putra 1/25, Bandar Seri Putra, 43000 Kajang, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.886468,
+    "lng": 101.791289
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mahkota Cheras",
+    "address": "32G, Jalan Temenggung 1/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.050916,
+    "lng": 101.789313
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Eco Grandeur",
+    "address": "19, Ruang Niaga Eco Grandeur, Persiaran Mokhtar Dahari,42300 Bandar Puncak Alam,Selangor Darul Ehsan.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.225739,
+    "lng": 101.456014
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway KLCC",
+    "address": "Lot F208, Second Floor, Suria KLCC, Jalan Ampang, Golden, 50088 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.159186,
+    "lng": 101.712392
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Banting",
+    "address": "No 7G Ground Floor, Jalan Cemerlang 1A, Pusat Perdagangan Banting, 42700 Banting, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.812757,
+    "lng": 101.508583
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bentong",
+    "address": "P10-G, Jalan MG1, Pusat Perniagaan Mutiara Gemilang, 28700 Bentong, Malaysia",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.538956,
+    "lng": 101.901818
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kuala Selangor",
+    "address": "No G-2 (Ground Floor), Jalan Bendahara 1A, Taman Bendahara, 45000 Kuala Selangor, Selangor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.322146,
+    "lng": 101.266424
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sri Serdang",
+    "address": "No 11 Jalan 18/34 Taman Sri Serdang, Seri Kembangan 43300 Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.008624,
+    "lng": 101.713288
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kepong",
+    "address": "91, Jalan Metro Barat Perdana 1, Taman Usahawan Kepong, 52100 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 8:30PM) |  |     Find out more...",
+    "lat": 3.214719,
+    "lng": 101.639538
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Damansara Damai",
+    "address": "G001, Seasons Square, Jalan Pju 10/3C, Damansara Damai, 47830 Petaling Jaya, Selangor",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.19596,
+    "lng": 101.59221
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Shell Salak Tinggi",
+    "address": "Lot 343, Jalan Bukit Changgang-Nilai, Bandar Baru Salak Tinggi, 43900 Sepang, Selangor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.805323,
+    "lng": 101.723729
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kidzania KL",
+    "address": "Kidzania Kuala Lumpur, Lot 11, Lower Ground Curve NX, No.18 Jalan PJU 7/5, 47810 Mutiara Damansara, Petaling Jaya Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 6:00PM) |  |     Find out more...",
+    "lat": 3.158034,
+    "lng": 101.6138
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Eco Majestic",
+    "address": "1-3A Blok 1, Jalan Eco Majestic 10/1, Eco Majestic, 43500 Semenyih Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.898997,
+    "lng": 101.833205
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway BTHO",
+    "address": "No 5A, Ground Floor, Jalan Suarasa 8/3 Bandar Tun Hussien Onn, 43200 Cheras, Selangor Darul Ehsan",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.046735,
+    "lng": 101.76065
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Thomson Hospital",
+    "address": "GF-Unit 1109-3, 11 Jalan Teknologi PJU 5, 47810 Kota Damansara, Petaling Jaya, Selangor",
+    "opening_hours": " | Monday - Friday (8:00AM – 9:30PM)\nSaturday - Sunday / Public Holiday (8:30AM – 5:30PM) |  |     Find out more...",
+    "lat": 3.149023,
+    "lng": 101.5788
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway BHP Jalan Kuching",
+    "address": "BHPetrol Jalan Kuching, Lot PT 4283 & Lot 6086 Jalan Kuching, 52100 Kuala Lumpur.",
+    "opening_hours": " | Monday - Sunday (7:30AM - 9:30PM) |  |     Find out more...",
+    "lat": 3.18844,
+    "lng": 101.670158
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Hero Puchong",
+    "address": "Lot No G-13 , Hero Puchong, Lot 1, Jalan Puteri 1/1 , 43200 Puchong, Selangor.",
+    "opening_hours": " | Monday - Sunday (9:00AM - 9:00PM) |  |     Find out more...",
+    "lat": 3.025863,
+    "lng": 101.618133
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Southville City",
+    "address": "Lot E4-G-2 Block E Savanna Boulevard Retail Jalan BBLS 2, Bandar Baru Lembah Selatan 43800 Dengkil Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.904341,
+    "lng": 101.76447
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Setia Taipan",
+    "address": "No 58-G Jalan Setia Utama As U13/As, Bandar Setia Alam, 40170 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.125382,
+    "lng": 101.46857
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Ole-ole",
+    "address": "Lot 1-3A, Ground Floor, Ole Ole Shopping Centre, No. 7, Jalan Pinang A 18/A, Seksyen 18, 40200 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.043655,
+    "lng": 101.516821
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Pavilion Bukit Jalil",
+    "address": "Lot 1.40.00, Persiaran Jalil Utama, Bukit Jalil, Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (9:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.050264,
+    "lng": 101.671016
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway @TimurBay Balok",
+    "address": "TR-10, Timur Bay @ Balok, Jalan Kuantan – Kemaman,26100 Kuantan, Pahang",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.901533,
+    "lng": 103.364574
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Country Homes",
+    "address": "9, Jalan Pusat BCH 1A, Bandar Country Homes, 48000 Rawang, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.32351,
+    "lng": 101.525893
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Hentian Kajang",
+    "address": "5G, Jalan Hentian, Pusat Hentian Kajang, Jalan Reko, 43000 Kajang Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.966968,
+    "lng": 101.790229
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Petron Ukay Perdana",
+    "address": "No. PT 5765, Jln Ukay Perdana, Ukay Perdana, 68000 Ampang, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.19712,
+    "lng": 101.775058
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bandar Enstek",
+    "address": "No 85 Jalan 6/1B, Timur @ Enstek, 71760 Bandar Enstek, Negeri Sembilan.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.748408,
+    "lng": 101.764729
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Dengkil",
+    "address": "No 23 (Aras Bawah), Jalan Deluxe 3, Pusat Perdagangan Deluxe, 43800 Dengkil, Selangor, Malaysia",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.863618,
+    "lng": 101.676015
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Lotus Cheras",
+    "address": "Lot G27-G29, No.2, Jalan Midah 2, Taman Midah, 56000 Cheras, Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (9:30AM - 9:30PM) |  |     Find out more...",
+    "lat": 3.099541,
+    "lng": 101.734766
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Equine Park",
+    "address": "7-G, Jalan Putra Permai 1A, Taman Equine, 43300 Seri Kembangan, Selangor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.996182,
+    "lng": 101.669745
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Syopz",
+    "address": "G-5, The Boardwalk, No.2, Jalan Taylor’s, 47500 Subang Jaya, Selangor Darul Ehsan",
+    "opening_hours": " | Monday - Saturday (8:00AM – 8:00PM) | Sunday, Closed |  |     Find out more...",
+    "lat": 3.064467,
+    "lng": 101.616106
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Lotuss Rawang",
+    "address": "G18, Lotus’s Rawang, No 1 Jalan Rawang 48000 Rawang Selangor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.302715,
+    "lng": 101.59828
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Matahari Mall",
+    "address": "Lot S15 & S16 , Ground Floor, Matahari Mall, No. 1, PJS 2/18, Taman Maju Jaya, 46000 Petaling Jaya,Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 9:00PM) |  |     Find out more...",
+    "lat": 3.080121,
+    "lng": 101.638012
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway SPARK",
+    "address": "1-01 Plaza Salak Park, No 2, Jalan 1/125E, Taman Desa Petaling, 57100 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.082778,
+    "lng": 101.702471
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sunway Pyramid",
+    "address": "LG2.32, Lower Ground Two, Sunway Pyramid, 3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.072606,
+    "lng": 101.607723
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Caltex Serdang",
+    "address": "No.2, Lot.14985, Jalan SR 8/1, Taman Putra Indah, 43300, Seri Kembangan, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.047098,
+    "lng": 101.704403
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Subang Bestari",
+    "address": "No 4, Jalan Nova N U5/N, Seksyen U5, 40150 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.178129,
+    "lng": 101.547335
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Denai Alam",
+    "address": "Unit Ground Floor, No 7, Jalan Electron E U16/E, Seksyen U16, 40160 Shah Alam,Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.161212,
+    "lng": 101.511881
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Aeon Taman Maluri",
+    "address": "Lot G32,AEON Mall Taman Maluri, Jalan Jejaka, Taman Maluri Cheras 55100, Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.125925,
+    "lng": 101.728399
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Batang Kali",
+    "address": "60-1, Jalan Ara 2, Pusat Perdagangan Ara Seksyen 5, Bandar Utama Batang Kali, 44300 Batang Kali, Selangor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.455017,
+    "lng": 101.662391
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Subang Perdana",
+    "address": "No. 17-G, Jalan Dinar D U3/D, Seksyen U3, 40150 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.148819,
+    "lng": 101.545546
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway KL Gateway",
+    "address": "G1.K5, Lower Ground 1, KL Gateway Mall, 2, Jalan Kerinchi, 59200 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.114111,
+    "lng": 101.66327
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Lotuss Selayang",
+    "address": "Lot F-18 & 18 (External) No. 1081, Jalan Ipoh Mukim Batu 51200 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.222777,
+    "lng": 101.670945
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Batu Berendam",
+    "address": "No. 7, Jalan Mutiara Melaka 4 Taman Mutiara Melaka 75350 Melaka.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.240147,
+    "lng": 102.259756
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Hartamas SC",
+    "address": "Lot G-22A & G-22B . Hartamas Shopping Center, 60, Jalan Sri Hartamas 1, Taman Sri Hartamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.163504,
+    "lng": 101.656995
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Paradigm Mall",
+    "address": "LG-33A(P), LG Floor No. 1, Jalan SS7/26A Kelana Jaya 47301 Petaling Jaya Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.105084,
+    "lng": 101.596048
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Damen",
+    "address": "LG38, Lower Ground Floor Damen USJ 1 Jalan Persiaran Kewajipan USJ 1 47600 Subang Jaya",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.058525,
+    "lng": 101.59267
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Main Place",
+    "address": "LG33, Main Place Mall USJ, Jalan USJ 21/10, Persiaran Kewajipan, 47630 Subang Jaya, Selangor.  ",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.02632,
+    "lng": 101.581147
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway KLIA2",
+    "address": "S1-1A- A19, Sector 1, Gate J, KLIA 2, 64000 KLIA, Sepang Selangor",
+    "opening_hours": " | Monday - Sunday (6:00AM - 9:00PM) |  |     Find out more...",
+    "lat": 2.734453,
+    "lng": 101.72228
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sungai Rengit",
+    "address": "89(Ground floor), Jalan Hee Seng, Sungai Rengit, 81620 Pengerang, Johor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.350794,
+    "lng": 104.223669
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Intermark Mall",
+    "address": "The Intermark, Intermark Mall, 348, Jalan Tun Razak, 50400 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.161545,
+    "lng": 101.719918
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bandar Saujana Putra",
+    "address": "No. 11, Jalan SP 1/1, Bandar Saujana Putra, 42610 Jenjarom, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.951905,
+    "lng": 101.576533
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Dataran Pahlawan Melaka Megamall",
+    "address": "G-001, Dataran Pahlawan Melaka Megamall, Jalan Merdeka Bandar Hilir 75000, Melaka",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.189751,
+    "lng": 102.252619
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mahkota Parade",
+    "address": "No.1, Jalan Merdeka, Lot KG5E Ground Floor, Melaka",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.188287,
+    "lng": 102.249271
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mydin MITC",
+    "address": "Mydin Hypermarket. 12 Mydin Mall MITC, G-01, Melaka, ME, Malaysia 75450",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.270642,
+    "lng": 102.291999
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Palm Mall",
+    "address": "Lot 39 UG Floor, Palm Mall, Jalan Sungai Ujong, Seremban, 70200 Malaysia",
+    "opening_hours": " | Monday - Sunday (10:00AM - 8:00PM) |  |     Find out more...",
+    "lat": 2.719856,
+    "lng": 101.9229
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mydin Senawang",
+    "address": "Lot G-01, No. 110 Jalan BPS 7, Mydin Mall Senawang, 70450 Seremban, Negeri Sembilan, Malaysia",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.701351,
+    "lng": 101.980048
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Melaka Sentral",
+    "address": "KM12, Zone C, Bangunan Terminal Melaka Sentral, Jalan Tun Abdul Razak, 75300 Peringgit, Melaka, Malaysia",
+    "opening_hours": " | Monday - Sunday (9:30AM - 7:00PM) |  |     Find out more...",
+    "lat": 2.221155,
+    "lng": 102.250083
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Aeon Seremban",
+    "address": "Lot G61, Aeon Seremban 2, 112 Persiaran S2 B1, Seremban 2, 70300 Seremban, Negeri Sembilan, Malaysia",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.701384,
+    "lng": 101.911948
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mesamall",
+    "address": "Lot G-25, MesaMall, Lot 13865, Persiaran Ilmu BBN, Bandar Baru Nilai, 71800 Nilai, Negeri Sembilan, Malaysia",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.825131,
+    "lng": 101.777424
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Giant Kuala Pilah",
+    "address": "G03 & PS23, Giant Superstore Kuala Pilah, Kampung Kayu Ara, 72000 Kuala Pilah, Negeri Sembilan, Malaysia",
+    "opening_hours": " | Monday - Sunday (10:00AM - 7:00PM) |  |     Find out more...",
+    "lat": 2.737869,
+    "lng": 102.217957
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sendayan",
+    "address": "196 Pusat Dagangan Sendayan 3/1, Pusat Dagangan Sendayan, 71950 Seremban, Negeri Sembilan",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.680391,
+    "lng": 101.867793
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Lotus Cheng",
+    "address": "Lot G7, Lotus Melaka Cheng, 1, Jalan Inang 3, Taman Paya Rumput Utama, 75460 Melaka",
+    "opening_hours": " | Monday - Sunday (10:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 2.281134,
+    "lng": 102.216112
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Presint 15",
+    "address": "No.32, Jalan Diplomatik 3/1, Presint 15, 62050 Putrajaya",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.944474,
+    "lng": 101.721963
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway The Shore",
+    "address": "Lot GF-25, The Shore Shopping Gallery, 193, Pinggiran @Sungai Melaka, Jalan Persisiran Bunga Raya, 75100 Melaka",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.201859,
+    "lng": 102.250301
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway OBR Ayer Keroh",
+    "address": "Lot No. S-01-SB, Overhead Bridge Restaurant Ayer Keroh, KM210, North South Expressway, 76470 Ayer keroh, Melaka",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.151982,
+    "lng": 102.693131
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mydin Jasin",
+    "address": "Lot No. GSRU-24, GSRU-31, Mydin Jasin, PT 8537, Seksyen 1, Bandar jasin Bestari, Mukim Ayer panas, 77200 Jasin, Melaka.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 2.277683,
+    "lng": 102.38765
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway AEON Ayer Keroh",
+    "address": "Lot G18 & G19, Ground floor, AEON Melaka Shopping Center, Lebuh Ayer keroh, 75450 Melaka.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.23423,
+    "lng": 102.282382
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Ayer@8",
+    "address": "No.A2-G3, Ground floor, Ayer@8, Phase 8C1, Jalan P8G, Precint 8, 62250 WP Putrajaya.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.925637,
+    "lng": 101.680029
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Waterfront PD",
+    "address": "No.9 (Ground floor), Jalan waterfront 5, PD waterfront, 71000 Port Dickson, Negeri Sembilan",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.521904,
+    "lng": 101.802709
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mydin Sebang",
+    "address": "GF & B-25, Mydin Pulau Sebang, PT20 & 2053, Jalan Besar, Alor Gajah, 7800 Melaka.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.462518,
+    "lng": 102.230506
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Jelebu",
+    "address": "189-1,Jalan Dato Menteri 71600 Kuala Kelawang, Jelebu Negeri Sembilan",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.940653,
+    "lng": 102.071944
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Caltex Temiang",
+    "address": "Lot No. 40766, Bandar Seremban, Daerah Seremban, Negeri Sembilan",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.726386,
+    "lng": 101.936951
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway E-Gate Penang",
+    "address": "No:1, Lebuh Tunku Kudin 2 Lot:1-01-04, E-Gate, Gelugor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:30PM) |  |     Find out more...",
+    "lat": 5.375986,
+    "lng": 100.315323
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Autocity Penang",
+    "address": "1834-G2, Jalan Perusahaan Auto City North-South Highway",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:30PM) |  |     Find out more...",
+    "lat": 5.337297,
+    "lng": 100.429494
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Straits Quay",
+    "address": "Jalan Seri Tanjung Pinang 3A-1-8 & 3A-1-8A, Block A Straits Quay Retail Marina",
+    "opening_hours": " | Monday - Sunday (9:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.459188,
+    "lng": 100.31352
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Suntech Cybercity",
+    "address": "1-G-1 Suntech Penang Cybercity Lintang Mayang Pasir 3",
+    "opening_hours": " | Monday - Sunday (7:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.325683,
+    "lng": 100.28606
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sungai Dua",
+    "address": "723-R-G Jalan Sg Dua, Unit 9, Ground Floor,Vanda Business Park, Sungai Dua, 11700 Pulau Pinang",
+    "opening_hours": " | Monday - Sunday (7:30AM - 11:00PM) |  |     Find out more...",
+    "lat": 5.351981,
+    "lng": 100.299134
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kulim Avenue",
+    "address": "109 Persiaran 4, Tmn Kulim Ave Kulim Hi-Tech",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.387991,
+    "lng": 100.571469
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway I-Avenue",
+    "address": "Medan Kampung Relau 1 1-1-45 i-Avenue, Mukim 12, Bayan Baru",
+    "opening_hours": " | Monday - Sunday (7:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.332918,
+    "lng": 100.293404
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Butterworth",
+    "address": "#7227 Lot 2489 & 2490 Seksyen 2, Jalan Raja Uda Petronas Station",
+    "opening_hours": " | Monday - Sunday (7:00AM - 10:30PM) |  |     Find out more...",
+    "lat": 5.426373,
+    "lng": 100.383031
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Perak Road",
+    "address": "338B-1 Jalan Perak, Jelutong, PP 11600, Malaysia",
+    "opening_hours": " | Monday - Sunday (7:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.397825,
+    "lng": 100.314668
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Amanjaya Mall",
+    "address": "Kompleks Amanjaya, Kiosk 28, Tingkat 2, Jalan Jati 1, 08000, Sungai Petani, Kedah, 08000 Sungai Petani",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.673434,
+    "lng": 100.508465
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kampung Baru",
+    "address": "No.2 Lorong Maju Utama 1 Pusat Perniagaan Jalan Maju",
+    "opening_hours": " | Monday - Sunday (7:00AM - 10:30PM) |  |     Find out more...",
+    "lat": 5.352051,
+    "lng": 100.47146
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Tesco Bukit Mertajam",
+    "address": "TESCO Bukit Mertajam G6, 2323 Jalan Rozhan",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.31583,
+    "lng": 100.475838
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Pantai Cenang Langkawi",
+    "address": "Lot 2606 Jalan Pantai Cenang PG3 Cenang Plaza Beach Hotel",
+    "opening_hours": " | Monday - Sunday (8:30AM - 11:30PM) |  |     Find out more...",
+    "lat": 6.290615,
+    "lng": 99.727358
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Alor Setar Mall",
+    "address": "Kawasan Perusahaan Tandop Baru G-20, Ground Floor Alor Star Mall",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 6.08202,
+    "lng": 100.360966
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway C-Mart Arau",
+    "address": "Lot 38-39, Kompleks Arau Pekan Arau, Jalan Arau",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 6.428629,
+    "lng": 100.272884
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Pearl City Simpang Empat",
+    "address": "G-11, No 1720 Persiaran Mutiara 4, Pusat BandarTasek Mutiara",
+    "opening_hours": " | Monday - Sunday (8:30AM - 9:30PM) |  |     Find out more...",
+    "lat": 5.276839,
+    "lng": 100.490417
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Central Square",
+    "address": "23 Jalan Kampung Baru Lot GK-02 Central Square Shopping Center, 08000 Sungai Petani, Kedah",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.163051,
+    "lng": 101.706183
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway C-Mart Alor Setar",
+    "address": "No. S6 & S13, Lot 92, Jalan Istana Kuning, 05000, Alor Setar, Kedah, 05000 Alor Setar",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:30PM) |  |     Find out more...",
+    "lat": 6.124727,
+    "lng": 100.368299
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway BDI Jitra",
+    "address": "Kawasan Perusahaan Bandar Darulaman Plot 40, Lot 21",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 6.253698,
+    "lng": 100.429088
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Landmark Centre",
+    "address": "1 Jalan KLC Satu Unit 1K-07 Landmark Central Shopping",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.38569,
+    "lng": 100.546555
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Padang Kota Lama",
+    "address": "15, 17, Light St, Georgetown, 10200 George Town, Penang",
+    "opening_hours": " | Sunday - Thursday (7:30AM - 10:00PM) | Friday - Saturday (7:30AM - 11:00PM) |  |     Find out more...",
+    "lat": 5.420162,
+    "lng": 100.341681
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Nibong Tebal",
+    "address": "Kompleks Industri Cenderawasih Lot G75 & G76 Jalan Besar Mukim 11",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.178748,
+    "lng": 100.481445
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Jetty Point",
+    "address": "Shop Lot Zone 2N-Lot 7,Jetty Point Duty Free Complex, Jetty Kuah,70000 Kedah",
+    "opening_hours": " | Monday - Sunday (8:00AM - 8:30PM) |  |     Find out more...",
+    "lat": 6.306447,
+    "lng": 99.851812
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway City Junction",
+    "address": "No. 2-1-5 Lot C, City Junction,Persiaran Lengkuas 2",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.449807,
+    "lng": 100.304966
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Setia Sentral",
+    "address": "11A, Lorong Setia Sentral 1, Pusat Perniagaan Setia Sentral, Bukit Mertajam",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:30PM) |  |     Find out more...",
+    "lat": 5.355626,
+    "lng": 100.417626
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Hutton Lane",
+    "address": "227, Jalan Hutton, 10050 George Town, Pulau Pinang",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.422105,
+    "lng": 100.326087
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway G Walk",
+    "address": "No G-8A, Ground Floor, Gurney Walk, 18, Gurney Dr, 10250 George Town, PG",
+    "opening_hours": " | Monday - Sunday (7:30AM - 11:00PM) |  |     Find out more...",
+    "lat": 5.430396,
+    "lng": 100.319314
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bertam Perdana",
+    "address": "11, Jalan Dagangan 9 Pusat bandar Bertam Perdana, Kepala Batas, 13200, Penang",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.517876,
+    "lng": 100.450793
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Eco Borealis",
+    "address": "23-G Jalan Borealis 3, Pusat Komersial Borealis 14100 Bandar Cassia Penang",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.235775,
+    "lng": 100.443824
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Summersky Square",
+    "address": "No 1-1-25 Summersky Square, Jalan Tiram 8, 11900 Bayan Lepas, Penang",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.299543,
+    "lng": 100.26721
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Lam Wah Ee",
+    "address": "Subway Food Court Lam Hwa Ee Hospital 141, Jalan Tan Sri Teh Ewe Lim Jelutong, 11600 George Town, Pulau Pinang",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.39152,
+    "lng": 100.303956
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Caltex Sungai Dua",
+    "address": "Subway Caltex Sg Dua Sungai Dua North Bound, PMT 10359, KM 132.5, Lebuhraya Utara Selatan Permatang Pauh, 13600 Pulau Pinang",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.424405,
+    "lng": 100.414021
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Serai Wangi",
+    "address": "Lot 3, N0 2500, Lorong Serai Wangi 4/10, Taman Serai Wangi III &IV, Padang Serai, Kedah 09400",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.523597,
+    "lng": 100.544609
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Greentown Ipoh",
+    "address": "No. 5 Persiaran Greentown 4 Greentown Business Centre 30450 Ipoh, Perak, Malaysia",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.598512,
+    "lng": 101.092992
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Ipoh Parade",
+    "address": "1st Floor, Ipoh Parade, Lot F24 & F35C, 105, Jalan Sultan Abdul Jalil, 30450 Ipoh, Perak",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.596175,
+    "lng": 101.090191
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mydin Meru",
+    "address": "Subway Mydin Mall Meru G-04 Mydin Wholesale Hypermarket Meru Raya, Lot PT 229142, Jalan Meru Bestari B2, Bandar Meru Raya, 30020 Jelapang, Ipoh, Perak",
+    "opening_hours": " | Monday - Sunday (10:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 4.670851,
+    "lng": 101.075181
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Medan Ipoh",
+    "address": "75, Jalan Medan Ipoh 1A,Medan Ipoh Bestari, 31400, Ipoh, Perak",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.619899,
+    "lng": 101.116717
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Seri Iskandar",
+    "address": "No.26 Jalan PP1,Bandar Universiti, Sri Iskandar, 31750, Tronoh, Perak",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.364381,
+    "lng": 100.977375
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kampar",
+    "address": "2243, Jalan Batu Sinar, Taman Bandar Baru, Kampar, Perak",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.326192,
+    "lng": 101.145258
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kubang Kerian",
+    "address": "1617, Bandar Baru Kubang Kerian, Kota Bahru, Kelantan",
+    "opening_hours": " | Monday - Sunday (7:30AM - 11:00PM) |  |     Find out more...",
+    "lat": 6.099312,
+    "lng": 102.279646
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kota Bharu",
+    "address": "Lot 211, Tingkat Bawah, Jalan Ismail, Kota Bahru, 15000, Kelantan",
+    "opening_hours": " | Monday - Sunday (7:30AM - 11:00PM) |  |     Find out more...",
+    "lat": 6.128948,
+    "lng": 102.238194
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Taiping Sentral",
+    "address": "G-17, Ground Floor, Taiping Sentral Mall. 36, Jln Istana Larut, Taiping, Perak",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.865819,
+    "lng": 100.731208
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Seri Manjung",
+    "address": "No.9 Ground Floor, Jalan PPMP 3/1, Pusat Perniagaan Manjung Point 3, 32040 Seri Manjung, Perak.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:30PM) |  |     Find out more...",
+    "lat": 4.215572,
+    "lng": 100.667505
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Tanah Merah",
+    "address": "Lot 3239, Jalan Jedok, 17500 Tanah Merah, Kelantan",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.81186,
+    "lng": 102.131137
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Gong Badak",
+    "address": "PT 35310, Dataran Tembesu,Wakaf Tembesu, 21300 Kuala Nerus, Terengganu.",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:30PM) |  |     Find out more...",
+    "lat": 5.356132,
+    "lng": 103.096031
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Paya Bunga Square",
+    "address": "G-K11 , Paya Bunga Square, Jalan Masjid Abidin, 20200,   K.Terengganu, Terengganu, MY",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.331021,
+    "lng": 103.136644
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Tanjung Malim",
+    "address": "No 19, Jalan Cahaya, Taman Anggerik Desa, Tanjung Malim, 35900, Perak",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:30PM) |  |     Find out more...",
+    "lat": 3.690488,
+    "lng": 101.522399
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Jerteh",
+    "address": "Lot 176 Jalan Tuan Hitam, 22000, Jerteh, Terengganu",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:30PM) |  |     Find out more...",
+    "lat": 5.736547,
+    "lng": 102.493726
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kemaman",
+    "address": "PT 21078, Tingkat Bawah, Jalan Kedidi Kiri, Taman Cukai Utama, 24000 Kemaman, Terengganu",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.222398,
+    "lng": 103.421448
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Dungun Town",
+    "address": "PT 18073, Tingkat Bawah, Pusat Perniagaan Sura Gate, 23000, Dungun, Terengganu.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.756545,
+    "lng": 103.41873
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway BHP Tunjung",
+    "address": "PT 1670, Lebuh Raya Tunjung-Pasir Mas, 16010 Kota Bharu, Kelantan",
+    "opening_hours": " | Monday - Sunday (8:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 6.060378,
+    "lng": 102.228682
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Ipoh South Gate",
+    "address": "No. 21 (Ground Floor) Jalan Pulai Hartamas Medan Pulai Hartamas 31300 Ipoh Perak",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.549662,
+    "lng": 101.117336
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Johor Bahru City Square",
+    "address": "J3-19,Johor Bahru City Square ,106-108,Jalan Wong Ah Fook,80000,JB",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.461799,
+    "lng": 103.76396
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Lotus's Tebrau",
+    "address": "G-45,No.1 Persiaran Desa Tebrau ,81100,JB,Johor",
+    "opening_hours": " | Monday - Sunday (9:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.549935,
+    "lng": 103.795658
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mall of Medini",
+    "address": "G32, Mall of Medini ,No 4, Lebuh Medini Utara,79200 Iskandar Puteri, Johor",
+    "opening_hours": " | Monday - Sunday (9:00AM - 9:00PM) |  |     Find out more...",
+    "lat": 1.426769,
+    "lng": 103.633781
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Petronas Nusa Perintis",
+    "address": "Lot PTD 77638, Taman Nusa Perintis, Gelang Patah, 81550, Johor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.451255,
+    "lng": 103.59586
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Shell Muar",
+    "address": "Union Service Station (Shell Station )No.29, Jalan Bakri, 84000, Muar, Johor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 2.048881,
+    "lng": 102.570753
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Petronas Second Link Southbound",
+    "address": "Petronas Station Gelang Patah (Selatan) KM 4.6 Kawasan Rehat & Rawat Tapak B Laluan Kedua (Arah Selatan) JB/Singapura, 81550, Johor Bahru, Johor",
+    "opening_hours": " | Monday - Sunday (7:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 1.38638,
+    "lng": 103.593169
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Galleria Kotaraya",
+    "address": "LG 33, Galleria@Kotaraya, Jalan Trus, 80000 Johor Bahru.",
+    "opening_hours": " | Monday - Sunday (8:30AM - 9:00PM) |  |     Find out more...",
+    "lat": 1.459494,
+    "lng": 103.76306
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Anjung Neighbourhood Centre",
+    "address": "Lot 11, Anjung Neighbourhood Centre, 5, Persiaran Ledang Heights, 79250 Iskandar Puteri, Johor.",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.424643,
+    "lng": 103.616775
+  },
+  {
+    "chain": "Subway",
+    "name": "Caltex Taman Pelangi indah",
+    "address": "Caltex Lot-88070, Persiaran Pelangi Indah, Tmn Pelangi Indah, 81800, Ulu Tiram, Johor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 1.569918,
+    "lng": 103.800487
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Larkin Sentral",
+    "address": "Lot No. 5B-04(B), Ground Floor, Larkin Sentral Bus Terminal Building No.5,Jalan Garuda, 80350 Johor Bahru, Johor, Malaysia",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.495668,
+    "lng": 103.741777
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Aeon Mall Kulaijaya",
+    "address": "C12 Food Avenue Aeon Mall Kulaijaya 81000 Kulai",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.640585,
+    "lng": 103.617096
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Paradigm Mall JB",
+    "address": "GF36 & GF37 Paradgim Mall JB Jalan Sudai 81200 JB",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.515725,
+    "lng": 103.685646
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bandar Seri Alam",
+    "address": "No. 12, Jalan Suria, Bandar Seri Alam, 81750 Masai, Johor Bahru",
+    "opening_hours": " | Monday - Sunday (8:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 1.495905,
+    "lng": 103.871291
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Caltex Taman Daya",
+    "address": "Lot 110500, Caltex Station, Jln Nipah 2, Tmn Daya, 81100, JB",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.544111,
+    "lng": 103.762347
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway BHP Taman Perling",
+    "address": "BHP Perling, Lot 588, Jln Persiaran Perling, Tmn Perling, 81200,JB",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.499539,
+    "lng": 103.682181
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Aeon Bukit Indah",
+    "address": "F12, AEON Bukit Indah SC, Jalan Indah 15/2, Taman Bukit Indah, 81200, Johor Bahru, Johor.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.481752,
+    "lng": 103.655763
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Giant Hypermarket Plentong",
+    "address": "Lot No. R125, Giant Hypermall Plentong, No.3 Jalan Masai Lama, Mukim Plentong, 81750 Masai, Plentong, Johor.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 9:00PM) |  |     Find out more...",
+    "lat": 1.528057,
+    "lng": 103.814659
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Taman Bukit Dahlia",
+    "address": "No. 14, Jalan Serangkai 18, Taman Bukit Dahlia, 81700 Pasir Gudang",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.478372,
+    "lng": 103.894322
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Plaza Angsana",
+    "address": "No.L1.16, Level 1 Plaza Angsana, Pusat Bandar Tampoi, Jalan Skudai, 81200 Johor Bahru, Johor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.494927,
+    "lng": 103.705748
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Senai International Airport",
+    "address": "Lot E9, AeroMall, Senai International Airport, 81250 Johor Bahru, Johor, Malaysia.",
+    "opening_hours": " | Monday - Sunday (8:30AM - 9:00PM) |  |     Find out more...",
+    "lat": 1.635896,
+    "lng": 103.665889
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Plaza Pelangi",
+    "address": "Lot No.101A, Level 1, Plaza Pelangi, No.2, Jalan Kuning, Taman Pelangi, 80400 Johor Bahru.",
+    "opening_hours": " | Monday - Sunday (10:30AM - 8:00PM) |  |     Find out more...",
+    "lat": 1.479993,
+    "lng": 103.765305
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Shell Mount Austin",
+    "address": "Shell Petrol Station, 8, Jalan Mutiara Emas Utama, Taman Mount Austin, 81100 Johor Bahru, Johor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.549348,
+    "lng": 103.787454
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Old Street Commercial Centre",
+    "address": "23, Jalan Rotan Utama, Taman Sri Jaya, 83000, Batu Pahat, Johor",
+    "opening_hours": " | Monday - Sunday (8:30AM - 11:00PM) |  |     Find out more...",
+    "lat": 1.86332,
+    "lng": 102.954377
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Segamat Shoplot",
+    "address": "115, Jalan Genuang, 85000, Segamat, Johor",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:30PM) |  |     Find out more...",
+    "lat": 2.502533,
+    "lng": 102.821669
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway BHP Permas Jaya",
+    "address": "Jalan Permas 10/10, Bandar Baru Permas Jaya, 81750 Masai, Johor Darul Ta'zim",
+    "opening_hours": " | Monday - Sunday (8:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 1.494719,
+    "lng": 103.81265
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway BHP Pagoh South",
+    "address": "BHPetrol R&R Pagoh Selatan, KM135 Lebuhraya Utara Selatan Arah Selatan, 84600 Muar, Johor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 2.121149,
+    "lng": 102.793571
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Ecoworld Kota Masai Shoplot",
+    "address": "No 3A, Jalan Ekoperniagaan 8, Taman Kota Masai 81700 Pasir Gudang, Johor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 1.485413,
+    "lng": 103.93673
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Petron Kluang",
+    "address": "Station Minyak Petron, Jalan 1, Taman Bersatu, 86000 Mukim Paloh, Kluang, Johor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.021031,
+    "lng": 103.309815
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway BHP Pagoh North",
+    "address": "BHPetrol, Kawasan R&R Pagoh North Bound RSA, 84600 Johor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 2.141547,
+    "lng": 102.701221
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mydin Mutiara Rini",
+    "address": "Lot G-12, Mydin Mutiara Rini, 81300, Skudai, Johor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.515083,
+    "lng": 103.635457
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bandar Penawar",
+    "address": "21, Jalan Jelutong 1, Bandar Penawar 82200 Pengerang, Johor",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.573252,
+    "lng": 104.21239
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Pontian",
+    "address": "No.12, Jalan Kota Emas 3, Pusat Perniagaan Kota Emas 82000 Pontian, Johor",
+    "opening_hours": " | Monday - Sunday (8:30AM - 10:30PM) |  |     Find out more...",
+    "lat": 1.479899,
+    "lng": 103.39897
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Parit Raja",
+    "address": "8, Jalan Universiti 2, Taman Universiti, 86400 Parit Raja, Batu Pahat, Johor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.850495,
+    "lng": 103.075217
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Petronas TAR",
+    "address": "Lot PTB 21742, Mukim Bandar Johor Bahru, Jalan Tun Razak, 80100 Johor Bahru",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.489029,
+    "lng": 103.72927
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mid Valley Southkey",
+    "address": "LG-004, Lower ground floor, The Mall MID VALLEY Southkey, Mukim Plentong 80150 Johor.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.501334,
+    "lng": 103.777419
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Plaza Merdeka",
+    "address": "Plaza Merdeka, G-11 & G9(s), Grd Floor, 88 Pearl Street, 93000 Kuching, Sarawak.",
+    "opening_hours": " | Monday - Sunday, 10:00 AM - 10:00 PM |  |     Find out more...",
+    "lat": 1.558561,
+    "lng": 110.344021
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bintang Megamall",
+    "address": "Bintang Megamall, Lot 1.43 & 1.40, First Floor, Jalan Miri-Pujut, 98000 Miri, Sarawak.",
+    "opening_hours": " | Monday - Sunday, 10:00 AM - 10:00 PM |  |     Find out more...",
+    "lat": 4.397048,
+    "lng": 113.993285
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Jalan Kulas",
+    "address": "Wisma Wan Abu Bakar, Groud Floor, Lot 110(SL7) Section 6 KLTD, Jalan Kulas, 93400 Kuching, Sarawak.",
+    "opening_hours": " | Monday - Sunday, 9:30 AM - 10:00 PM |  |     Find out more...",
+    "lat": 1.554539,
+    "lng": 110.331635
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Al-Bayt Square",
+    "address": "Al-Bayt Square (Miri 101), Lot3529, Grd Floor, Block 5, Jalan Miri-Pujut, 98001 Miri, Sarawak",
+    "opening_hours": " | Monday - Sunday, 7:30 AM - 9:00 PM |  |     Find out more...",
+    "lat": 4.413015,
+    "lng": 114.010416
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway IMAGO Shopping Mall",
+    "address": "IMAGO Shopping Mall, Lot B-16, Basement Level, KK Times Square Phase 2, Off Coastal Highway, 88100 Kota Kinabalu, Sabah.",
+    "opening_hours": " | Monday - Sunday, 10:00 AM - 10:00 PM |  |     Find out more...",
+    "lat": 5.970862,
+    "lng": 116.066354
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Suria Sabah Shopping Mall",
+    "address": "Suria Sabah Shopping Mall Lot B-11, Lower Ground Floor, 1, Jalan Tun Fuad Stephens, 88000 Kota Kinabalu, Sabah.",
+    "opening_hours": " | Monday - Sunday, 10:00 AM - 10:00 PM |  |     Find out more...",
+    "lat": 5.988772,
+    "lng": 116.078046
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway ITCC Penampang Shopping Mall",
+    "address": "ITCC Penampang Shopping Mall, Lot No. G-18, Ground Floor, Jalan Pintas Penampang, 89500 Kota Kinabalu, Sabah, Malaysia.",
+    "opening_hours": " | Monday - Sunday, 7:00 AM - 11:00 PM |  |     Find out more...",
+    "lat": 5.910259,
+    "lng": 116.091394
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Emart Batu Kawa",
+    "address": "Unit No. 108, Emart One Stop Shopping Mall, Lot 6369, Block 225, KNLD, Jalan Batu Kawa, 93250 Kuching, Sarawak.",
+    "opening_hours": " | Monday - Sunday, 7:00 AM - 11:00 PM |  |     Find out more...",
+    "lat": 1.507024,
+    "lng": 110.29926
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway EMart Bintulu Commercial Centre",
+    "address": "EMart Bintulu Commercial Centre, Ground Floor, Sublot 8632, Jalan Rakawi Yusuf, Tanjung Batu, 97000 Bintulu, Sarawak.",
+    "opening_hours": " | Monday - Sunday, 7:00 AM - 10:00 PM |  |     Find out more...",
+    "lat": 3.191092,
+    "lng": 113.046586
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway One Arena",
+    "address": "One Arena, Pusat Komersil BDC, 8-A8-GF, Jalan Datuk Chong Thien Vun, 91000 Tawau, Sabah.",
+    "opening_hours": " | Sunday - Thursday, 7:00 AM – 9:00PM | Friday & Saturday, 7:00 AM – 10:00PM |  |     Find out more...",
+    "lat": 4.258803,
+    "lng": 117.918825
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Lido Square",
+    "address": "Lot 6&7, Ground Floor Lido Square Mile 3, Penampang Road, Taman Che Mei, 88300 Kota Kinabalu, Sabah",
+    "opening_hours": " | Monday - Sunday, 7:00 AM - 10:00 PM |  |     Find out more...",
+    "lat": 5.943925,
+    "lng": 116.081376
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway TT3 Plaza",
+    "address": "TT3 Plaza Grd Floor, Lot 3537, Sublot 36, Tabuan Tranquility, Off Jalan Canna, 93350 Kuching.",
+    "opening_hours": " | Monday - Sunday, 7:00 AM - 9:00 PM |  |     Find out more...",
+    "lat": 1.513067,
+    "lng": 110.393288
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Jln Tun Jugah",
+    "address": "No.63, Grd Floor, Lot 10208, 801-2B Jalan Tun Jugah, Kampung Tabuan Dayak, 93350 Kuching, Sarawak.",
+    "opening_hours": " | Monday - Sunday, 7:00 AM - 11:00 PM |  |     Find out more...",
+    "lat": 1.527486,
+    "lng": 110.35733
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Permy Mall",
+    "address": "Permy Mall, Lot114, Grd Floor, Jalan Datuk Sri Joseph Balan Seling, Bandar Baru Permy, 98000 Miri, Sarawak, Malaysia.",
+    "opening_hours": " | Monday - Sunday, 9:00 AM - 10:00 PM |  |     Find out more...",
+    "lat": 4.450033,
+    "lng": 114.038751
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Jesselton Square",
+    "address": "Jesselton Square, Lot 1, No.5 Jalan Gaya, Off Lorong Satu/ Jalan Haji Saman, 88000 Kota Kinabalu, Sabah.",
+    "opening_hours": " | Monday - Sunday, 7:00 AM - 12:00 AM |  |     Find out more...",
+    "lat": 5.990394,
+    "lng": 116.079463
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Hann's Residence",
+    "address": "Hann's Residence, Lot R40 & R42, Retail Arcade, Jalan Wong King Huo, 96000 Sibu, Sarawak.",
+    "opening_hours": " | Monday - Sunday, 10:00 AM - 10:00 PM |  |     Find out more...",
+    "lat": 2.286028,
+    "lng": 111.84753
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Plaza CKS Tuaran",
+    "address": "Plaza CKS Tuaran, Lot 52, Grd Floor, Block G, Kampung Tutoh, 89150 Tuaran, Sabah.",
+    "opening_hours": " | Monday - Sunday, 7:00 AM - 11:00 PM |  |     Find out more...",
+    "lat": 6.188856,
+    "lng": 116.227933
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kuching International Airport",
+    "address": "Kuching International Airport, Lot L3L10, Level 3, Departure Level, Jalan Lapangan Terbang, 93722 Kuching, Sarawak, Malaysia.",
+    "opening_hours": "    Find out more...",
+    "lat": 1.486173,
+    "lng": 110.350244
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Centre Point Sabah",
+    "address": "Lot No. S1, Basement, Centre Point Sabah, No. 1, Jln Centre Point, 88000 Kota Kinabalu, Sabah",
+    "opening_hours": " | Monday - Sunday, 8:00 AM - 9:00 PM |  |     Find out more...",
+    "lat": 5.978147,
+    "lng": 116.071864
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Servay Jaya Semporna",
+    "address": "Shop18, Servay Jaya Semporna, Lot 9-17, Jalan Bubul, Batu 2, 91308 Semporna, Sabah",
+    "opening_hours": " | Monday - Sunday, 7:00 AM - 9:30 PM |  |     Find out more...",
+    "lat": 4.461874,
+    "lng": 118.588457
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway The Grand SS15",
+    "address": "G7, The Grand Subang Jaya, Jalan SS 15/8a, Ss 15, 47500 Subang Jaya, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 2:00AM) |  |     Find out more...",
+    "lat": 3.074415,
+    "lng": 101.590297
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway BHP Ayer Keroh",
+    "address": "BHP Ayer Keroh, Jalan Tun Abdul Razak, Taman Ayer Keroh Heights, 75450 Melaka",
+    "opening_hours": " | Monday - Sunday (8:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 2.252449,
+    "lng": 102.291324
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Caltex BSU",
+    "address": "PT 28807, Jalan Persiaran E1/1, Seri Pristana, 47000 Sungai Buloh, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.205961,
+    "lng": 101.471908
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Radia Bukit Jelutong",
+    "address": "G0-23, Radia Sales Gallery, Persiaran Arked, Bukit Jelutong, 40150 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.101122,
+    "lng": 101.535394
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mersing",
+    "address": "No. 345H (GF), Jalan Ismail, 86800 Mersing, Johor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.430028,
+    "lng": 103.840984
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway KSL Esplanade",
+    "address": "G006, Ground Floor, KSL Esplanade Mall, 42500 Klang, Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.958405,
+    "lng": 101.467045
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sierra 16 Puchong",
+    "address": "Lot 3A-1, Sierra Fresco, Jln Sierra 10/1, Bandar 16 Sierra, 47110 Puchong, Selangor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.974426,
+    "lng": 101.655052
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mydin RTC Gopeng",
+    "address": "G-21 & G-22, MYDIN Wholesale Hypermarket RTC Perak, 31600 Kampung Kepayang, Perak.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.49374,
+    "lng": 101.153194
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Lotus Teluk Intan",
+    "address": "FOL 05, LOTUS TELUK INTAN, PT 5017 Rapid Mall Seri Intan, Jalan Changkat Jong, 36000 Teluk Intan, Perak",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.017,
+    "lng": 101.028
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Caltex Bukit Indah Ampang",
+    "address": "Caltex Bukit Indah, PT13887, Medan Bukit Indah, Taman Bukit Indah, 69000 Ampang, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.152855,
+    "lng": 101.774414
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway ROHAS KL",
+    "address": "No 9, Lot G-W-1, Ground Floor, West Wing, Rohas Pure Circle, Jalan P. Ramlee, 50450 Kuala Lumpur.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 6.4065,
+    "lng": 100.179757
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Shell Pulai Perdana",
+    "address": "Shell Sri Pulai Perdana 2, Lebuhraya Skudai-Pontian, Bandar Pulai Jaya, 81110 Johor Bahru, Johor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.567481,
+    "lng": 103.5957
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Taman Danau Desa",
+    "address": "",
+    "opening_hours": "Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.100857,
+    "lng": 101.687222
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Setapak Central Mall",
+    "address": "Kl Festival City, Lot S-23, No 67 Jalan Taman Ibu Kota, Taman Danau Kota, Setapak, Kuala Lumpur, 53200",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.205267,
+    "lng": 101.72002
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sultan Ibrahim Stadium",
+    "address": "Lot Zone C 01-04, Stadium Sultan Ibrahim, Jalan Gelang Patah, 79200 Iskandar Puteri, Johor Bahru",
+    "opening_hours": " | Monday - Sunday (11:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.4817,
+    "lng": 103.619228
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Golden Triangle",
+    "address": "29-1-64, Golden Triangle, Jalan Paya Terubong, 11900 Bayan Lepas, Pulau Pinang",
+    "opening_hours": " | Monday - Sunday (8:00AM - 9:00PM) |  |     Find out more...",
+    "lat": 5.333125,
+    "lng": 100.275576
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Batu 3 Gambang",
+    "address": "B 30 Jalan Kurnia Jaya 3,Batu 3, Jalan Gambang, 25150 Kuantan, Pahang Darul Makmur",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM)  |  |     Find out more...",
+    "lat": 3.782041,
+    "lng": 103.287223
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway KIP Kota Warisan",
+    "address": "G13 & 13A, Kip Mall, Kota Warisan, 43900 Sepang, Selangor, Malaysia",
+    "opening_hours": " | Monday - Sunday (9:00AM - 9:30PM) |  |     Find out more...",
+    "lat": 2.834608,
+    "lng": 101.694666
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Taman Ehsan",
+    "address": "No 520(GF) Jalan E3/8, Tmn Ehsan, 52100 Kepong, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.220409,
+    "lng": 101.622847
+  },
+  {
+    "chain": "Subway",
+    "name": "Lotus's Indera Mahkota",
+    "address": "G1, Lotus’S Indera Mahkota, Lot 144749, Lot 144746 & Lot 144045, Off Jalan Tun Razak Mukim Kuala Kuantan, Daerah Kuantan, 25200 Kuantan Pahang",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.827265,
+    "lng": 103.304433
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Taman Sri Muda",
+    "address": "No 40 (GF), Jalan Murni 25/61, Taman Sri Muda, 40400 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.032726,
+    "lng": 101.536497
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Pantai Batu Buruk",
+    "address": "Partial of Bangunan Kelab Kerajaan Pantai Batu Buruk, Jalan Pantai Batu Buruk, 20400 Kuala Terengganu, Terengganu.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM)\nFriday (8:00AM - 12:30PM, 2:30PM - 10:00PM) |  |     Find out more...",
+    "lat": 5.324181,
+    "lng": 103.154071
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kangar Jaya",
+    "address": "Lot PT2269, Kangar Jaya, Mukim Seriab, Kangar, 01000 Perlis",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:30PM) |  |     Find out more...",
+    "lat": 6.4065,
+    "lng": 100.179757
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kota Laksamana",
+    "address": "No 46(GF) Jln KLJ, Taman Kota Laksamana Jaya, 75200 Melaka.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.19893,
+    "lng": 102.230893
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway 1st Avenue",
+    "address": "LG-08 1st Avenue Mall, 182 Jalan Magazine, 10300 Penang.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.41331,
+    "lng": 100.33114
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mid Valley KL",
+    "address": "1st Floor, Zone 3, FK-071, Mid Valley Megamall, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.118753,
+    "lng": 101.677459
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Lotus Ampang",
+    "address": "LOTUS’S AMPANG - OL1, Jalan Pandan Prima Dataran, Pandan Indah, 55100 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |   |  |     Find out more...",
+    "lat": 3.143814,
+    "lng": 101.74163
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway The Artiz JB",
+    "address": "No 25(GF) Jln Setia 3/13, Tmn Setia Indah, 81100 JB",
+    "opening_hours": " | Monday - Sunday (08:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.576539,
+    "lng": 103.758845
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Setia Tropika",
+    "address": "No 18 Jln Setia Tropika 1/18, Tmn Setia Tropika, 81200 JB",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.547172,
+    "lng": 103.715609
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Razak City",
+    "address": "Block B-G-19 Residensi Bandar Razak, No 01 Jln Razak Mansion, 57100 Sungai Besi, K.L",
+    "opening_hours": " | Monday - Sunday (8:00AM to 10:00PM) |  |     Find out more...",
+    "lat": 3.108465,
+    "lng": 101.706308
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway C-Mart Changlun",
+    "address": "G 14, 15, 16, C- Mart @ Komplek Changloon, No 1, Pekan Changlun, Changloon, Taman Kempas, 06010 Changlun, Kedah",
+    "opening_hours": " | Monday to Sunday (9:00AM - 10:30PM) |  |     Find out more...",
+    "lat": 6.435389,
+    "lng": 100.43025
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Aeon Cheras Selatan",
+    "address": "F60, First Floor, ÆON Cheras Selatan, Lebuh Utama Tun Hussein Onn, Tun Hussein Onn, Cheras, Selangor",
+    "opening_hours": " | Monday to Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.033015,
+    "lng": 101.765206
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bandar Baru Jelawat",
+    "address": "PT 4359 (B) Kedai Jelawat, Bandar Baru Jelawat, 16070 Bachok, Kelantan.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM)\nFriday (8:00AM - 12:30PM, 2:30PM - 10:00PM)\n              |  |     Find out more...",
+    "lat": 6.011177,
+    "lng": 102.381749
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Lumut Indah",
+    "address": "No 21(GF) Jln Lumut Indah 2/1, Tmn Lumut Indah, 32200 Lumut, Perak.",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 4.208528,
+    "lng": 100.638146
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Cahaya Kota Puteri",
+    "address": "No 07(GF) Jln Kota 2, Taman Cahaya Kota Puteri, 81750 Masai, Johor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.49429,
+    "lng": 103.843649
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kuala Krai",
+    "address": "No 18(GF) Jln lf 1, Laman Firdaus, Bandar Baru Kuala Krai, 18000 Kuala Krai, Kelantan.",
+    "opening_hours": " | Monday to Sunday (8:00AM - 10:00PM)\nFriday (8:00AM - 12:30PM, 2:30PM - 10:00PM) |  |     Find out more...",
+    "lat": 5.494022,
+    "lng": 102.223109
+  },
+  {
+    "chain": "Subway",
+    "name": "Taman Nusa Bestari",
+    "address": "No 26(GF) Jln Jati 1, Taman Nusa Bestari, 81200 Skudai, Johor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.499214,
+    "lng": 103.655946
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kuala Berang",
+    "address": "No 292(GF) Jln Besar Kuala Berang, 21700 Kuala Berang, Hulu Terengganu, Terengganu.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM)\nFriday (8:00AM - 12:30PM, 2:30PM - 10:00PM) |  |     Find out more...",
+    "lat": 5.07283,
+    "lng": 103.01066
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sg Udang",
+    "address": "No 06(GF) Jln Kerambit 1A, Bandar Baru, 76450 Sg. Udang, Melaka.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.290353,
+    "lng": 102.138712
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Kiara Bay",
+    "address": "\"Lot G-22, The Beat Kiara Bay Kepong Metropolitan Park,Jalan Lingkaran Tengah 52100 Kuala Lumpur.\"",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.226999,
+    "lng": 101.650259
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Mahkota Square Kuantan",
+    "address": "\"G-10, Tingkat Bawah, Mahkota Square, Jalan Mahkota 25000 Kuantan, Pahang.\"",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.806067,
+    "lng": 103.327962
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Putra Ampang",
+    "address": "No 46-G, Jalan Bunga Tanjung 9B, Taman Putra, Ampang 68000, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.120457,
+    "lng": 101.762861
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sunggala Gateway",
+    "address": "PD Sunggala Gatewa3 No 4, Lot 2031, Taman Sri Rusa Jaya,71050 Port Dickson, Negeri Sembilan",
+    "opening_hours": " | Monday - Sunday (9:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.476273,
+    "lng": 101.855712
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sunway Carnival",
+    "address": "LG-31, Lower Ground Floor, Sunway Carnival Mall, 3068, Jalan Todak, Pusat Bandar Seberang Jaya, 13700 Perai, Pulau Pinang",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 5.399101,
+    "lng": 100.397841
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bangi Seksyen 7",
+    "address": "No.19-G, Jalan 7/7A, Seksyen 7, Bandar Baru Bangi, 43650 Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.969764,
+    "lng": 101.773828
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sunway City Ipoh",
+    "address": "Part of PN 232871, Lot no 303520 & HS (D) 22317, PT 274387 of Mukim Hulu Kinta, Dearah Kinta, Perak",
+    "opening_hours": " | Monday - Sunday (10:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 4.634204,
+    "lng": 101.154063
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway G-Orange Gua Musang",
+    "address": "GFC-02, Ground Floor, G-Orange Gua Musang, Lot 13200, Jalan Chengal, Bandar Utama, 18300 Gua Musang, Kelantan",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM)\nFriday (10:00AM - 12:30PM, 2:30PM - 10:30PM) |  |     Find out more...",
+    "lat": 4.89209,
+    "lng": 101.97592
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Caltex Bandar Jitra",
+    "address": "Bangunan Stesen Minyak Caltex & Restoran Pandu Lalu, Lot 88, Jalan Bandar Darul Aman – Jitra, 06000 Jitra, Kedah.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 11:30PM) |  |     Find out more...",
+    "lat": 6.25367,
+    "lng": 100.41919
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway SAMA Square",
+    "address": "G-14, Kompleks Sama, No.2, Jalan 1/23C, 53200 Setapak, KL, Wilayah Persekutuan Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.19444,
+    "lng": 101.72041
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway SkyPark Terminal",
+    "address": "Lot No. G32A, Ground Floor, SkyPark Terminal, Lapangan Terbang Sultan Abdul Aziz Shah, 47200 Subang, Selangor.",
+    "opening_hours": " | Monday - Sunday (7:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 3.13307,
+    "lng": 101.55378
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway IOI Mall Puchong",
+    "address": "EF32A, First Floor, IOI Mall Puchong, Jalan Puchong, Bandar Puchong Jaya, 47170 Puchong, Selangor Darul Ehsan.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.04632,
+    "lng": 101.61835
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway RSA Tapah Northbound",
+    "address": "Lot No. TPHNB CL1, Kawasan Rehat Dan Rawat Tapah (Arah Utara) KM 331.8 Lebuhraya Ipoh - Bidor, 35000 Ipoh, Perak.",
+    "opening_hours": " | Monday - Thursday (8:00AM - 10:00PM) | Friday - Sunday / Public Holiday (8:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 4.178255,
+    "lng": 101.290068
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Elmina",
+    "address": "GF-21 Ground Floor, Elmina Lakeside Mall, 47000 Shah Alam, Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.180586,
+    "lng": 101.508738
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Aeon Kota Bharu",
+    "address": "LOT K09,Lembah Sireh, 15050 Kota Bharu,Kelantan Darul Naim.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM)\nThursday (10:00AM - 10:30PM)\nFriday (10:00AM - 12:30PM, 2:30PM - 10:30PM) |  |     Find out more...",
+    "lat": 6.110292,
+    "lng": 102.230799
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway RSA Tapah Southbound",
+    "address": "Lot No. TPHSB CL15, Kawasan Rehat Dan Rawat Tapah (Arah Selatan) KM 331.6 Lebuhraya Ipoh - Bidor, 35000 Ipoh, Perak.",
+    "opening_hours": " | Monday - Thursday (8:00AM - 10:00PM) | Friday - Sunday / Public Holiday (8:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 4.181343,
+    "lng": 101.289498
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway VG Tamarind Square",
+    "address": "P3 & P4, Lot No.03-01 & 03-01A,Village Grocer Tamarind Square,Ground Floor,Tamarind Square,Cyberjaya",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.920705,
+    "lng": 101.637197
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway VSQ",
+    "address": "Stall- Subway @Bacteria, Block 7, Ground Floor, VSQ @ PJ City Centre, Jlan Utara, 46200 Petaling Jaya, Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 6:00PM) |  |     Find out more...",
+    "lat": 3.107196,
+    "lng": 101.639976
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway IPC",
+    "address": "LG1.16, IPC Shopping Centre, No 2, Jalan PJU 7/2, Mutiara Damansara, 47800 Petaling Jaya, Selangor",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.156502,
+    "lng": 101.611129
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Alam Damai DT",
+    "address": "Lot AD-DT01, Alam Damai Layby, Ulu Kelang Bound, KM 6.4, Sg Besi-Ulu Kelang, Elevated Expressway 56000, KL",
+    "opening_hours": " | Monday - Sunday, Open 24 Hours |  |     Find out more...",
+    "lat": 3.075418,
+    "lng": 101.739003
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Monash University",
+    "address": "6B, Level, Monash University Malaysia, Building, 1, Jalan Lagoon Selatan, Bandar Sunway, 47500 Subang Jaya, Selangor",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.063566,
+    "lng": 101.600306
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Petron Bandar Indahpura",
+    "address": "5688, Jalan Matahari 34/10, Bandar Indahpura, 81000 Kulai, Johor Darul Ta'zim",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.650865,
+    "lng": 103.597777
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Rantau Panjang Klang",
+    "address": "No 15 Ground Floor, Jalan Rantau Panjang, 3, KU 4, Rantau Panjang, 42100 Klang, Selangor",
+    "opening_hours": " | Monday - Sunday (7:30AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.070825,
+    "lng": 101.411481
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Miri Airport",
+    "address": "Malaysia Airlines, Lapangan Terbang, 98000 Miri, Sarawak",
+    "opening_hours": " | Monday - Sunday, 6:00 AM - 10:00PM |  |     Find out more...",
+    "lat": 4.324404,
+    "lng": 113.983453
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sunway Big Box",
+    "address": "G-12, Persiaran Medini 5, Sunway City Iskandar Puteri, 79250 Nusajaya, Johor, Malaysia",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.396908,
+    "lng": 103.630679
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Asia Pacific Universiti",
+    "address": "APU Centrepoint @ Level 5, Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.055426,
+    "lng": 101.700559
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bar Council",
+    "address": "Unit G-01A, Ground Floor, Lebuh Pasar Besar, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.147261,
+    "lng": 101.694467
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway KLIA Terminal 1",
+    "address": "FG 10, Food Garden, Level 2, Main Terminal Building (MTB), KLIA Terminal 1, KL International Airport, 64000 Sepang, Selangor.",
+    "opening_hours": " | Monday - Sunday (6:00AM - 12:00AM) |  |     Find out more...",
+    "lat": 2.754299,
+    "lng": 101.704656
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Caltex Nusa Sentral",
+    "address": "11, Jalan Nusa Sentral, Taman Nusa Sentral, 79100 Iskandar Puteri, Johor Darul Ta'zim",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 1.465107,
+    "lng": 103.622963
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Exchange 106",
+    "address": "Unit G.11A, Level G, Menara Exchange 106, Lingkaran TRX, 55188 Tun Razak Exchange, Kuala Lumpur.",
+    "opening_hours": " | Monday - Sunday (7:30 AM - 10:00 PM) |  |     Find out more...",
+    "lat": 3.14191,
+    "lng": 101.718885
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Terminal Bas Gombak (TBG)",
+    "address": "IK2-08 , Level 2 @ GMall Terminal Bersepadu Gombak, Jalan Lingakaran Tengah 2 , Gombak 68100 Batu Caves",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.230223,
+    "lng": 101.725211
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Penang International Airport (PIA)",
+    "address": "Lot L2AR30 & L2A-FB7 At Domestic Departure Airside, Penang International Airport, 11900 Bayan Lepas, Penang",
+    "opening_hours": " | Monday - Sunday (7:00AM - 11:00PM) |  |     Find out more...",
+    "lat": 5.296236,
+    "lng": 100.275209
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Putra Heights",
+    "address": "No 22-G, Jalan Putra Mahkota 7/6A, Putra height, 47650 Subang Jaya",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.995438,
+    "lng": 101.573578
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Caltex Batu Maung",
+    "address": "Caltex Station, No 116 Jalan Permatang Damar Laut, 11900 Bayan Lepas, Pulau Pinang.",
+    "opening_hours": " | Monday - Sunday (7:00AM - 10:00PM)\n\n\n  |  |     Find out more...",
+    "lat": 5.282279,
+    "lng": 100.273737
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Central I City",
+    "address": "LG-K12, Level Lower Ground, Central i-City, Shopping Centre, No 1, Persiaran Multimedia, i-City, Seksyen 7, 40000 Shah Alam, Selangor.",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.062547,
+    "lng": 101.481741
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Cheras Leisure Mall",
+    "address": "Lot G-10&11, Ground Floor, Cheras Leisure Mall, 6, Jalan Manis, Taman Bukit Segar, 56100 Kuala Lumpur.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM)\n  |  |     Find out more...",
+    "lat": 3.088717,
+    "lng": 101.742712
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Citta Mall",
+    "address": "Lot No. G-06, CITTA Mall No. 1 Jalan PJU 1A/48 PJU 1A, Ara Damansara 47301 Petaling Jaya Selangor, Malaysia",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.112369,
+    "lng": 101.579071
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Permata Sapura",
+    "address": "Lot C-13&C-14, Level Concourse, Permata Sapura, Kuala Lumpur City Centre, 50088 Kuala Lumpur.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.153272,
+    "lng": 101.713715
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Lalaport BBCC",
+    "address": "Lot L1-01, First Floor (L1), The Mitsui Shopping Park Lalaport Bukit Bintang City Centre, 2, Jalan hang Tuah, Bukit Bintang, 55100 Kuala Lumpur.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.140958,
+    "lng": 101.708555
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sunway Velocity",
+    "address": "Unit No. B-67, Basement One, Lingkaran Sunway Velocity, Sunway Velocity, 55100 Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (10:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.128032,
+    "lng": 101.724845
+  },
+  {
+    "chain": "Subway",
+    "name": "Centrio Seremban 2",
+    "address": "56,-GF Jln S2 B21, S2 Centrio, Seremban 2, 70300 Seremban, Negeri Sembilan",
+    "opening_hours": " | Monday - Sunday, Open 24 Hours |  |     Find out more...",
+    "lat": 2.692587,
+    "lng": 101.904246
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Sports Arena Sentosa, KL",
+    "address": "Sports Arena Sentosa, Jalan Sri Sentosa 2A, Taman Sri Sentosa, 58000 Kuala Lumpur.",
+    "opening_hours": " | Monday - Sunday (11:00AM - 2:00AM) |  |     Find out more...",
+    "lat": 3.081088,
+    "lng": 101.663271
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Bandar Putera 2 Klang",
+    "address": "No 81(GF), Jalan Kebun Nenas 7A/KS8, Bandar Putera 2, 41200 Klang, Selangor.",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 2.95938,
+    "lng": 101.51827
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Caltex Jalan Tun Razak",
+    "address": "203, Jln Tun Razak, Pudu, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "opening_hours": " | Monday - Sunday (8:00AM - 10:00PM) |  |     Find out more...",
+    "lat": 3.1573,
+    "lng": 101.7205
+  },
+  {
+    "chain": "Subway",
+    "name": "Subway Aeon Rawang",
+    "address": "Lot F26, First Floor, Aeon Mall Rawang, No 1, Persiaran Anggun, Taman Anggun, 48000 Rawang, Selangor",
+    "opening_hours": " | Monday - Sunday, 10:00 AM - 10:00 PM |  |     Find out more...",
+    "lat": 0.0,
+    "lng": 101.53658
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "country": "MY",
+    "chain": "Genki Sushi",
+    "brand_group": "Genki Sushi",
+    "name": "Genki Sushi Sunway Pyramid",
+    "address": "Lot LG 1.109 Lower Ground One, Sunway Pyramid Shopping Mall, No.3 Jalan PJS 11/15 Bandar Sunway 47500 Petaling Jaya, Selangor",
+    "phone": "+6 03 5612 6738",
+    "operating_hours": "10am to 10pm daily",
+    "latitude": null,
+    "longitude": null,
+    "source": "https://www.genkisushi.com.my/locate-us/",
+    "scraped_at": "2025-12-20T07:01:25.916122"
+  },
+  {
+    "country": "MY",
+    "chain": "Genki Sushi",
+    "brand_group": "Genki Sushi",
+    "name": "Genki Sushi Suria KLCC",
+    "address": "Lot 255, Level 2, Suria KLCC,, Kuala Lumpur City Centre,, 50088 Kuala Lumpur",
+    "phone": "+6 03 2181 8227",
+    "operating_hours": "10am to 10pm daily",
+    "latitude": null,
+    "longitude": null,
+    "source": "https://www.genkisushi.com.my/locate-us/",
+    "scraped_at": "2025-12-20T07:01:25.934151"
+  },
+  {
+    "country": "MY",
+    "chain": "Genki Sushi",
+    "brand_group": "Genki Sushi",
+    "name": "Genki Sushi Lot 10 Kuala Lumpur",
+    "address": "F2-F5, Level 1, Lot 10 Shopping Centre,, 50, Jalan Sultan Ismail, 50250 Kuala Lumpur",
+    "phone": "+6 03 2110 3322",
+    "operating_hours": "11am to 10pm (Mon-Fri); 10am to 10pm (Sat-Sun and Public Holiday)",
+    "latitude": null,
+    "longitude": null,
+    "source": "https://www.genkisushi.com.my/locate-us/",
+    "scraped_at": "2025-12-20T07:01:25.948025"
+  },
+  {
+    "country": "MY",
+    "chain": "Genki Sushi",
+    "brand_group": "Genki Sushi",
+    "name": "Genki Sushi Sunway Velocity Mall",
+    "address": "Lot 2-03, Level 2, Sunway Velocity Mall, Lingkaran SV, Sunway Velocity, 55100 Kuala Lumpur",
+    "phone": "+6 03 9202 3030",
+    "operating_hours": "10am to 10pm daily",
+    "latitude": null,
+    "longitude": null,
+    "source": "https://www.genkisushi.com.my/locate-us/",
+    "scraped_at": "2025-12-20T07:01:25.962728"
+  },
+  {
+    "country": "MY",
+    "chain": "Genki Sushi",
+    "brand_group": "Genki Sushi",
+    "name": "Genki Sushi The Gardens Mall",
+    "address": "Lot LG-232A, Lower Ground Floor, The Gardens Mall, Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur",
+    "phone": "+6 010 382 6738",
+    "operating_hours": "10am to 10pm daily",
+    "latitude": null,
+    "longitude": null,
+    "source": "https://www.genkisushi.com.my/locate-us/",
+    "scraped_at": "2025-12-20T07:01:25.975650"
+  },
+  {
+    "country": "MY",
+    "chain": "Genki Sushi",
+    "brand_group": "Genki Sushi",
+    "name": "Genki Sushi AEON Tebrau City",
+    "address": "Lot G132, Ground Floor, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor Darul Ta'zim",
+    "phone": "+6012-818 6738",
+    "operating_hours": "10am to 10pm daily",
+    "latitude": null,
+    "longitude": null,
+    "source": "https://www.genkisushi.com.my/locate-us/",
+    "scraped_at": "2025-12-20T07:01:25.989503"
+  },
+  {
+    "country": "MY",
+    "chain": "Genki Sushi",
+    "brand_group": "Genki Sushi",
+    "name": "Genki Sushi AEON Shah Alam",
+    "address": "Lot G-63, AEON Mall Shah Alam, No 1, Jalan Akuatik 13/64, Seksyen 13, 40100 Shah Alam",
+    "phone": "+6012-380 6738",
+    "operating_hours": "10am to 10pm daily",
+    "latitude": null,
+    "longitude": null,
+    "source": "https://www.genkisushi.com.my/locate-us/",
+    "scraped_at": "2025-12-20T07:01:26.007113"
+  }
+]

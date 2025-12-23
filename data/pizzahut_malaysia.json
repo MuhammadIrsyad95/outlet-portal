@@ -1,0 +1,1098 @@
+[
+  {
+    "name":"PIZZA HUT DELIVERY BANGSAR",
+    "address":"No. 23, Tingkat Bawah, Jalan Bangsar, 59200 Kuala Lumpur",
+    "phone":"0322013974",
+    "opening_hours":"10:30 AM - 12:00 AM",
+    "search_seed":"Kuala Lumpur",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT MID VALLEY MEGAMALL",
+    "address":"T-041 & T-041A,Third Floor Mezzanine, Mid Valley Megamall, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur.",
+    "phone":"0322015818",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Kuala Lumpur",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT PAVILION 2",
+    "address":"Lot No 1.100,1.101& S1.101, Level 1,No 168, Jalan Bukit Bintang, 55100,Kuala Lumpur",
+    "phone":"0321103571",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Kuala Lumpur",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT BERJAYA TIMES SQUARE",
+    "address":"Lot 03-107-02, Berjaya Times Square, No. 1 Jalan Imbi, 55100 Kuala Lumpur",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Kuala Lumpur",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY RAZAK CITY",
+    "address":"A-G-30, Residensi Bandar Razak 1, Jalan Razak Mansion, Sungai Besi ,57100 Kuala Lumpur",
+    "phone":"",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Kuala Lumpur",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT QUILL CITY MALL",
+    "address":"Lot 2-20, Level 2 Quill Mall, Jalan Sultan Ismail, 55100 Kuala Lumpur",
+    "phone":"0326022941",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Kuala Lumpur",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY JALAN IMBI",
+    "address":"No. 143, Ground & 1st Floor, Jalan Imbi, 55100 Kuala Lumpur",
+    "phone":"0392120570",
+    "opening_hours":"10:00 AM - 12:30 PM",
+    "search_seed":"Kuala Lumpur",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT KUCHAI LAMA",
+    "address":"Lot 14083, Jalan Kuchai Lama, 58200 Kuala Lumpur",
+    "phone":"0379860613",
+    "opening_hours":"09:30 AM - 12:00 AM",
+    "search_seed":"Kuala Lumpur",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT MYTOWN MALL",
+    "address":"Lot No 22, Basement 1, 90, Jalan Cochrane, Cheras, 55100 Kuala Lumpur",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Kuala Lumpur",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT AVENUE K",
+    "address":"UC-1, Level Upper Concourse, Avenue K, 156, Jalan Ampang, 50450 Kuala Lumpur",
+    "phone":"0321814409",
+    "opening_hours":"09:30 AM - 10:00 PM",
+    "search_seed":"Kuala Lumpur",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY DAMANSARA JAYA",
+    "address":"Ground Floor No. 5 Jalan SS 22\/19, Damansara Jaya 47400 Petaling Jaya, Selangor",
+    "phone":"0377325710",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Petaling Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TTDI",
+    "address":"No. 45 Ground Floor Jalan 2\/71, Off Jalan Tun Mohd Fuad Taman Tun Dr. Ismail 60000 Kuala Lumpur",
+    "phone":"0377332827",
+    "opening_hours":"09:30 AM - 12:00 AM",
+    "search_seed":"Petaling Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY THE SUITES JAYA ONE",
+    "address":"51-P2, 72A, Block D, The Suites, Jaya One, Jalan Profesor Diraja Ungku Aziz, 46200 Petaling Jaya, Selangor",
+    "phone":"",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Petaling Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY DATARAN SUNWAY",
+    "address":"No.7-1, Ground & First Floors, Jalan PJU 5\/6, Dataran Sunway, 47810 Kota Damansara, Petaling Jaya, Selangor",
+    "phone":"0361445367",
+    "opening_hours":"10:30 AM - 12:00 AM",
+    "search_seed":"Petaling Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY KELANA JAYA",
+    "address":"E-101, Jalan Ss 6\/2, Kelana Parkview, 47301 Petaling Jaya, Selangor",
+    "phone":"",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Petaling Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY ARA DAMANSARA",
+    "address":"No. A-6-17, Jalan PJU 1A\/20A, Dataran Ara Damansara, 47301 Petaling Jaya, Selangor",
+    "phone":"0378596704",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Petaling Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY DAMANSARA PERDANA",
+    "address":"No.5-1, Jalan PJU 8\/5H, Damansara Perdana, 47810 Petaling Jaya, Selangor",
+    "phone":"",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Petaling Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT PJ NEW TOWN",
+    "address":"Lot 60 & 62 Jalan 52\/4, 46200 Petaling Jaya, Selangor",
+    "phone":"0379317759",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Petaling Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SECTION 9 SHAH ALAM (FCD)",
+    "address":"No 17, Jalan Tengku Ampuan Zabedah H 9\/H, Seksyen 9, 40100 Shah Alam, Selangor",
+    "phone":"",
+    "opening_hours":"11:00 AM - 11:00 PM",
+    "search_seed":"Shah Alam",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TESCO SHAH ALAM",
+    "address":"Lot No. 3, Ground Floor Tesco Shah Alam No.3 Jalan Aerobik 13\/43 Seksyen 13 40100 Shah Alam, Selangor",
+    "phone":"0355240155",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Shah Alam",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT SA SEC20",
+    "address":"Ground Floor No.3 Jalan Singa 20\/C Seksyen 20 Shah Alam 40200 Shah Alam, Selangor",
+    "phone":"011-63242525",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Shah Alam",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT SEK 7 SHAH ALAM",
+    "address":"No.1, Lot PT1147 Jalan Plumbum 2 7\/2, Section 7, 40100 Shah Alam, Selangor",
+    "phone":"0355245263",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Shah Alam",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY BUKIT JELUTONG (FCD)",
+    "address":"Lot G-32 & G-33, Radia Bukit Jelutong, Persiaran Tebar Layar, Bukit Jelutong, 40150 Shah Alam, Selangor",
+    "phone":"0377342573",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Shah Alam",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY ALAM AVENUE",
+    "address":"A-5-G, Jalan Serai Wangi F16\/F, Alam Avenue, Seksyen 16, 40200 Shah Alam, Selangor",
+    "phone":"0355231480",
+    "opening_hours":"09:30 AM - 11:00 PM",
+    "search_seed":"Shah Alam",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT I-CITY CENTRAL",
+    "address":"Lot No L3-53 & L3-54 Level 3, Central I-City, 40000 Shah Alam, Selangor",
+    "phone":"0355243128",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Shah Alam",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY DA MEN MALL (FCD)",
+    "address":"Lot LG-17, Lower Ground Floor, Da Men, Persiaran Kewajipan, USJ 1, 47600 Subang Jaya, Selangor",
+    "phone":"03-80814283",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Subang Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY USJ9",
+    "address":"No. 1 Jalan USJ 9\/3F, 47620 Subang Jaya, Selangor",
+    "phone":"0356374752",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Subang Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT SS 15 SUBANG",
+    "address":"49 Jalan SS15\/8A Ground & 1st Floor 47500 Subang Jaya, selangor",
+    "phone":"0356129463",
+    "opening_hours":"09:30 AM - 12:00 AM",
+    "search_seed":"Subang Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT SUNWAY PYRAMID",
+    "address":"Unit Nos. LL2.40 Lower level 2, Sunway Pyramid Shopping Mall, Bandar Sunway 46150 Petaling Jaya, Selangor",
+    "phone":"0356129654",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Subang Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SUNWAY MENTARI",
+    "address":"12, Jalan PJS 8\/2, Mentari Business Park, Bandar Sunway, 46150 Petaling Jaya, Selangor",
+    "phone":"",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Subang Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY PUCHONG JAYA",
+    "address":"No. 11, Ground Floor, Jalan Kenari 22, Bandar Puchong Jaya, 47100 Puchong, Selangor",
+    "phone":"0380824796",
+    "opening_hours":"09:30 AM - 10:00 PM",
+    "search_seed":"Subang Jaya",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY LE PAVILION PUCHONG (FCD)",
+    "address":"C-GF 13 & C-GF 14, Le Pavilion, Jalan Puteri 7\/13, Bandar Puteri, 47100 Puchong, Selangor",
+    "phone":"03-80510708",
+    "opening_hours":"09:30 AM - 12:00 AM",
+    "search_seed":"Puchong",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT GIANT KINRARA",
+    "address":"Lot G18, G19,G24 & G25 Ground Floor Giant Hypermarket Bandar Kinrara, Lot 449, Jalan BK 5A\/1 Bandar Kinrara 47100 Puchong Selangor",
+    "phone":"0380823427",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Puchong",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY PUCHONG UTAMA",
+    "address":"16, Ground Floor Jalan PU 7\/2, Pusat Bandar Puchong Utama, 47160 Puchong, Selangor",
+    "phone":"",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Puchong",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT KAJANG 2",
+    "address":"Lot 35 & 55 Jalan Semenyih, Pekan Kajang 43000, Selangor",
+    "phone":"0387409738",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Kajang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY KAJANG",
+    "address":"Lot No. 2, Ground Floor, Jalan Damai Mewah 1A, Taman Damai Mewah, 43000 Kajang, Selangor",
+    "phone":"0387414096",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Kajang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SAUJANA KAJANG",
+    "address":"No. 56G, Jalan Prima Saujana 1\/1A, Prima Saujana, 43000 Kajang, Selangor",
+    "phone":"0387417468",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Kajang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY JADE HILL",
+    "address":"No 11-1 Jalan Dataran Jade 1,Daratan Jade,Jade Hill,43000 Kajang, Selangor",
+    "phone":"0387413241",
+    "opening_hours":"12:00 PM - 09:00 PM",
+    "search_seed":"Kajang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SRI BANGI",
+    "address":"No. 37, Jalan 8\/35 Seksyen 8, 46350 Bandar Baru Bangi, Selangor",
+    "phone":"0389250479",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Kajang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY BANGI SEKSYEN 3 (FCD)",
+    "address":"N0 45, Jalan 3\/69, Seksyen 3, 43650 Bandar Baru Bangi, Selangor",
+    "phone":"",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Bangi",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY BDR SRI PUTRA",
+    "address":"No. 4, Jalan Sri Putra 1\/1, Bandar Sri Putra, 43000 Kajang, Selangor",
+    "phone":"0389223372",
+    "opening_hours":"09:30 AM - 12:00 AM",
+    "search_seed":"Bangi",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT BANGI",
+    "address":"G.07-08, Ground Floor, Bangi Shopping Centre, Section 1B Jalan Kemajuan, Bandar Baru Bangi 43000 Selangor",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Bangi",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT KLANG OCEAN",
+    "address":"Shop Lot No 19, Ground Floor, Lebuh Tapah, Bandar Klang, 41400 Klang, Selangor",
+    "phone":"0333581659",
+    "opening_hours":"09:30 AM - 11:00 PM",
+    "search_seed":"Klang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TELUK PULAI",
+    "address":"No. 35 GF & 1st Floor, Jalan Teluk Pulai, Teluk Pulai, 41100 Klang Selangor",
+    "phone":"011-63092525",
+    "opening_hours":"09:30 AM - 12:00 AM",
+    "search_seed":"Klang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY PANDAMARAN",
+    "address":"No. 84, Ground Floor, Jalan Batu Unjur 1, Bayu Perdana, 41200 Klang, Selangor",
+    "phone":"",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Klang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT BUKIT TINGGI",
+    "address":"Lot A14, Giant Klang Persiaran Batu Nilam, Bandar Bukit Tinggi Pandamaran 42000 Klang Selangor",
+    "phone":"0333257295",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Klang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY BANDAR BARU KLANG",
+    "address":"No.6, Ground Floor, Jalan Tiara 2, Bandar Baru Klang, 41150 Klang, Selangor",
+    "phone":"0333587162",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Klang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TMN SENTOSA",
+    "address":"Lot 129736, Jalan Dato Yusuf Shahbudin, Taman Sentosa, Klang Selangor",
+    "phone":"0351668064",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Klang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY RAWANG 2",
+    "address":"No 1, Jalan Bandar Rawang 9, Pusat Bandar Rawang, 48000 Rawang, Selangor",
+    "phone":"0360913742",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Rawang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TMN PUTRA",
+    "address":"Ground & First Floors, No. 51 Jalan Bunga Tanjung 6A, Taman Putra 68000, Ampang Selangor",
+    "phone":"0342884230",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Ampang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY BANDAR BARU AMPANG",
+    "address":"No.10, Ground Floor, Jalan Wawasan, Ampang 2\/12, Bandar Baru Ampang, 68000 Ampang, Selangor",
+    "phone":"0342880057",
+    "opening_hours":"09:30 AM - 12:00 AM",
+    "search_seed":"Ampang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY PANDAN JAYA",
+    "address":"No. 34, Ground Floor, Jalan Pandan 3\/2, Pandan Jaya, 55100 Kuala Lumpur",
+    "phone":"0392867939",
+    "opening_hours":"09:30 AM - 12:00 AM",
+    "search_seed":"Ampang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY TAMAN PUTRA SULAIMAN",
+    "address":"No. 9, Ampang Putra Residency, Taman Sulaiman 3, Taman Putra Sulaiman, 68000 Ampang, Selangor",
+    "phone":"0342885164",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Ampang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TESCO AMPANG",
+    "address":"Lot No. 8 at Ground Floor Tesco Hypermarket Ampang Selangor",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Ampang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT AMPANG POINT",
+    "address":"Lot F25D, 1st Floor,Ampang Point Shopping Centre, Jalan Mamanda 3, 68000 Ampang, Selangor",
+    "phone":"0342662625",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Ampang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TMN MALURI",
+    "address":"No. 52 Ground Floor & 1st Floors, Jalan Jejaka Taman Maluri Cheras, 55100 Kuala Lumpur",
+    "phone":"0392267502",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Ampang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT SUNWAY VELOCITY MALL",
+    "address":"Lot 4-91&4-92, 4th Floor Sunway Velocity Mall, Jalan Cheras 56100, Kuala Lumpur",
+    "phone":"0392028076",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Ampang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY TMN CENTURY",
+    "address":"No. 66 Jalan Harimau Tarum, Taman Century, 80250 Johor Bahru, Johor",
+    "phone":"073320678",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Johor Bahru",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT KSL MALL",
+    "address":"Lot No. LG 36, LG Floor KSL City, Lot 11840, Jalan Serigala, Taman Abad, 80250 Johor Bharu, Johor",
+    "phone":"011-63022525",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Johor Bahru",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT JBCC",
+    "address":"Lot 231, Level 2, Komtar JBCC, Jalan Wong Ah Fook, 80000 Johor Bahru, Johor",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Johor Bahru",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT GALLERIA KOTARAYA 2",
+    "address":"LG-02 & 03, Level LG, Galleria@Kotaraya, Jalan Trus, 80000 Johor Bahru, Johor",
+    "phone":"072213293",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Johor Bahru",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT MID VALLEY SOUTHKEY JB",
+    "address":"Lot No. LG-010&011, Lower Ground Floor, Mid Valley Megamall Southkey, Jalan Bakar Batu, 81100 Johor Bahru, Johor",
+    "phone":"073311358",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Johor Bahru",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY TUN AMINAH",
+    "address":"No. 10 & 10A Jalan Nakhoda 2, Taman Ungku Tun Aminah, 81300 Skudai, Johor Darul Takzim",
+    "phone":"",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Skudai",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY ANGGERIK MAS",
+    "address":"No 115 Jalan Anggerik Emas 1, Taman Anggerik Emas, 81200 Johor Bahru, Johor",
+    "phone":"075213401",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Skudai",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT JJ TAMAN U",
+    "address":"Lot LG 16, Lower Ground Floor Jaya Jusco, Taman Universiti Shopping Center, Taman Universiti, 81300 Johor Bahru, Johor",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Skudai",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT PARADIGM MALL JB",
+    "address":"4F - 53, 4th Floor, Paradigm Mall Johor, Lot 32665, Jalan Skudai, 81200 Johor Bahru, Johor",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Skudai",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT MUTIARA MAS",
+    "address":"No. 17 & 19, Jalan Mutiara Mas 1\/2, Off Jalan Gelang Patah, Taman Mutiara Mas, 81300 Skudai, Johor",
+    "phone":"011-65732525",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Skudai",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT NUSA BISTARI",
+    "address":"No. 131 Jalan NB 2 2\/2, Taman Nusa Bestari 2, 81200 Johor Bahru, Johor",
+    "phone":"075568462",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Skudai",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT BUKIT PASIR",
+    "address":"No, 1 Jalan Kundang 1, Taman Bukit Pasir, 83000 Batu Pahat, Johor",
+    "phone":"074325059",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Batu Pahat",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT BATU PAHAT MALL",
+    "address":"G49 & 50 Ground Floor, Batu Pahat Mall, Lot 2566 Jalan Kuang, 83000 Batu Pahat, Johor",
+    "phone":"074377548",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Batu Pahat",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT JLN BAKRI, MUAR",
+    "address":"No.3A, Jalan Pesta Baru, Ground & Mezzanine Floor, Pusat Perniagaan Pesta Baru, Jalan Bakri, 84000 Muar, Johor",
+    "phone":"069501397",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Muar",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY MUAR",
+    "address":"No. 45, Ground Floor, Jalan Bakri, 84000 Muar, Johor",
+    "phone":"069540905",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Muar",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT MUAR",
+    "address":"80 & 82 Jalan Ali Pekan Muar, Johor",
+    "phone":"069593975",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Muar",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT KLUANG",
+    "address":"No. 8F Jalan Dato Haji Hassan, Kluang, 86000 Johor",
+    "phone":"07-7760751",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Kluang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT KLUANG MALL 2",
+    "address":"Lot G-12, Ground Floor, Kluang Mall, Jalan Rambutan, Bandar Kluang, 86000 Kluang, Johor",
+    "phone":"077720748",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Kluang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY BANDAR SERI IMPIAN KLUANG (FCD)",
+    "address":"No. 86, Jalan Seri Impian 1\/1, Taman Seri Impian, 86000 Kluang, Johor.",
+    "phone":"077738055",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Kluang",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT SEGAMAT",
+    "address":"No. 62F & 62 Ground Floor, Jalan Genuang, 85000 Segamat, Johor",
+    "phone":"079332764",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Segamat",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT PERANGIN MALL",
+    "address":"Lot No. G-67 (Ground Floor), Prangin Mall Shopping Complex, Jalan Dr Lim Chwee Leong, 10100 Pulau Pinang",
+    "phone":"042281264",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"George Town",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY VANTAGE POINT",
+    "address":"No. 17-G, Ground Floor, Vantage Point, Jalan Lenggong, 11600 Pulau Pinang",
+    "phone":"042804976",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"George Town",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TESCO PENANG",
+    "address":"Lease No. 1-G-12 Tesco Penang, No. 1 Lebuh Tengku Kudin 1, Bandar Jelutong, 11700 Pulau Pinang",
+    "phone":"046565530",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"George Town",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY GURNEY MALL UTMKL (FCD)",
+    "address":"Lot 1-09, 1-10 & 1-11, Level 1, Gurney Mall, Residensi UTMKL, 54100 Kuala Lumpur",
+    "phone":"0326020896",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Bukit Mertajam",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY JALAN PAHANG",
+    "address":"No. 136, Jalan Pahang, 50300 Kuala Lumpur",
+    "phone":"03-92120559",
+    "opening_hours":"09:30 AM - 01:00 AM",
+    "search_seed":"Bukit Mertajam",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY PETRONAS SUNWAY BKE",
+    "address":"Lot 5494 & 5729 Mukim 1, Petronas Station Sunway BKE, 13700 Seberang Jaya, Pulau Pinang",
+    "phone":"",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Seberang Perai",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT PAUH JAYA",
+    "address":"Lot 1& 3, Ground Floor, Lorong Pauh Jaya 1\/2, Taman Pauh Jaya, 13700 Perai, Pulau Pinang",
+    "phone":"04-384 1879",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Seberang Perai",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT JLN RAJA UDA",
+    "address":"No. 126 & 128 Ground Floor, Jalan Raja Uda, Pusat Perniagaan Raja Uda, 12300 Butterworth, Pulau Pinang",
+    "phone":"043239199",
+    "opening_hours":"09:00 AM - 12:00 AM",
+    "search_seed":"Seberang Perai",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT LAGENDA VILLAGE",
+    "address":"Lot No.G-31,G-32, G-33, Ground Floor Village Mall, Lagenda Heights, 08000 Sg. Petani, Kedah",
+    "phone":"044211104",
+    "opening_hours":"09:00 AM - 11:00 PM",
+    "search_seed":"Sungai Petani",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SG PETANI",
+    "address":"No.21, Jalan Tuanku Hamimah 1, Taman Tianjin Haminah, 08000 Sungai Petani, Kedah",
+    "phone":"044421835",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Sungai Petani",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT GIANT SG PETANI",
+    "address":"Lot A17, A18 & External Area, Giant Hypermarket Sg. Petani, Jln Lencongan Barat, 08000 Sg. Petani, Kedah",
+    "phone":"044300509",
+    "opening_hours":"09:00 AM - 10:00 PM",
+    "search_seed":"Sungai Petani",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY AMANJAYA (FCD)",
+    "address":"Lot 26 & 26, Ground Floor, Amanjaya Mall, Jalan Jati 1, Bandar Amanjaya, 08000 Sungai Petani, Kedah",
+    "phone":"044423009",
+    "opening_hours":"09:00 AM - 10:00 PM",
+    "search_seed":"Sungai Petani",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT AMAN CENTRAL",
+    "address":"Lot 2-23, No 1, Aman Central, Lebuhraya Darul Aman, 05100 Alor Setar, Kedah",
+    "phone":"047309512",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Alor Setar",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT LIMBONG KAPAL",
+    "address":"No 1, Jalan Limbong Kapal, 05000 Alor Setar, Kedah",
+    "phone":"047304178",
+    "opening_hours":"11:00 AM - 11:00 PM",
+    "search_seed":"Alor Setar",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SULTANAH",
+    "address":"No 7, Kompleks Perniagaan Utama Sultanah Sambungan, Jalan Sultanah Sambungan, 05150 Alor Setar, Kedah",
+    "phone":"047347606",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Alor Setar",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY ALOR SETAR",
+    "address":"No. 55, Ground Floor, Kompleks Perniagaan Sultan Abdul Hamid, Persiaran Sultan Abdul Hamid 3, 050550 Alor Setar",
+    "phone":"047949042",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Alor Setar",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TESCO MERGONG",
+    "address":"Lot G22, Ground Floor, Tesco Mergong Alor Setar, No.1, Lebuh Raya Sultanah Bahiyah, 05150 Alor Setar, Kedah",
+    "phone":"04-7334027",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Alor Setar",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT IPOH CENTRAL",
+    "address":"No.69, Jalan Dato Onn Jaafar, 30330 Ipoh Central, Ipoh Perak",
+    "phone":"05-241 1791",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Ipoh",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY AEON BIG FARLIM (FCD)",
+    "address":"AEON Big Midtown Shopping Centre, Lot No. G33, No. 1, Hala Farlim 1, Taman Mas Jaya Farlim, 30200 Ipoh, Perak",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Ipoh",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY ARENA NIAGA SIMEE IPOH",
+    "address":"No 17, Jalan Niaga Simee, Arena Niaga Simee, 31400 Ipoh, Perak",
+    "phone":"",
+    "opening_hours":"11:00 AM - 11:00 PM",
+    "search_seed":"Ipoh",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT IPOH KINTA",
+    "address":"Lot G2 Ground Floor Kinta Shopping Center, No.2 Jalan The Lean Swee Off Jln Sultan Azlan Shah Utara 31400 Ipoh Perak",
+    "phone":"055417076",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Ipoh",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TAIPING",
+    "address":"No. 99 & 101 (Ground & First Floors), Jalan Kota, 34000 Taiping, Perak",
+    "phone":"058048130",
+    "opening_hours":"11:00 AM - 10:30 PM",
+    "search_seed":"Taiping",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY KAMUNTING",
+    "address":"No.35, Medan Saujana, Jalan Kamunting Maju, Bandar Kamunting, 34600 Taiping, Perak",
+    "phone":"",
+    "opening_hours":"10:30 AM - 10:00 PM",
+    "search_seed":"Taiping",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TELUK INTAN",
+    "address":"No 11 & 13, Jalan Intan 1, Bandar Baru, 36000 Teluk Intan, Perak",
+    "phone":"056218707",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Teluk Intan",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT AEON SERI MANJUNG",
+    "address":"Lot G57, Ground Floor, AEON Seri Manjung Shopping Centre, Pusat Perniagaan Point 3, 32040 Seri Manjung, Perak",
+    "phone":"056882231",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Manjung",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT SITIAWAN",
+    "address":"Ground Floors of Plots No. 6 & 7, Jalan Lumut, 32000 Sitiawan, Perak",
+    "phone":"056932658",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Manjung",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SEREMBAN",
+    "address":"No. 10-GF Jalan Tunku Hassan, 70000 Seremban, Negeri Sembilan",
+    "phone":"067655319",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Seremban",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT CENTER POINT SEREMBAN",
+    "address":"G-18, Center Point Seremban, No 33, Jalan Dato' Siamang Gagap, Betaria Business Center, 70100 Seremban, Negeri Sembilan",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Seremban",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SIKAMAT",
+    "address":"228 & 228-1, Lorong Taman Seri Pandan 8\/1, Taman Seri Pandan 2, 70400 Seremban, Negeri Sembilan.",
+    "phone":"066020025",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Seremban",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT JUSCO SEREMBAN 2",
+    "address":"Lot G47 Ground Floor, Jaya Jusco Seremban 2 Shopping Centre, 112 Persiaran S2 B1 Seremban 2, 70300 Seremban Negeri Sembilan",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Seremban",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT NILAI",
+    "address":"PT12155 (corner lot) & PT12156 (intermediate lot), Jalan BBN 1\/1F Putra Point Phase 2B, Bandar Baru Nilai, 71800 Nilai Negeri Sembilan",
+    "phone":"067340010",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Nilai",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY NILAI",
+    "address":"No. PT 9267 Jalan TS Utama 3, Taman Semarak 2, 71800 Nilai, Negeri Sembilan",
+    "phone":"067996478",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Nilai",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT PD WATER FRONT",
+    "address":"No. 16-G7, 16-1, Ground & 1st Floor, Jalan Waterfront 5, PD Waterfront, 71000 Port Dickson, Negeri Sembilan",
+    "phone":"066464230",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Port Dickson",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT MAHKOTA PARADE",
+    "address":"Lot 23A, Ground Floor, No 1, Jalan Merdeka, 75000 Melaka",
+    "phone":"062817409",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Melaka",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT DIGITAL MALL",
+    "address":"Unit No.01-21, Level 1, KMA Digital Mall, Lot 897, Jalan Hang Tuah, 75300 Melaka",
+    "phone":"062700603",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Melaka",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SEMABOK",
+    "address":"No 5, Ground Floor, Jalan SE 1, Taman Semabok Emas, 75050 Melaka",
+    "phone":"062679633",
+    "opening_hours":"10:00 AM - 12:00 AM",
+    "search_seed":"Melaka",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT KUANTAN CITY MALL",
+    "address":"Level 1-13,13A Kuantan City Mall, Jalan Putra Square 6\/1, Putra Square, 25300 Kuantan Pahang",
+    "phone":"095315036",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Kuantan",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY BESERAH",
+    "address":"No. A6614, Ground Floor, Taman Metro, Jalan Beserah, 25300 Kuantan, Pahang",
+    "phone":"",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Kuantan",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT KUANTAN PARADE",
+    "address":"Lot G23 Ground Floor, Kuantan Parade Jalan HJ ABD. Rahman, 25000 Kuantan, Pahang",
+    "phone":"095315024",
+    "opening_hours":"11:00 AM - 10:00 PM",
+    "search_seed":"Kuantan",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT GIANT KUANTAN",
+    "address":"Lots A1, Giant Kuantan Lot 5197,Jalan Tanah Putih Seksyen 124, Mukim Kuala Kuantan, 25100 Kuantan, Pahang",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Kuantan",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY INDERA MAHKOTA",
+    "address":"No. B34, Ground Floor, Lorong IM 5\/2, Taman Seri Mahkota, Bandar Indera Mahkota, 25200 Kuantan, Pahang",
+    "phone":"",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Kuantan",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TEMERLOH",
+    "address":"No. 9 & No.11 Ground Floor, Jalan Sudirman, Bandar Baru Semantan, 28000 Temerloh, Pahang",
+    "phone":"092909310",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Temerloh",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT KOTA TINGGI",
+    "address":"No. 1 & 1-1 & No. 3 & 3-1 Jalan Niaga, Pusat Perdagangan Jalan Mawai 81900 Kota Tinggi, Johor",
+    "phone":"07-8827584",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Kota Kinabalu",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SANDAKAN PRIMA",
+    "address":"No 224, Block 24, Ground Floor, Prima Square, Jalan Utara, Sandakan",
+    "phone":"089465466",
+    "opening_hours":"10:30 AM - 12:00 AM",
+    "search_seed":"Sandakan",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT BANDAR KIM FUNG SANDAKAN",
+    "address":"Lot 22 Block B,Bandar Pasaraya,Jalan utara,mile 4 Bandar Pasaraya,90000 Sandakan Sabah",
+    "phone":"089214975",
+    "opening_hours":"10:00 AM - 11:00 PM",
+    "search_seed":"Sandakan",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT GIANT SANDAKAN",
+    "address":"Lot A18-20 , Jalan Ijm Bandar Utama, Giant Hypermarket 90000 Sandakan, Sabah",
+    "phone":"",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Sandakan",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SEJATI WALK, SANDAKAN (FCD)",
+    "address":"G-B-093 & G-B093A, Jalan Merpati, Mile 7, Off Jalan Airport, 90000 Sandakan, Sabah",
+    "phone":"089674307",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Sandakan",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TAWAU",
+    "address":"Ground Floor, No. 271, Lot 5, Block 28 Fajar Complex, 91000 Tawau Sabah",
+    "phone":"089762722",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Tawau",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT KUHARA TAWAU",
+    "address":"Existing Shoplot No 14, 15 & 16 (Adjoining), Ground Floor, Taipan Kuhara, 91000 Tawau, Sabah",
+    "phone":"089714812",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Tawau",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT ARENA TAWAU",
+    "address":"Ground Floor of Shoplot No. C2 & C3 1 Arena, Pusat Commercial BDC KM 5, Jalan Datuk Chong Thien Vun 91007 Tawau , Sabah",
+    "phone":"089763934",
+    "opening_hours":"10:00 AM - 10:30 PM",
+    "search_seed":"Tawau",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT PLZ SARAWAK",
+    "address":"Ground Floor, Sarawak Plaza, Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak",
+    "phone":"082-268047",
+    "opening_hours":"10:30 AM - 10:30 PM",
+    "search_seed":"Kuching",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT SATOK",
+    "address":"Lot 285 Section 10, KLTD Jalan Satok, 93450 Kuching, Sarawak",
+    "phone":"082-597390",
+    "opening_hours":"10:30 AM - 12:00 AM",
+    "search_seed":"Kuching",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT BAKO",
+    "address":"Lot 1165, Block 119, Medan Hamidah Jalan Bako, Salak Land District, 93050 Kuching, Sarawak",
+    "phone":"082-268048",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Kuching",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT ROCK ROAD",
+    "address":"First Floor Lot 2678 Block 10, 2 1\/2 Mile Rock Road, Kuching, Sarawak",
+    "phone":"082549371",
+    "opening_hours":"10:30 AM - 10:30 PM",
+    "search_seed":"Kuching",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT AEON MALL KUCHING CENTRAL",
+    "address":"Lot S07, 2nd floor , AEON MALL Kuching Central, No:88, Jalan Datuk Patinggi Haji Ahmad Adruce, 93200 Kuching, Sarawak",
+    "phone":"082547165",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Kuching",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT TABUAN HEIGHT",
+    "address":"Lot 47 Tabuan Heights, Commercial Centre, Tabuan Jaya, 93350 Kuching, Sarawak",
+    "phone":"082361792",
+    "opening_hours":"10:30 AM - 12:00 AM",
+    "search_seed":"Kuching",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT BINTANG PLAZA",
+    "address":"Lot 1219, Block 9, New Wing, Bintang Megamall, 98000 Miri, Sarawak",
+    "phone":"011-23479587",
+    "opening_hours":"10:00 AM - 10:00 PM",
+    "search_seed":"Miri",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT RESTAURANT PERMY JAYA",
+    "address":"Phase 2 Lot 3241, Sublot 19 Lot 11, Kuala Baram Land District, Pusat Bandar Permy Jaya, 98000 Miri, Sarawak",
+    "phone":"085-451016",
+    "opening_hours":"10:30 AM - 12:00 AM",
+    "search_seed":"Miri",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY SK ONE BINTULU (FCD)",
+    "address":"Sk One Strata Commercial Shops, Block B-L1-18 & B-L1-19, Level 1, 97000 Bintulu, Sarawak",
+    "phone":"",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Bintulu",
+    "brand":"Pizza Hut"
+  },
+  {
+    "name":"PIZZA HUT DELIVERY MEDAN JAYA, SARAWAK (FCD)",
+    "address":"Lot 3648 & 3649 Block 31, Ground Floor, Kemena Land District, Jalan Kidurong\/Jalan Sultan Iskandar, 97000 Bintulu, Sarawak",
+    "phone":"",
+    "opening_hours":"10:30 AM - 11:00 PM",
+    "search_seed":"Bintulu",
+    "brand":"Pizza Hut"
+  }
+]
