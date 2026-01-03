@@ -1,33 +1,31 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
-
 import { prisma } from "@/lib/prisma"
-import { adapt99Speedmart } from "@/adapters/99speedmart"
-import { adapt7Eleven } from "@/adapters/7eleven"
+import { adapters } from "@/adapters"
 
 export async function importLocations() {
-  const allData = [
-    ...adapt99Speedmart(),
-    ...adapt7Eleven(),
-  ]
+  console.log("🚀 Starting import...")
 
-  if (allData.length === 0) return
+  const allData = adapters.flatMap(fn => fn())
 
-  // ambil daftar chain unik
-  const chains = Array.from(new Set(allData.map(d => d.chain)))
-
-  // hapus hanya chain yg akan di-import ulang
-  await prisma.location.deleteMany({
-    where: {
-      chain: { in: chains },
-    },
-  })
-
-  // insert satu per satu (aman utk Prisma versi kamu)
-  for (const row of allData) {
-    await prisma.location.create({
-      data: row,
-    })
+  if (!allData.length) {
+    console.log("No data to import")
+    return
   }
 
-  console.log("Imported:", allData.length, "chains:", chains)
+  const chains = [...new Set(allData.map(d => d.chain))]
+
+  // hapus data lama per chain
+  await prisma.location.deleteMany({
+    where: { chain: { in: chains } },
+  })
+
+  // 🚀 INSERT VIA TRANSACTION (TANPA geo_status)
+  await prisma.$transaction(
+    allData.map(({ geo_status, ...row }) =>
+      prisma.location.create({
+        data: row,
+      })
+    )
+  )
+
+  console.log(`✅ Imported ${allData.length} locations`)
 }

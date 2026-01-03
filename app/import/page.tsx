@@ -1,8 +1,6 @@
-export const runtime = "nodejs"
-
 import { importLocations } from "@/lib/importLocations"
 
-export default async function Page() {
+export default async function ImportPage() {
   await importLocations()
-  return <h1>IMPORT OK</h1>
+  return <h1>Import completed</h1>
 }
