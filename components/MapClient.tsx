@@ -2,6 +2,8 @@
 
 import { useEffect, useState } from "react"
 import type { LatLngExpression } from "leaflet"
+import FixMapSize from "./FixMapSize"
+import MapLegend from "./MapLegend"
 
 type Location = {
   id: number
@@ -54,7 +56,8 @@ export default function MapClient() {
         center={center}
         zoom={6}
         style={{ height: "100%", width: "100%" }}
-      >
+      > 
+      
         <TileLayer
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           attribution="&copy; OpenStreetMap contributors"
@@ -81,43 +84,11 @@ export default function MapClient() {
                 </CircleMarker>
           ) : null
         )}
+          <MapLegend chains={chains} getColor={stringToColor} />
+
       </MapContainer>
 
-      {/* LEGEND */}
-      <div
-        style={{
-          position: "absolute",
-          bottom: 20,
-          left: 20,
-          background: "white",
-          padding: "10px",
-          borderRadius: "6px",
-          maxHeight: "220px",
-          overflowY: "auto",
-          fontSize: "12px",
-          boxShadow: "0 2px 6px rgba(0,0,0,0.15)",
-        }}
-      >
-        <strong>Chains</strong>
-        {chains.map(chain => (
-          <div
-            key={chain}
-            style={{ display: "flex", alignItems: "center", marginTop: 4 }}
-          >
-            <span
-              style={{
-                width: 10,
-                height: 10,
-                background: stringToColor(chain),
-                display: "inline-block",
-                marginRight: 6,
-                borderRadius: "50%",
-              }}
-            />
-            {chain}
-          </div>
-        ))}
-      </div>
+ 
     </div>
   )
 }
