@@ -7,25 +7,26 @@ export async function importLocations() {
   const allData = adapters.flatMap(fn => fn())
 
   if (!allData.length) {
-    console.log("No data to import")
+    console.log("❌ No data to import")
     return
   }
 
   const chains = [...new Set(allData.map(d => d.chain))]
+
+  console.log(`📦 Chains: ${chains.length}`)
+  console.log(`📍 Total records: ${allData.length}`)
 
   // hapus data lama per chain
   await prisma.location.deleteMany({
     where: { chain: { in: chains } },
   })
 
-  // 🚀 INSERT VIA TRANSACTION (TANPA geo_status)
+  // insert data
   await prisma.$transaction(
     allData.map(({ geo_status, ...row }) =>
-      prisma.location.create({
-        data: row,
-      })
+      prisma.location.create({ data: row })
     )
   )
 
-  console.log(`✅ Imported ${allData.length} locations`)
+  console.log("✅ Import completed")
 }
