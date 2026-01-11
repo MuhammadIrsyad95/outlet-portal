@@ -1,7 +1,7 @@
 import type { Metadata } from "next"
 import { Geist, Geist_Mono } from "next/font/google"
 import "./globals.css"
-import Link from "next/link"
+import Navbar from "@/components/Navbar"
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -31,26 +31,8 @@ export default function RootLayout({
           href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         />
       </head>
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-zinc-100`}
-      >
-        {/* NAVBAR */}
-        <header className="bg-white border-b">
-          <div className="max-w-7xl mx-auto px-6 h-14 flex items-center justify-between">
-            <div className="font-semibold text-lg">
-              Outlet Portal
-            </div>
-            <nav className="flex gap-6 text-sm">
-              <Link href="/" className="hover:underline">
-                Home
-              </Link>
-              <Link href="/map" className="hover:underline">
-                Map
-              </Link>
-            </nav>
-          </div>
-        </header>
-
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased bg-zinc-100`}>
+        <Navbar />
         {children}
       </body>
     </html>

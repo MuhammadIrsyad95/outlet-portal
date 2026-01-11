@@ -1,19 +1,38 @@
 "use client"
 
-export const dynamic = "force-dynamic"
+import { useEffect, useState } from "react"
 
 export default function Page() {
-  async function runImport() {
-    await fetch("/api/import", { method: "POST" })
-    alert("Import finished")
-  }
+  const [status, setStatus] = useState("Running...")
+
+  useEffect(() => {
+    async function run() {
+      try {
+        const res = await fetch("/api/import", {
+          method: "POST",
+        })
+
+        if (!res.ok) {
+          throw new Error("API error: " + res.status)
+        }
+
+        const data = await res.json()
+        console.log("API RESPONSE:", data)
+
+        setStatus("Import finished")
+      } catch (err) {
+        console.error("FETCH FAILED:", err)
+        setStatus("Import failed ❌ (check console)")
+      }
+    }
+
+    run()
+  }, [])
 
   return (
     <div style={{ padding: 20 }}>
       <h1>Import Data</h1>
-      <button onClick={runImport}>
-        Run Import
-      </button>
+      <p>Status: {status}</p>
     </div>
   )
 }
