@@ -27,6 +27,7 @@ export default function MapLegend({ chains, getColor }: Props) {
       div.style.overflowY = "auto"
       div.style.fontSize = "12px"
       div.style.boxShadow = "0 2px 6px rgba(0,0,0,0.15)"
+      div.style.marginBottom = "80px"
 
       div.innerHTML = `<strong>Chains</strong><br/>`
 
